@@ -1,0 +1,197 @@
+code_type	code_group	code	term
+medcode	comorb_ulcer_med	512081010	Foot ulcer
+medcode	comorb_ulcer_med	779881000006110	Infection toe
+medcode	comorb_ulcer_med	440973016	Infection toe
+medcode	comorb_ulcer_med	440974010	Infection foot
+medcode	comorb_ulcer_med	780401000006116	Infection foot
+medcode	comorb_ulcer_med	309179013	Neuropathic diabetic ulcer - foot
+medcode	comorb_ulcer_med	309180011	Mixed diabetic ulcer - foot
+medcode	comorb_ulcer_med	309177010	Ischaemic ulcer diabetic foot
+medcode	comorb_ulcer_med	405854015	"Blister of foot, infected"
+medcode	comorb_ulcer_med	5873501000006115	Infection of foot
+medcode	comorb_ulcer_med	443199013	Ischaemic foot
+medcode	comorb_ulcer_med	498448012	Neuropathic foot ulcer
+medcode	comorb_ulcer_med	5873481000006113	Infection of toe
+medcode	comorb_ulcer_med	516121000006116	"Traumatic blister of foot, infected"
+medcode	comorb_ulcer_med	6348911000006117	Diabetic foot ulcer
+medcode	comorb_ulcer_med	4055181000006114	Ulcer of foot
+medcode	comorb_ulcer_med	311813012	Acute osteomyelitis-phalanx of toe
+medcode	comorb_ulcer_med	359767013	Foot - acute osteomyelitis
+medcode	comorb_ulcer_med	311811014	Acute osteomyelitis of foot
+medcode	comorb_ulcer_med	359772016	Foot - chronic osteomyelitis
+medcode	comorb_ulcer_med	5989191000006119	Infection of big toe
+medcode	comorb_ulcer_med	13790061000006119	Neuropathic ulcer of foot due to diabetes mellitus
+medcode	comorb_ulcer_med	5888071000006117	Ulcer of toe
+medcode	comorb_ulcer_med	3466131000006115	Perforating ulcer of the foot
+medcode	comorb_ulcer_med	311809017	Acute osteomyelitis-calcaneum
+medcode	comorb_ulcer_med	311812019	Acute osteomyelitis-metatarsal
+medcode	comorb_ulcer_med	311887017	Infection of phalanx of toe
+medcode	comorb_ulcer_med	308285018	Pulp space infection of toe
+medcode	comorb_ulcer_med	5886711000006111	Ischaemia of feet
+medcode	comorb_ulcer_med	6021731000006115	Critical ischaemia of foot
+medcode	comorb_ulcer_med	5126451000006116	Ischaemic foot ulcer
+medcode	comorb_ulcer_med	5126491000006110	Neuroischaemic foot ulcer
+medcode	comorb_ulcer_med	5144001000006119	Chronic osteomyelitis of foot
+medcode	comorb_ulcer_med	5521771000006116	"Traumatic blister of toe, infected"
+medcode	comorb_ulcer_med	3128017	Carbuncle of heel
+medcode	comorb_ulcer_med	286570019	Gas gangrene-foot
+medcode	comorb_ulcer_med	311886014	Infection of metatarsal
+medcode	comorb_ulcer_med	14071551000006111	Ischaemic ulcer of foot due to diabetes mellitus
+medcode	comorb_ulcer_med	5888081000006119	Ulcer of heel
+medcode	comorb_ulcer_med	13919651000006113	Ulcer of heel due to atherosclerosis of artery of lower limb
+medcode	comorb_ulcer_med	5981271000006114	Ulcer of big toe
+medcode	comorb_ulcer_med	311810010	Acute osteomyelitis-talus
+medcode	comorb_ulcer_med	5121241000006114	Infection of toe web
+medcode	comorb_ulcer_med	8452811000006114	Osteomyelitis of right foot
+medcode	comorb_ulcer_med	7103391000006115	Chronic ulcer of foot
+medcode	comorb_ulcer_med	5989201000006116	Infection of great toe
+medcode	comorb_ulcer_med	311884012	Infection of talus
+medcode	comorb_ulcer_med	9315571000006114	Infection of toenail
+medcode	comorb_ulcer_med	8452791000006110	Osteomyelitis of left foot
+medcode	comorb_ulcer_med	5887461000006116	Skin ulcer of dorsum of foot
+medcode	comorb_ulcer_med	3756511000006116	Furuncle of toe
+medcode	comorb_ulcer_med	9310731000006111	Chronic ulcer of heel
+medcode	comorb_ulcer_med	6021741000006113	Critical ischemia of foot
+medcode	comorb_ulcer_med	5898341000006114	Ischemic foot
+medcode	comorb_ulcer_med	4818711000006118	Acute osteomyelitis of calcaneum
+medcode	comorb_ulcer_med	7969001000006112	Foot ulcer due to type 2 diabetes mellitus
+medcode	comorb_ulcer_med	4818771000006110	Acute osteomyelitis of phalanx of toe
+medcode	comorb_ulcer_med	14095251000006116	Neuropathic ulcer of toe due to type 2 diabetes mellitus
+medcode	comorb_ulcer_med	7108391000006114	Ischaemic ulcer of toe
+medcode	comorb_ulcer_med	13917091000006117	Neuropathic ulcer of heel due to type 2 diabetes mellitus
+medcode	comorb_ulcer_med	5981281000006112	Ulcer of great toe
+medcode	comorb_ulcer_med	7128761000006114	Chronic ulcer of toe
+medcode	comorb_ulcer_med	14002121000006112	Infected abrasion of left foot
+medcode	comorb_ulcer_med	14095271000006114	Neuropathic ulcer of foot due to type 2 diabetes mellitus
+medcode	comorb_ulcer_med	7597921000006119	Osteomyelitis of forefoot
+medcode	comorb_ulcer_med	4818751000006117	Acute osteomyelitis of metatarsal
+medcode	comorb_ulcer_med	8044221000006116	Ischaemic foot ulcer due to type 2 diabetes mellitus
+medcode	comorb_ulcer_med	7108401000006111	Ischemic ulcer of toe
+medcode	comorb_ulcer_med	13931401000006116	Ulcer of left foot
+medcode	comorb_ulcer_med	13931411000006118	Ulcer of right foot
+medcode	comorb_ulcer_med	8026041000006113	Forefoot ulcer due to type 2 diabetes mellitus
+medcode	comorb_ulcer_med	5126461000006119	Ischemic foot ulcer
+medcode	comorb_ulcer_med	8044171000006110	Neuropathic toe ulcer due to type 2 diabetes mellitus
+medcode	comorb_ulcer_med	9313691000006110	Ulcer of midfoot
+medcode	comorb_ulcer_med	8044181000006113	Ulcer of toe due to type 2 diabetes mellitus
+medcode	comorb_ulcer_med	8452451000006112	Acute osteomyelitis of left foot
+medcode	comorb_ulcer_med	8452421000006115	Acute osteomyelitis of right foot
+medcode	comorb_ulcer_med	9313441000006115	Diabetes type 2 with diabetic ulcer of left foot
+medcode	comorb_ulcer_med	9313421000006110	Diabetic ulcer of left foot due to diabetes mellitus type 2
+medcode	comorb_ulcer_med	4741891000006116	Gas gangrene of foot
+medcode	comorb_ulcer_med	14004321000006115	Infected abrasion of left great toe
+medcode	comorb_ulcer_med	14004281000006114	Infected abrasion of right great toe
+medcode	comorb_ulcer_med	14004311000006111	Infected abrasion of skin of left great toe
+medcode	comorb_ulcer_med	4807571000006117	Ischemic ulcer diabetic foot
+medcode	comorb_ulcer_med	7535141000006113	Osteomyelitis of hindfoot
+medcode	comorb_ulcer_med	13953211000006119	Ulcer of left foot due to diabetes mellitus
+medcode	comorb_ulcer_med	357890015	Leg ulcer
+medcode	comorb_ulcer_med	399941017	Non-pressure ulcer lower limb
+medcode	comorb_ulcer_med	4055151000006118	Ulcer of lower extremity
+medcode	comorb_ulcer_med	908891000006119	[RFC] Leg ulcer - venous
+medcode	comorb_ulcer_med	914591000006113	Venous ulcer of leg
+medcode	comorb_ulcer_med	909541000006117	[RFC] Leg ulcer
+medcode	comorb_ulcer_med	1488395018	O/E - Right diabetic foot - ulcerated
+medcode	comorb_ulcer_med	295401000000113	Assessment of lower limb ulcer
+medcode	comorb_ulcer_med	1488396017	O/E - Left diabetic foot - ulcerated
+medcode	comorb_ulcer_med	357894012	Arterial leg ulcer
+medcode	comorb_ulcer_med	451404016	O/E - Right foot ulcer
+medcode	comorb_ulcer_med	908911000006117	[RFC] Leg ulcer - both arterial & venous
+medcode	comorb_ulcer_med	451405015	O/E - Left foot ulcer
+medcode	comorb_ulcer_med	2153151000000114	Recurrent leg ulcer
+medcode	comorb_ulcer_med	908901000006115	[RFC] Leg ulcer - arterial
+medcode	comorb_ulcer_med	357895013	Ischaemic leg ulcer
+medcode	comorb_ulcer_med	910501000006113	[RFC] Diabetic foot ulcer
+medcode	comorb_ulcer_med	2152971000000114	Non-healing leg ulcer
+medcode	comorb_ulcer_med	5126401000006115	Mixed arteriovenous leg ulcer
+medcode	comorb_ulcer_med	1715091000000116	H/O: foot ulcer
+medcode	comorb_ulcer_med	311832018	Chronic osteomyelitis of the lower leg
+medcode	comorb_ulcer_med	400321010	Acute osteomyelitis of the ankle and foot
+medcode	comorb_ulcer_med	311785016	Acute osteomyelitis of the lower leg
+medcode	comorb_ulcer_med	400323013	Chronic osteomyelitis of the ankle and foot
+medcode	comorb_ulcer_med	906671000006115	[RFC] Leg ulcer
+medcode	comorb_ulcer_med	931941000006116	Leg ulcer
+medcode	comorb_ulcer_med	906711000006116	[RFC] Diabetic foot/leg ulcer
+medcode	comorb_ulcer_med	910491000006117	[RFC] Diabetic leg ulcer
+medcode	comorb_ulcer_med	908411000006114	[RFC] Leg ulcer of mixed aetiology
+medcode	comorb_ulcer_med	748661000006111	Left Foot Active Ulceration
+medcode	comorb_ulcer_med	2014951000006115	New diabetic foot ulcer
+medcode	comorb_ulcer_med	311862012	Osteomyelitis of ankle AND/OR foot
+medcode	comorb_ulcer_med	163041000006111	Right Foot Active Ulceration
+medcode	comorb_ulcer_med	3085761000006110	Chronic trophic ulcer of leg
+medcode	comorb_ulcer_med	292579018	Type 2 diabetes mellitus with ulcer
+medcode	comorb_ulcer_med	4055161000006116	Ulcer of lower limb
+medcode	comorb_ulcer_med	7684151000006114	Ulcer of skin of lower extremity
+medcode	comorb_ulcer_med	2532976019	O/E - left chronic diabetic foot ulcer
+medcode	comorb_ulcer_med	311861017	Unspecified osteomyelitis of the lower leg
+medcode	comorb_ulcer_med	2532977011	O/E - right chronic diabetic foot ulcer
+medcode	comorb_ulcer_med	892181000006116	Chr.osteomyelitis - ankle/foot
+medcode	comorb_ulcer_med	13832391000006118	Infection of foot due to diabetes mellitus
+medcode	comorb_ulcer_med	486094011	Neurogenic leg ulcer
+medcode	comorb_ulcer_med	2232441000000113	H/O: arterial lower limb ulcer
+medcode	comorb_ulcer_med	892271000006114	Osteomyelitis NOS - ankle/foot
+medcode	comorb_ulcer_med	8304041000006111	Arterial lower limb ulcer
+medcode	comorb_ulcer_med	3085751000006113	Chronic trophic ulcer of lower limb
+medcode	comorb_ulcer_med	280551000006114	Non-insulin-dependent diabetes mellitus with ulcer
+medcode	comorb_ulcer_med	1776781000006112	Reason for referral: Leg Ulcer
+medcode	comorb_ulcer_med	4818881000006115	Chronic osteomyelitis of lower leg
+medcode	comorb_ulcer_med	8438971000006113	Complex venous leg ulcer
+medcode	comorb_ulcer_med	856661000006112	Left diabetic foot active ulceration
+medcode	comorb_ulcer_med	1724321000006115	Neuropathic foot ulcer
+medcode	comorb_ulcer_med	4943201000006119	Pressure ulcer of heel
+medcode	comorb_ulcer_med	857691000006119	Right diabetic foot active ulceration
+medcode	comorb_ulcer_med	4818311000006119	Acute osteomyelitis of lower leg
+medcode	comorb_ulcer_med	3067511000006111	Neuropathic leg ulcer
+medcode	comorb_ulcer_med	913591000006110	Skin ulcer associated with diabetes mellitus
+medcode	comorb_ulcer_med	14084121000006118	Skin ulcer due to diabetes mellitus
+medcode	comorb_ulcer_med	88521000006110	Trophic leg ulcer
+medcode	comorb_ulcer_med	8214981000006113	Superficial ulcer of lower limb
+medcode	comorb_ulcer_med	84631000006119	Type 2 diabetes mellitus with ulcer
+medcode	comorb_ulcer_med	8304081000006117	Wagner ulcer classification grade 1 foot ulcer
+medcode	comorb_ulcer_med	235331000006114	"Periostitis without osteomyelitis, of the ankle and foot"
+medcode	comorb_ulcer_med	8304071000006115	Wagner ulcer classification grade 0 foot ulcer
+medcode	comorb_ulcer_med	5502861000006117	Chronic osteomyelitis of ankle and/or foot
+medcode	comorb_ulcer_med	85001000006117	Type II diabetes mellitus with ulcer
+medcode	comorb_ulcer_med	5502821000006111	Acute osteomyelitis of ankle and/or foot
+medcode	comorb_ulcer_med	292581016	Type II diabetes mellitus with ulcer
+medcode	comorb_ulcer_med	3067481000006115	Chronic neurogenic ulcer of lower limb
+medcode	comorb_ulcer_med	6931861000006110	Infection of foot associated with diabetes
+medcode	comorb_ulcer_med	7684161000006111	Ulcer of skin of lower limb
+medcode	comorb_ulcer_med	8284541000006112	Assessment of lower leg ulcer
+medcode	comorb_ulcer_med	9311451000006119	Chronic ulcer of skin of lower leg
+medcode	comorb_ulcer_med	8304091000006119	Wagner ulcer classification grade 2 foot ulcer
+medcode	comorb_ulcer_med	6985411000006117	Diabetic skin ulcer
+medcode	comorb_ulcer_med	2926851000006118	Chronic ulcer of lower limb
+medcode	comorb_ulcer_med	13919691000006119	Ulcer of ankle due to atherosclerosis of artery of lower limb
+medcode	comorb_ulcer_med	989231000006113	Varicose ulcer of leg
+medcode	comorb_ulcer_med	8304101000006113	Wagner ulcer classification grade 3 foot ulcer
+medcode	comorb_ulcer_med	8287891000006112	European pressure ulcer advisory panel grade of pressure ulcer of right foot
+medcode	comorb_ulcer_med	8256451000006110	EPUAP (European pressure ulcer advisory panel) grade 1 ulcer right foot
+medcode	comorb_ulcer_med	8256461000006112	EPUAP (European pressure ulcer advisory panel) grade 2 ulcer left foot
+medcode	comorb_ulcer_med	8287921000006118	European pressure ulcer advisory panel grade of pressure ulcer of left foot
+medcode	comorb_ulcer_med	8256491000006116	EPUAP (European pressure ulcer advisory panel) grade 2 ulcer right foot
+medcode	comorb_ulcer_med	8256441000006113	EPUAP (European pressure ulcer advisory panel) grade 1 ulcer left foot
+medcode	comorb_ulcer_med	3627911000006115	Varicose veins of lower extremity with ulcer AND inflammation
+medcode	comorb_ulcer_med	14515081000006116	EPUAP (European pressure ulcer advisory panel) category II ulcer left foot
+medcode	comorb_ulcer_med	8256531000006116	EPUAP (European pressure ulcer advisory panel) grade 3 ulcer right foot
+medcode	comorb_ulcer_med	5126441000006118	Ischemic leg ulcer
+medcode	comorb_ulcer_med	6866781000006116	On examination - right chronic diabetic foot ulcer
+medcode	comorb_ulcer_med	6546281000006117	On examination - Right diabetic foot - ulcerated
+medcode	comorb_ulcer_med	8214991000006111	Superficial leg ulcer
+medcode	comorb_ulcer_med	7700041000006112	Assessment of diabetic foot ulcer
+medcode	comorb_ulcer_med	8034861000006113	Leg ulcer due to type 2 diabetes mellitus
+medcode	comorb_ulcer_med	6029101000006113	Varicose veins of leg in short saphenous vein distribution with ulcer
+medcode	comorb_ulcer_med	8304051000006113	Arterial leg ulcer
+medcode	comorb_ulcer_med	14515111000006110	EPUAP (European pressure ulcer advisory panel) category II ulcer right foot
+medcode	comorb_ulcer_med	14515171000006118	EPUAP (European pressure ulcer advisory panel) category III ulcer right foot
+medcode	comorb_ulcer_med	5975181000006110	On examination - Right foot ulcer
+medcode	comorb_ulcer_med	6670961000006111	Stasis ulcer of leg
+medcode	comorb_ulcer_med	5935511000006114	Varicose veins of lower extremity with ulcer
+medcode	comorb_ulcer_med	5935521000006118	Varicose veins with ulcer of lower extremity
+medcode	comorb_ulcer_med	8284491000006119	Assessment of venous ulcer of lower limb
+medcode	comorb_ulcer_med	8091921000006116	Chronic osteomyelitis of lower leg with draining sinus
+medcode	comorb_ulcer_med	8026031000006115	Heel AND/OR midfoot ulcer due to type 2 diabetes mellitus
+medcode	comorb_ulcer_med	9314051000006114	Ischaemic ulcer of lower leg due to atherosclerotic disease
+medcode	comorb_ulcer_med	2835781000006115	Osteomyelitis of lower leg
+medcode	comorb_ulcer_med	8047981000006115	Stasis dermatitis and venous ulcer of lower extremity due to chronic peripheral venous hypertension
+medcode	comorb_ulcer_med	8304111000006111	Wagner ulcer classification grade 4 foot ulcer

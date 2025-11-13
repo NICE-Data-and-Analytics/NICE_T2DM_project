@@ -1,0 +1,105 @@
+code_type	code_group	code	term
+medcode	comorb_angina_med	2534664018	Ischaemic heart disease
+medcode	comorb_angina_med	299757012	Angina pectoris
+medcode	comorb_angina_med	2537480011	IHD - Ischaemic heart disease
+medcode	comorb_angina_med	264493019	Angina control - good
+medcode	comorb_angina_med	1488382011	Acute coronary syndrome
+medcode	comorb_angina_med	299835014	Ischaemic heart disease NOS
+medcode	comorb_angina_med	7845011	Unstable angina
+medcode	comorb_angina_med	264492012	Angina control
+medcode	comorb_angina_med	482961000006115	Anginal Control: No attacks
+medcode	comorb_angina_med	350348018	Stable angina
+medcode	comorb_angina_med	72571000006115	Unstable angina
+medcode	comorb_angina_med	482941000006119	Angina pectoris NOS
+medcode	comorb_angina_med	299765010	Angina pectoris NOS
+medcode	comorb_angina_med	855991000006115	Angina control - stable
+medcode	comorb_angina_med	442204010	Angina on effort
+medcode	comorb_angina_med	299776014	Chronic ischaemic heart disease
+medcode	comorb_angina_med	264494013	Angina control - poor
+medcode	comorb_angina_med	264496010	Angina control - worsening
+medcode	comorb_angina_med	299745015	Acute coronary insufficiency
+medcode	comorb_angina_med	299741012	Preinfarction syndrome
+medcode	comorb_angina_med	264495014	Angina control - improving
+medcode	comorb_angina_med	7847015	Crescendo angina
+medcode	comorb_angina_med	494261017	Worsening angina
+medcode	comorb_angina_med	338974012	Ischaemic chest pain
+medcode	comorb_angina_med	264497018	Angina control NOS
+medcode	comorb_angina_med	7844010	Preinfarction syndrome
+medcode	comorb_angina_med	1235225010	Prinzmetal's angina
+medcode	comorb_angina_med	498328016	Angina at rest
+medcode	comorb_angina_med	299834013	Other specified ischaemic heart disease
+medcode	comorb_angina_med	350350014	New onset angina
+medcode	comorb_angina_med	905381000006117	[RFC] Angina
+medcode	comorb_angina_med	2534674015	Chronic myocardial ischaemia
+medcode	comorb_angina_med	39111000006114	Other acute and subacute ischaemic heart disease
+medcode	comorb_angina_med	394541000006112	[X]Ischaemic heart diseases
+medcode	comorb_angina_med	98087016	Angina decubitus
+medcode	comorb_angina_med	299805019	Other chronic ischaemic heart disease NOS
+medcode	comorb_angina_med	350354017	Silent myocardial ischaemia
+medcode	comorb_angina_med	856011000006116	Angina control - unsatisfactory
+medcode	comorb_angina_med	4775971000006114	Angina
+medcode	comorb_angina_med	482811000006113	Angina at rest
+medcode	comorb_angina_med	5887611000006117	Exercise-induced angina
+medcode	comorb_angina_med	458410010	Post infarct angina
+medcode	comorb_angina_med	459487012	Refractory angina
+medcode	comorb_angina_med	960181000006111	Anginal pain
+medcode	comorb_angina_med	6360391000006118	Atypical angina
+medcode	comorb_angina_med	2537483013	Chronic coronary insufficiency
+medcode	comorb_angina_med	59952018	Nocturnal angina
+medcode	comorb_angina_med	299723016	Other acute and subacute ischaemic heart disease
+medcode	comorb_angina_med	144819018	Variant angina pectoris
+medcode	comorb_angina_med	6864781000006110	Myocardial ischaemia
+medcode	comorb_angina_med	494438016	Subendocardial ischaemia
+medcode	comorb_angina_med	7105241000006116	Typical angina
+medcode	comorb_angina_med	300874013	[X]Other forms of angina pectoris
+medcode	comorb_angina_med	299800012	Other specified chronic ischaemic heart disease
+medcode	comorb_angina_med	299804015	Other specified chronic ischaemic heart disease NOS
+medcode	comorb_angina_med	6546111000006118	ACS - Acute coronary syndrome
+medcode	comorb_angina_med	931961000006117	Acute coronary syndrome
+medcode	comorb_angina_med	299763015	Angina decubitus NOS
+medcode	comorb_angina_med	3920021000006112	Coronary artery spasm angina
+medcode	comorb_angina_med	5887631000006111	Exertional angina
+medcode	comorb_angina_med	6860251000006115	Ischemic heart disease
+medcode	comorb_angina_med	299750014	Other acute and subacute ischaemic heart disease NOS
+medcode	comorb_angina_med	854491000006113	Unstable angina
+medcode	comorb_angina_med	36036010	Syncope anginosa
+medcode	comorb_angina_med	6860261000006118	IHD - Ischemic heart disease
+medcode	comorb_angina_med	3166141000006114	"Angina, class II"
+medcode	comorb_angina_med	300879015	[X]Other forms of chronic ischaemic heart disease
+medcode	comorb_angina_med	300876010	[X]Other forms of acute ischaemic heart disease
+medcode	comorb_angina_med	3919991000006112	Prinzmetal angina
+medcode	comorb_angina_med	6841231000006113	Acute ischaemic heart disease
+medcode	comorb_angina_med	32122016	Status anginosus
+medcode	comorb_angina_med	6841391000006118	Acute myocardial ischaemia
+medcode	comorb_angina_med	4776031000006115	Ischaemic heart disease - angina
+medcode	comorb_angina_med	7502661000006117	Microvascular ischaemia of myocardium
+medcode	comorb_angina_med	299758019	Stenocardia
+medcode	comorb_angina_med	3920011000006116	Variant angina
+medcode	comorb_angina_med	3499001000006116	"Angina, class I"
+medcode	comorb_angina_med	7572351000006115	Silent coronary vasospastic disease
+medcode	comorb_angina_med	9868461000006110	Unstable angina co-occurrent and due to coronary arteriosclerosis
+medcode	comorb_angina_med	3886751000006118	"Angina, class III"
+medcode	comorb_angina_med	2571561000006118	Pre-infarction syndrome
+medcode	comorb_angina_med	6360421000006114	Recurrent angina after coronary stent placement
+medcode	comorb_angina_med	7966931000006114	Angina associated with type 2 diabetes mellitus
+medcode	comorb_angina_med	12276271000006112	Progressive angina
+medcode	comorb_angina_med	6360401000006116	Recurrent angina after percutaneous transluminal coronary angioplasty
+medcode	comorb_angina_med	4776001000006111	Anginal syndrome
+medcode	comorb_angina_med	494260016	Impending infarction
+medcode	comorb_angina_med	5887641000006118	Angina of effort
+medcode	comorb_angina_med	6847761000006118	Chronic ischemic heart disease
+medcode	comorb_angina_med	6360441000006119	Recurrent angina after coronary artery bypass graft
+medcode	comorb_angina_med	7696501000006114	Resting ischaemia
+medcode	comorb_angina_med	7703511000006110	Subacute ischaemic heart disease
+medcode	comorb_angina_med	3458791000006114	Anginal chest pain at rest
+medcode	comorb_angina_med	5056261000006112	Asymptomatic ischaemia
+medcode	comorb_angina_med	4775981000006112	Cardiac angina
+medcode	comorb_angina_med	4776021000006118	Ischemic heart disease - angina
+medcode	comorb_angina_med	6864791000006113	Myocardial ischemia
+medcode	comorb_angina_med	12125971000006114	Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
+medcode	comorb_angina_med	14179491000006111	Unstable angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart
+medcode	comorb_angina_med	9868481000006117	Angina co-occurrent and due to coronary arteriosclerosis
+medcode	comorb_angina_med	3951991000006119	"Angina, class IV"
+medcode	comorb_angina_med	12125951000006116	Arteriosclerosis of autologous vein coronary artery bypass graft with angina
+medcode	comorb_angina_med	2571531000006110	Intermediate coronary syndrome
+medcode	comorb_angina_med	3920001000006119	Variant angina pectoris

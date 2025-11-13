@@ -1,0 +1,86 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_insulin_short	725941000033114	Human Actrapid  Injection  100 units/ml	Insulin human
+prodcode	med_insulin_short	720941000033117	Human Actrapid Penfill  Cartridges (3 Ml)  100 units/ml	Insulin human
+prodcode	med_insulin_short	9641000033112	Human Actrapid  Preloaded pen  100 units/ml	Insulin human
+prodcode	med_insulin_short	725541000033115	Human Velosulin  Injection  100 u/ml	Insulin human
+prodcode	med_insulin_short	720341000033116	Humulin S  Cartridges (1.5 Ml)  100 units/ml	Insulin soluble human
+prodcode	med_insulin_short	1508341000033112	Pork Velosulin  Injection  100 units/ml	Insulin porcine
+prodcode	med_insulin_short	7341000033112	Actrapid Mc  Injection  100 units/1 ml	Insulin human
+prodcode	med_insulin_short	3914341000033119	Apidra Optiset  Pre-filled Disposable Pen  100 units/ml, 3 ml pen	Insulin glulisine
+prodcode	med_insulin_short	961141000033113	Neutral Insulin (Human)  Injection  100 units/ml	Insulin human
+prodcode	med_insulin_short	1508441000033118	Velosulin Cartridge (Nordisk Wellcome)  Injection  100 units/ml	Insulin human
+prodcode	med_insulin_short	1862141000033112	Insulin Aspart  Prefilled syringes  100 units/ml	Insulin aspart
+prodcode	med_insulin_short	1507441000033119	Human Velosulin  Injection  100 u/ml	Insulin human
+prodcode	med_insulin_short	3938341000033116	Exubera  Insulin Release Units  box of 6	Insulin human
+prodcode	med_insulin_short	4270841000033113	Human Actrapid  Injection  500 units/ml, 10 ml vial	Insulin human
+prodcode	med_insulin_short	2796641000033115	NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Insulin aspart
+prodcode	med_insulin_short	1862341000033110	NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd)	Insulin aspart
+prodcode	med_insulin_short	1862241000033117	NovoRapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd)	Insulin aspart
+prodcode	med_insulin_short	12186541000033112	Fiasp FlexTouch 100units/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Insulin aspart
+prodcode	med_insulin_short	1862041000033113	Insulin aspart 100units/ml solution for injection 3ml cartridges	Insulin aspart
+prodcode	med_insulin_short	9677141000033117	NovoRapid PumpCart 100units/ml solution for injection 1.6ml cartridges (Novo Nordisk Ltd)	Insulin aspart
+prodcode	med_insulin_short	6456441000033119	NovoRapid FlexTouch 100units/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Insulin aspart
+prodcode	med_insulin_short	12186641000033113	Fiasp Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd)	Insulin aspart
+prodcode	med_insulin_short	12186441000033111	Fiasp 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd)	Insulin aspart
+prodcode	med_insulin_short	3277741000033118	Insulin aspart 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin aspart
+prodcode	med_insulin_short	1861941000033119	Insulin aspart 100units/ml solution for injection 10ml vials	Insulin aspart
+prodcode	med_insulin_short	1862441000033116	NovoRapid Novolet 100units/ml solution for injection (Novo Nordisk Ltd)	Insulin aspart
+prodcode	med_insulin_short	13861241000033119	Trurapi 100units/ml solution for injection 3ml pre-filled Solostar pens (Sanofi)	Insulin aspart
+prodcode	med_insulin_short	9677041000033116	Insulin aspart 100units/ml solution for injection 1.6ml cartridges	Insulin aspart
+prodcode	med_insulin_short	13861141000033114	Trurapi 100units/ml solution for injection 3ml cartridges (Sanofi)	Insulin aspart
+prodcode	med_insulin_short	13939841000033118	Trurapi 100units/ml solution for injection 10ml vials (Sanofi)	Insulin aspart
+prodcode	med_insulin_short	4258641000033112	Apidra 100units/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi)	Insulin glulisine
+prodcode	med_insulin_short	3345941000033119	Apidra 100units/ml solution for injection 3ml cartridges (Sanofi)	Insulin glulisine
+prodcode	med_insulin_short	3345841000033110	Apidra 100units/ml solution for injection 10ml vials (Sanofi)	Insulin glulisine
+prodcode	med_insulin_short	3914241000033112	Insulin glulisine 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin glulisine
+prodcode	med_insulin_short	3345641000033114	Insulin glulisine 100units/ml solution for injection 10ml vials	Insulin glulisine
+prodcode	med_insulin_short	3345741000033117	Insulin glulisine 100units/ml solution for injection 3ml cartridges	Insulin glulisine
+prodcode	med_insulin_short	3963941000033117	Apidra 100units/ml solution for injection 3ml OptiClik cartridges (Sanofi)	Insulin glulisine
+prodcode	med_insulin_short	4423041000033114	Humulin R 500units/ml solution for injection 20ml vials (Imported (United States))	Insulin human
+prodcode	med_insulin_short	3945241000033119	Exubera 3mg inhalation powder blisters (Pfizer Ltd)	Insulin human
+prodcode	med_insulin_short	3945141000033114	Exubera 1mg inhalation powder blisters (Pfizer Ltd)	Insulin human
+prodcode	med_insulin_short	12481641000033115	Humulin R KwikPen 500units/ml solution for injection 3ml pre-filled pens (Imported (United States))	Insulin human
+prodcode	med_insulin_short	10674341000033114	Insuman Infusat 100units/ml solution for injection 3.15ml cartridges (Sanofi)	Insulin human
+prodcode	med_insulin_short	10674141000033111	Insuman Infusat 100units/ml solution for injection 10ml vials (Sanofi)	Insulin human
+prodcode	med_insulin_short	1736841000033114	Humalog 100units/ml solution for injection 3ml cartridges (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	4608541000033115	Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	723241000033118	Humalog 100units/ml solution for injection 10ml vials (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	1739941000033110	Insulin lispro 100units/ml solution for injection 3ml cartridges	Insulin lispro
+prodcode	med_insulin_short	720541000033111	Humalog 100units/ml solution for injection 1.5ml cartridges (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	2182341000033119	Humalog Pen 100units/ml solution for injection 3ml pre-filled pens (Sigma Pharmaceuticals Plc)	Insulin lispro
+prodcode	med_insulin_short	762441000033118	Insulin lispro 100units/ml solution for injection 10ml vials	Insulin lispro
+prodcode	med_insulin_short	10252741000033119	Humalog KwikPen 200units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	2182241000033112	Insulin lispro 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin lispro
+prodcode	med_insulin_short	757641000033112	Insulin lispro 100units/ml solution for injection 1.5ml cartridges	Insulin lispro
+prodcode	med_insulin_short	13604841000033112	Lyumjev KwikPen 100units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	12486241000033111	Humalog Junior KwikPen 100units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	13605141000033117	Lyumjev 100units/ml solution for injection 10ml vials (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	12600941000033118	Insulin lispro Sanofi 100units/ml solution for injection 3ml pre-filled pens (Sanofi)	Insulin lispro
+prodcode	med_insulin_short	13605041000033116	Lyumjev 100units/ml solution for injection 3ml cartridges (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	13604741000033119	Lyumjev Junior KwikPen 100units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	13912041000033110	Admelog 100units/ml solution for injection 3ml pre-filled pens (Sanofi)	Insulin lispro
+prodcode	med_insulin_short	13604941000033116	Lyumjev KwikPen 200units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	12600841000033114	Insulin lispro Sanofi 100units/ml solution for injection 3ml cartridges (Sanofi)	Insulin lispro
+prodcode	med_insulin_short	12600741000033116	Insulin lispro Sanofi 100units/ml solution for injection 10ml vials (Sanofi)	Insulin lispro
+prodcode	med_insulin_short	13911941000033116	Admelog 100units/ml solution for injection 3ml cartridges (Sanofi)	Insulin lispro
+prodcode	med_insulin_short	13911841000033112	Admelog 100units/ml solution for injection 10ml vials (Sanofi)	Insulin lispro
+prodcode	med_insulin_short	10252641000033111	Insulin lispro 200units/ml solution for injection 3ml pre-filled disposable devices	Insulin lispro
+prodcode	med_insulin_short	14041441000033111	Lyumjev Tempo Pen 100units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	14004241000033116	Humalog Tempo Pen 100units/ml solution for injection 3ml pre-filled pens (Eli Lilly and Company Ltd)	Insulin lispro
+prodcode	med_insulin_short	736041000033119	Hypurin Bovine Neutral 100units/ml solution for injection 10ml vials (Wockhardt UK Ltd)	Insulin soluble bovine
+prodcode	med_insulin_short	2916941000033119	Hypurin Bovine Neutral 100units/ml solution for injection 3ml cartridges (Wockhardt UK Ltd)	Insulin soluble bovine
+prodcode	med_insulin_short	2952841000033116	Actrapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd)	Insulin soluble human
+prodcode	med_insulin_short	721041000033110	Human Actrapid Penfill 100units/ml solution for injection 1.5ml cartridges (Novo Nordisk Ltd)	Insulin soluble human
+prodcode	med_insulin_short	1616041000033115	Humulin S 100units/ml solution for injection 3ml cartridges (Eli Lilly and Company Ltd)	Insulin soluble human
+prodcode	med_insulin_short	724341000033114	Humulin S 100units/ml solution for injection 10ml vials (Eli Lilly and Company Ltd)	Insulin soluble human
+prodcode	med_insulin_short	2953041000033119	Actrapid Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk Ltd)	Insulin soluble human
+prodcode	med_insulin_short	2954641000033110	Velosulin 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd)	Insulin soluble human
+prodcode	med_insulin_short	2952941000033112	Actrapid NovoLet 100units/ml solution for injection (Novo Nordisk Ltd)	Insulin soluble human
+prodcode	med_insulin_short	2034641000033119	Insuman Rapid 100units/ml solution for injection 3ml cartridges (Sanofi)	Insulin soluble human
+prodcode	med_insulin_short	727041000033119	HumaJect S Pen 100units/ml solution for injection (Eli Lilly and Company Ltd)	Insulin soluble human
+prodcode	med_insulin_short	2266941000033119	Insuman Rapid 100units/ml solution for injection 3ml pre-filled OptiSet pens (Sanofi)	Insulin soluble human
+prodcode	med_insulin_short	2034441000033116	Insuman Rapid 100units/ml solution for injection 5ml vials (Aventis Pharma)	Insulin soluble human
+prodcode	med_insulin_short	735441000033119	Hypurin Porcine Neutral 100units/ml solution for injection 10ml vials (Wockhardt UK Ltd)	Insulin soluble porcine
+prodcode	med_insulin_short	1749441000033116	Pork Actrapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd)	Insulin soluble porcine
+prodcode	med_insulin_short	2917141000033119	Hypurin Porcine Neutral 100units/ml solution for injection 3ml cartridges (Wockhardt UK Ltd)	Insulin soluble porcine
+prodcode	med_insulin_short	12624241000033111	Insulin soluble porcine 100units/ml solution for injection 10ml vials	Insulin soluble porcine

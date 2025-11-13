@@ -1,0 +1,199 @@
+code_type	code_group	code	term
+medcode	comorb_MI_med	94884017	Acute myocardial infarction
+medcode	comorb_MI_med	1780501013	Acute non-ST segment elevation myocardial infarction
+medcode	comorb_MI_med	219531000000117	MI - acute myocardial infarction
+medcode	comorb_MI_med	1488382011	Acute coronary syndrome
+medcode	comorb_MI_med	1780491019	Acute ST segment elevation myocardial infarction
+medcode	comorb_MI_med	299714019	Acute myocardial infarction of inferior wall
+medcode	comorb_MI_med	299721019	Acute myocardial infarction NOS
+medcode	comorb_MI_med	299709018	Anterior myocardial infarction NOS
+medcode	comorb_MI_med	455641000006112	Acute anterolateral myocardial infarction
+medcode	comorb_MI_med	457531000006110	Acute inferolateral myocardial infarction
+medcode	comorb_MI_med	116992017	Acute subendocardial infarction
+medcode	comorb_MI_med	37443015	Heart attack
+medcode	comorb_MI_med	299707016	Acute anterior myocardial infarction
+medcode	comorb_MI_med	2160096015	Coronary artery bypass graft occlusion
+medcode	comorb_MI_med	884151000006119	Myocardial Infarction
+medcode	comorb_MI_med	2855301000006112	Myocardial infarction
+medcode	comorb_MI_med	256452010	ECG: myocardial infarction
+medcode	comorb_MI_med	455651000006114	Acute anteroseptal myocardial infarction
+medcode	comorb_MI_med	299710011	Acute posterior myocardial infarction
+medcode	comorb_MI_med	1234005010	Acute inferoposterior infarction
+medcode	comorb_MI_med	450322013	Acute non-Q wave infarction
+medcode	comorb_MI_med	299711010	Acute lateral myocardial infarction
+medcode	comorb_MI_med	350376014	Silent myocardial infarction
+medcode	comorb_MI_med	1786197015	Coronary thrombosis
+medcode	comorb_MI_med	13930051000006117	Dressler's syndrome
+medcode	comorb_MI_med	299718016	Other acute myocardial infarction
+medcode	comorb_MI_med	219521000000119	Attack - heart
+medcode	comorb_MI_med	6651391000006114	NSTEMI - Non-ST segment elevation MI
+medcode	comorb_MI_med	256460011	ECG: myocardial infarct NOS
+medcode	comorb_MI_med	208365015	Postoperative myocardial infarction
+medcode	comorb_MI_med	299808017	Subsequent myocardial infarction
+medcode	comorb_MI_med	1234306015	Acute septal infarction
+medcode	comorb_MI_med	905351000006113	[RFC] Myocardial infarction (MI)
+medcode	comorb_MI_med	7571581000006113	Acute anterior ST segment elevation myocardial infarction
+medcode	comorb_MI_med	299719012	Acute atrial infarction
+medcode	comorb_MI_med	447324018	Acute Q-wave infarct
+medcode	comorb_MI_med	460681000006116	Acute transmural myocardial infarction of unspecif site
+medcode	comorb_MI_med	884141000006116	Coronary thrombosis
+medcode	comorb_MI_med	299720018	Other acute myocardial infarction NOS
+medcode	comorb_MI_med	6651221000006117	STEMI - ST elevation myocardial infarction
+medcode	comorb_MI_med	299712015	True posterior myocardial infarction
+medcode	comorb_MI_med	7572321000006112	Acute ST segment elevation myocardial infarction of inferior wall
+medcode	comorb_MI_med	1786198013	Thrombosis - coronary
+medcode	comorb_MI_med	216351000006118	Post infarction pericarditis
+medcode	comorb_MI_med	109915012	Post-myocardial infarction syndrome
+medcode	comorb_MI_med	299708014	Acute anteroapical infarction
+medcode	comorb_MI_med	3381601000006117	Acute myocardial infarction of anterior wall
+medcode	comorb_MI_med	967931000006114	Acute myocardial infarction of posterolateral wall
+medcode	comorb_MI_med	6546111000006118	ACS - Acute coronary syndrome
+medcode	comorb_MI_med	7571601000006115	Acute STEMI (ST elevation myocardial infarction) of anterior wall
+medcode	comorb_MI_med	7572331000006110	Acute STEMI (ST elevation myocardial infarction) of inferior wall
+medcode	comorb_MI_med	537751000006115	Cardiac rupture after acute myocardial infarction
+medcode	comorb_MI_med	14132941000006118	Myocardial infarction with non-obstructive coronary artery
+medcode	comorb_MI_med	299812011	Subsequent myocardial infarction of inferior wall
+medcode	comorb_MI_med	100681000006116	"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+medcode	comorb_MI_med	8036721000006118	Chronic total occlusion of coronary artery
+medcode	comorb_MI_med	4354151000006115	Right coronary artery occlusion
+medcode	comorb_MI_med	362461000006119	[X]Acute transmural myocardial infarction of unspecif site
+medcode	comorb_MI_med	498031000006112	Atrial septal defect as current complication following acute myocardial infarction
+medcode	comorb_MI_med	813961000006116	Haemopericardium as current complication following acute myocardial infarction
+medcode	comorb_MI_med	9868571000006116	Mural thrombus of left ventricle following acute myocardial infarction
+medcode	comorb_MI_med	455422014	Postoperative subendocardial myocardial infarction
+medcode	comorb_MI_med	299811016	Subsequent myocardial infarction of anterior wall
+medcode	comorb_MI_med	6601121000006118	Coronary artery thrombosis
+medcode	comorb_MI_med	13941171000006115	Occlusion of mid left anterior descending coronary artery
+medcode	comorb_MI_med	2729671000000118	Acute transmural myocardial infarction
+medcode	comorb_MI_med	109916013	Dressler's syndrome
+medcode	comorb_MI_med	455423016	"Postoperative myocardial infarction, unspecified"
+medcode	comorb_MI_med	13930031000006112	Delayed postmyocardial infarction pericarditis
+medcode	comorb_MI_med	3536581000006113	Coronary occlusion
+medcode	comorb_MI_med	13941121000006116	Occlusion of proximal left anterior descending coronary artery
+medcode	comorb_MI_med	12122331000006116	Acute ST segment elevation myocardial infarction of inferolateral wall
+medcode	comorb_MI_med	12122341000006114	Acute ST segment elevation myocardial infarction of inferoposterior wall
+medcode	comorb_MI_med	67081000006119	Ventricular septal defect as current complication following acute myocardial infarction
+medcode	comorb_MI_med	6546751000006118	First myocardial infarction
+medcode	comorb_MI_med	118831000006118	Subsequent myocardial infarction of unspecified site
+medcode	comorb_MI_med	3641641000006116	Acute myocardial infarction of anterolateral wall
+medcode	comorb_MI_med	14015031000006119	Myocardial infarction due to demand ischaemia
+medcode	comorb_MI_med	543291000006110	Myocardial infarction with complication
+medcode	comorb_MI_med	7574481000006111	Subsequent non-ST segment elevation myocardial infarction
+medcode	comorb_MI_med	13941191000006119	Occlusion of distal left anterior descending coronary artery
+medcode	comorb_MI_med	3565871000006113	Acute myocardial infarction of inferolateral wall
+medcode	comorb_MI_med	6841391000006118	Acute myocardial ischaemia
+medcode	comorb_MI_med	8087751000006116	Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery
+medcode	comorb_MI_med	1229885017	Microinfarction of heart
+medcode	comorb_MI_med	2855351000006111	Myocardial infarct
+medcode	comorb_MI_med	5056941000006119	Post-infarction pericarditis
+medcode	comorb_MI_med	13945191000006117	Occlusion of anterior descending branch of left coronary artery
+medcode	comorb_MI_med	4354131000006110	Left coronary artery occlusion
+medcode	comorb_MI_med	3452181000006112	Acute myocardial infarction of lateral wall
+medcode	comorb_MI_med	13941141000006111	Acute ST segment elevation myocardial infarction due to mid left anterior descending coronary artery occlusion
+medcode	comorb_MI_med	9843961000006118	Acute ST segment elevation myocardial infarction of anterolateral wall
+medcode	comorb_MI_med	616081000006113	Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+medcode	comorb_MI_med	6043771000006118	Non-Q wave myocardial infarction
+medcode	comorb_MI_med	14145381000006119	Occlusion of circumflex branch of left coronary artery
+medcode	comorb_MI_med	300882013	[X]Subsequent myocardial infarction of unspecified site
+medcode	comorb_MI_med	3699921000006110	Acute inferior myocardial infarction
+medcode	comorb_MI_med	13935211000006117	Acute myocardial infarction of inferolateral wall with posterior extension
+medcode	comorb_MI_med	3745741000006117	Acute myocardial infarction of inferoposterior wall
+medcode	comorb_MI_med	5935321000006111	Acute Q wave myocardial infarction
+medcode	comorb_MI_med	9844011000006119	Acute ST segment elevation myocardial infarction of posterior wall
+medcode	comorb_MI_med	212061000006119	Postoperative transmural myocardial infarction of anterior wall
+medcode	comorb_MI_med	212071000006114	Postoperative transmural myocardial infarction of inferior wall
+medcode	comorb_MI_med	2515471000006117	Septal infarction by electrocardiogram
+medcode	comorb_MI_med	299813018	Subsequent myocardial infarction of other sites
+medcode	comorb_MI_med	7574491000006114	Subsequent NSTEMI (non-ST segment elevation myocardial infarction)
+medcode	comorb_MI_med	4586111000006115	Anteroseptal infarction on electrocardiogram
+medcode	comorb_MI_med	7572341000006117	Acute inferior ST segment elevation myocardial infarction
+medcode	comorb_MI_med	8011041000006111	Acute myocardial infarction due to right coronary artery occlusion
+medcode	comorb_MI_med	3459561000006119	Acute myocardial infarction of apical-lateral wall
+medcode	comorb_MI_med	9843991000006114	Acute ST segment elevation myocardial infarction of anteroseptal wall
+medcode	comorb_MI_med	9843981000006111	Acute ST segment elevation myocardial infarction of lateral wall
+medcode	comorb_MI_med	7084801000006112	Mixed myocardial ischaemia and infarction
+medcode	comorb_MI_med	5056501000006113	Post-infarction ventricular septal defect
+medcode	comorb_MI_med	3576371000006117	Postmyocardial infarction syndrome
+medcode	comorb_MI_med	212091000006110	Postoperative transmural myocardial infarction unspec site
+medcode	comorb_MI_med	158601000006116	Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+medcode	comorb_MI_med	3551171000006114	Acute myocardial infarction of high lateral wall
+medcode	comorb_MI_med	13961461000006113	Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery
+medcode	comorb_MI_med	9844051000006118	Acute ST segment elevation myocardial infarction due to right coronary artery occlusion
+medcode	comorb_MI_med	7574041000006111	Mitral valve regurgitation due to acute myocardial infarction
+medcode	comorb_MI_med	13961321000006113	Occlusion of proximal portion of right coronary artery
+medcode	comorb_MI_med	13945211000006116	Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery
+medcode	comorb_MI_med	2855341000006114	MI - Myocardial infarction
+medcode	comorb_MI_med	159001000006119	Rupture of papillary muscle as current complication following acute myocardial infarction
+medcode	comorb_MI_med	13947581000006115	Occlusion of diagonal branch of anterior descending branch of left coronary artery
+medcode	comorb_MI_med	13945981000006117	Acute ST segment elevation myocardial infarction due to occlusion of septal branch of anterior descending branch of left coronary artery
+medcode	comorb_MI_med	6969941000006114	Coronary artery stent thrombosis
+medcode	comorb_MI_med	300881018	[X]Subsequent myocardial infarction of other sites
+medcode	comorb_MI_med	5056311000006117	Acute Q wave infarction - inferior
+medcode	comorb_MI_med	13941211000006118	Acute ST segment elevation myocardial infarction due to distal left anterior descending coronary artery occlusion
+medcode	comorb_MI_med	7571611000006117	Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle
+medcode	comorb_MI_med	13961451000006111	Acute STEMI (ST elevation myocardial infarction) due to PDA (posterior descending artery) branch of RCA (right coronary artery) occlusion
+medcode	comorb_MI_med	14132951000006116	MINOCA - myocardial infarction with non-obstructive coronary artery
+medcode	comorb_MI_med	3526080018	Mural thrombus of right ventricle following acute myocardial infarction
+medcode	comorb_MI_med	13961331000006111	Occlusion of distal portion of right coronary artery
+medcode	comorb_MI_med	13961361000006119	Occlusion of mid portion of right coronary artery
+medcode	comorb_MI_med	1218860015	Acute papillary muscle infarction
+medcode	comorb_MI_med	14145391000006116	Acute ST segment elevation myocardial infarction due to occlusion of circumflex branch of left coronary artery
+medcode	comorb_MI_med	13961441000006114	Acute ST segment elevation myocardial infarction due to occlusion of posterior descending branch of right coronary artery
+medcode	comorb_MI_med	13941091000006115	Acute ST segment elevation myocardial infarction due to proximal left anterior descending coronary artery occlusion
+medcode	comorb_MI_med	7572221000006117	Subsequent ST segment elevation myocardial infarction of inferior wall
+medcode	comorb_MI_med	14742011000006111	Acute anterior non-ST segment elevation myocardial infarction
+medcode	comorb_MI_med	14145371000006117	Acute myocardial infarction due to occlusion of circumflex branch of left coronary artery
+medcode	comorb_MI_med	7572301000006119	Acute myocardial infarction during procedure
+medcode	comorb_MI_med	7572881000006117	Acute ST segment elevation myocardial infarction of inferior wall involving right ventricle
+medcode	comorb_MI_med	9843951000006115	Acute ST segment elevation myocardial infarction of posterolateral wall
+medcode	comorb_MI_med	9844071000006111	Acute ST segment elevation myocardial infarction of septum
+medcode	comorb_MI_med	13961431000006116	Acute STEMI (ST elevation myocardial infarction) due to AM (acute marginal) branch of RCA (right coronary artery) occlusion
+medcode	comorb_MI_med	14194701000006115	Myocardial infarction due to atherothrombotic coronary artery disease
+medcode	comorb_MI_med	14057221000006111	Rupture of ventricle due to acute myocardial infarction
+medcode	comorb_MI_med	4586221000006118	Lateral infarction on electrocardiogram
+medcode	comorb_MI_med	7572861000006110	Acute myocardial infarction of anterior wall involving right ventricle
+medcode	comorb_MI_med	13935161000006114	Acute myocardial infarction of right ventricle
+medcode	comorb_MI_med	5056271000006117	Acute Q wave infarction - anteroseptal
+medcode	comorb_MI_med	13941161000006110	Acute STEMI (ST elevation myocardial infarction) due to mid LAD (left anterior descending) coronary artery occlusion
+medcode	comorb_MI_med	14428131000006112	Mitral valve regurgitation due to acute myocardial infarction
+medcode	comorb_MI_med	212081000006112	Postoperative transmural myocardial infarction other sites
+medcode	comorb_MI_med	158611000006118	Rupture of chordae tendinae as current complication following acute myocardial infarction
+medcode	comorb_MI_med	7572251000006114	Subsequent ST segment elevation myocardial infarction of anterior wall
+medcode	comorb_MI_med	7572291000006115	Subsequent STEMI (ST elevation myocardial infarction)
+medcode	comorb_MI_med	13945201000006119	Occlusion of left anterior descending coronary artery
+medcode	comorb_MI_med	13961401000006112	Occlusion of posterior descending branch of right coronary artery
+medcode	comorb_MI_med	13945971000006115	Occlusion of septal branch of anterior descending branch of left coronary artery
+medcode	comorb_MI_med	5056321000006113	Acute non-Q wave infarction - inferior
+medcode	comorb_MI_med	5056341000006118	Acute non-Q wave infarction - inferolateral
+medcode	comorb_MI_med	5056331000006111	Acute Q wave infarction - inferolateral
+medcode	comorb_MI_med	13961381000006112	Acute STEMI (ST elevation myocardial infarction) due to mid RCA (right coronary artery) occlusion
+medcode	comorb_MI_med	14145451000006115	Acute STEMI (ST segment elevation myocardial infarction) of apex of heart
+medcode	comorb_MI_med	5056461000006113	MI - Silent myocardial infarction
+medcode	comorb_MI_med	7574081000006117	Mitral valve regurgitation due to acute myocardial infarction without papillary muscle and chordal rupture
+medcode	comorb_MI_med	3655161000006110	Pericarditis secondary to acute myocardial infarction
+medcode	comorb_MI_med	7572281000006118	Subsequent ST segment elevation myocardial infarction
+medcode	comorb_MI_med	14194711000006117	Type 1 myocardial infarction
+medcode	comorb_MI_med	14752451000006117	Ventricular thrombus following acute myocardial infarction
+medcode	comorb_MI_med	13961391000006110	Occlusion of marginal branch of right coronary artery
+medcode	comorb_MI_med	13935201000006115	Acute apical myocardial infarction of heart
+medcode	comorb_MI_med	14741971000006110	Acute inferior non-ST segment elevation myocardial infarction
+medcode	comorb_MI_med	8004261000006118	Acute myocardial infarction due to left coronary artery occlusion
+medcode	comorb_MI_med	5056301000006115	Acute non-Q wave infarction - anterolateral
+medcode	comorb_MI_med	2729631000000115	Acute nontransmural myocardial infarction
+medcode	comorb_MI_med	9844021000006110	Acute ST segment elevation myocardial infarction due to left coronary artery occlusion
+medcode	comorb_MI_med	13947721000006111	Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery
+medcode	comorb_MI_med	13961421000006119	Acute ST segment elevation myocardial infarction due to occlusion of marginal branch of right coronary artery
+medcode	comorb_MI_med	14145431000006110	Acute ST segment elevation myocardial infarction of apex of heart
+medcode	comorb_MI_med	13941231000006112	Acute STEMI (ST elevation myocardial infarction) due to distal LAD (left anterior descending) coronary artery occlusion
+medcode	comorb_MI_med	13961351000006116	Acute STEMI (ST elevation myocardial infarction) due to distal RCA (right coronary artery) occlusion
+medcode	comorb_MI_med	13961471000006118	Acute STEMI (ST elevation myocardial infarction) due to PL (posterolateral) branch of RCA (right coronary artery) occlusion
+medcode	comorb_MI_med	13941111000006112	Acute STEMI (ST elevation myocardial infarction) due to proximal LAD (left anterior descending) coronary artery occlusion
+medcode	comorb_MI_med	3427201000006111	AMI - Acute myocardial infarction
+medcode	comorb_MI_med	6914971000006118	Myocardial infarction in recovery phase
+medcode	comorb_MI_med	14546511000006116	Postmyocardial infarction pericardial effusion
+medcode	comorb_MI_med	4776171000006116	Reinfarction of myocardium
+medcode	comorb_MI_med	14488861000006119	Supraventricular tachycardia following acute myocardial infarction
+medcode	comorb_MI_med	3536591000006111	Coronary artery occlusion
+medcode	comorb_MI_med	6601131000006115	CT - Coronary thrombosis
+medcode	comorb_MI_med	7107851000006112	Anterior myocardial infarction on electrocardiogram
+medcode	comorb_MI_med	13961411000006110	Occlusion of posterior lateral branch of right coronary artery

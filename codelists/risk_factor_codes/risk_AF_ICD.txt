@@ -1,0 +1,8 @@
+code_type	code_group	code	term
+ICD	risk_AF_ICD	I48	Atrial fibrillation and flutter
+ICD	risk_AF_ICD	I48.0	Paroxysmal atrial fibrillation
+ICD	risk_AF_ICD	I48.1	Persistent atrial fibrillation
+ICD	risk_AF_ICD	I48.2	Chronic atrial fibrillation
+ICD	risk_AF_ICD	I48.3	Typical atrial flutter
+ICD	risk_AF_ICD	I48.4	Atypical atrial flutter
+ICD	risk_AF_ICD	I48.9	"Atrial fibrillation and atrial flutter, unspecified"

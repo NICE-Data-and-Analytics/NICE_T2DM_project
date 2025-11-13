@@ -1,0 +1,103 @@
+code_type	code_group	code	term
+medcode	strat_HF_med	139475013	Heart failure
+medcode	strat_HF_med	70653017	Congestive heart failure
+medcode	strat_HF_med	141306010	Left ventricular failure
+medcode	strat_HF_med	493287011	Congestive cardiac failure
+medcode	strat_HF_med	2616471011	New York Heart Association Classification - Class II
+medcode	strat_HF_med	2616470012	New York Heart Association Classification - Class I
+medcode	strat_HF_med	2616472016	New York Heart Association Classification - Class III
+medcode	strat_HF_med	301694014	Pulmonary oedema
+medcode	strat_HF_med	139482012	Cardiac failure
+medcode	strat_HF_med	395772015	Heart failure NOS
+medcode	strat_HF_med	216184014	Congestive heart failure monitoring
+medcode	strat_HF_med	300179017	Decompensated cardiac failure
+medcode	strat_HF_med	1647701000000118	Heart failure with normal ejection fraction
+medcode	strat_HF_med	3886041000006118	Left heart failure
+medcode	strat_HF_med	1488804017	Heart failure confirmed
+medcode	strat_HF_med	7573171000006116	Heart failure with reduced ejection fraction
+medcode	strat_HF_med	147247018	Chronic congestive heart failure
+medcode	strat_HF_med	206703015	Right heart failure
+medcode	strat_HF_med	510016018	Biventricular congestive heart failure
+medcode	strat_HF_med	300190010	Acute left ventricular failure
+medcode	strat_HF_med	1490256017	Acute pulmonary oedema
+medcode	strat_HF_med	18472010	Acute congestive heart failure
+medcode	strat_HF_med	2227501000000110	Heart failure with preserved ejection fraction
+medcode	strat_HF_med	251680018	H/O: heart failure
+medcode	strat_HF_med	12626351000006111	QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation
+medcode	strat_HF_med	253994013	O/E - pulmonary oedema
+medcode	strat_HF_med	7025691000006110	Decompensated chronic heart failure
+medcode	strat_HF_med	94251011	Acute heart failure
+medcode	strat_HF_med	2616473014	New York Heart Association Classification - Class IV
+medcode	strat_HF_med	1816101000006113	Right ventricular failure
+medcode	strat_HF_med	301741013	Acute pulmonary oedema unspecified
+medcode	strat_HF_med	223981000000118	Cardiac failure NOS
+medcode	strat_HF_med	490972013	Right ventricular failure
+medcode	strat_HF_med	301743011	Acute pulmonary oedema NOS
+medcode	strat_HF_med	300180019	Compensated cardiac failure
+medcode	strat_HF_med	3182541000006117	Congestive cardiac failure
+medcode	strat_HF_med	3182551000006115	CCF - Congestive cardiac failure
+medcode	strat_HF_med	7321121000006119	Heart failure with preserved ejection fraction
+medcode	strat_HF_med	2675255018	Congestive heart failure due to valvular disease
+medcode	strat_HF_med	453099015	H/O: Heart failure in last year
+medcode	strat_HF_med	13910671000006110	Heart failure with mid range ejection fraction
+medcode	strat_HF_med	494669012	Chronic pulmonary oedema
+medcode	strat_HF_med	2664351000006113	Chronic right-sided heart failure
+medcode	strat_HF_med	7251291000006119	Chronic diastolic heart failure
+medcode	strat_HF_med	1661371000000112	HFNEF - heart failure with normal ejection fraction
+medcode	strat_HF_med	504901000006118	Benign hypertensive heart disease with congestive cardiac failure
+medcode	strat_HF_med	3283871000006117	Chronic heart failure
+medcode	strat_HF_med	7056281000006118	Congestive heart failure due to left ventricular systolic dysfunction
+medcode	strat_HF_med	72934016	Rheumatic left ventricular failure
+medcode	strat_HF_med	12734351000006110	QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation using preferred method of communication
+medcode	strat_HF_med	139481017	Weak heart
+medcode	strat_HF_med	1576321000006113	Cause of Death- Congestive Cardiac Failure
+medcode	strat_HF_med	7573201000006117	Heart failure with reduced ejection fraction due to cardiomyopathy
+medcode	strat_HF_med	350484012	Heart failure as a complication of care
+medcode	strat_HF_med	741701000006114	Hypertensive heart and renal disease with (congestive) heart failure
+medcode	strat_HF_med	7573181000006118	Heart failure with reduced ejection fraction due to coronary artery disease
+medcode	strat_HF_med	3589241000006116	Chronic right-sided congestive heart failure
+medcode	strat_HF_med	728681000006116	Malignant hypertensive heart disease without congestive heart failure
+medcode	strat_HF_med	6212521000006115	Acute cardiac pulmonary oedema
+medcode	strat_HF_med	7250571000006113	Chronic systolic heart failure
+medcode	strat_HF_med	14015051000006114	Acute on chronic right-sided congestive heart failure
+medcode	strat_HF_med	4193361000006119	Chronic left-sided heart failure
+medcode	strat_HF_med	728671000006119	Malignant hypertensive heart disease with congestive cardiac failure
+medcode	strat_HF_med	7573211000006119	Heart failure with reduced ejection fraction due to heart valve disease
+medcode	strat_HF_med	3886071000006114	LVF - Left ventricular failure
+medcode	strat_HF_med	6919191000006119	Diastolic heart failure
+medcode	strat_HF_med	8030311000006111	Exacerbation of congestive heart failure
+medcode	strat_HF_med	12623611000006114	Excepted from heart failure quality indicators - service unavailable
+medcode	strat_HF_med	2585431000006117	Chronic left-sided congestive heart failure
+medcode	strat_HF_med	789941000006117	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+medcode	strat_HF_med	14131371000006115	Telehealth monitoring for chronic heart failure
+medcode	strat_HF_med	5054791000006119	Fluid overload pulmonary oedema
+medcode	strat_HF_med	8048061000006111	Chronic combined systolic and diastolic heart failure
+medcode	strat_HF_med	4005301000006110	Biventricular failure
+medcode	strat_HF_med	2660881000006116	High output heart failure
+medcode	strat_HF_med	6204381000006117	Acute right-sided heart failure
+medcode	strat_HF_med	6914191000006115	Systolic heart failure
+medcode	strat_HF_med	7052811000006113	Right heart failure due to pulmonary hypertension
+medcode	strat_HF_med	7475721000006114	Heart failure due to end stage congenital heart disease
+medcode	strat_HF_med	3244761000006113	Hypertensive heart failure
+medcode	strat_HF_med	7507301000006110	Acute exacerbation of chronic congestive heart failure
+medcode	strat_HF_med	6043761000006113	Refractory heart failure
+medcode	strat_HF_med	8011111000006111	Congestive heart failure with right heart failure
+medcode	strat_HF_med	7573191000006115	Heart failure with reduced ejection fraction due to myocarditis
+medcode	strat_HF_med	3182531000006110	Congestive heart disease
+medcode	strat_HF_med	5054671000006113	High altitude pulmonary oedema
+medcode	strat_HF_med	7510341000006110	Symptomatic congestive heart failure
+medcode	strat_HF_med	3182561000006118	CHF - Congestive heart failure
+medcode	strat_HF_med	14151151000006111	Heart failure due to thyrotoxicosis
+medcode	strat_HF_med	3974561000006115	Pleural effusion due to congestive heart failure
+medcode	strat_HF_med	3842421000006111	Congestive rheumatic heart failure
+medcode	strat_HF_med	14742661000006115	Left ventricular failure with normal ejection fraction due to valvular heart disease
+medcode	strat_HF_med	3886061000006119	Left-sided heart failure
+medcode	strat_HF_med	2504341000006116	Acute left heart failure
+medcode	strat_HF_med	3213831000006118	Right heart failure secondary to left heart failure
+medcode	strat_HF_med	3868341000006118	HF - Heart failure
+medcode	strat_HF_med	13971301000006111	Low output heart failure due to and following Fontan operation
+medcode	strat_HF_med	2581861000006110	Hypertensive heart disease with congestive heart failure
+medcode	strat_HF_med	3809001000006112	Acute right-sided congestive heart failure
+medcode	strat_HF_med	3489281000006119	Hypertensive heart disease without congestive heart failure
+medcode	strat_HF_med	7275961000006118	Acute on chronic diastolic heart failure
+medcode	strat_HF_med	14171441000006118	Heart failure management programme

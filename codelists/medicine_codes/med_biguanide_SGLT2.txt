@@ -1,0 +1,17 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_biguanide_SGLT2	9106041000033110	Dapagliflozin 5mg / Metformin 1g tablets	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	10614441000033112	Empagliflozin 12.5mg / Metformin 1g tablets	Empagliflozin/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	10614241000033111	Empagliflozin 5mg / Metformin 1g tablets	Empagliflozin/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	9851541000033114	Canagliflozin 50mg / Metformin 1g tablets	Canagliflozin hemihydrate/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	9106141000033114	Dapagliflozin 5mg / Metformin 850mg tablets	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	10614141000033116	Empagliflozin 5mg / Metformin 850mg tablets	Empagliflozin/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	10614341000033118	Empagliflozin 12.5mg / Metformin 850mg tablets	Empagliflozin/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	9851641000033110	Canagliflozin 50mg / Metformin 850mg tablets	Canagliflozin hemihydrate/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	9106241000033119	Xigduo 5mg/1000mg tablets (AstraZeneca UK Ltd)	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	10614841000033110	Synjardy 12.5mg/1000mg tablets (Boehringer Ingelheim Ltd)	Empagliflozin/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	10614641000033114	Synjardy 5mg/1000mg tablets (Boehringer Ingelheim Ltd)	Empagliflozin/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	9851841000033111	Vokanamet 50mg/1000mg tablets (Napp Pharmaceuticals Ltd)	Canagliflozin hemihydrate/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	9106341000033112	Xigduo 5mg/850mg tablets (AstraZeneca UK Ltd)	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	10614541000033113	Synjardy 5mg/850mg tablets (Boehringer Ingelheim Ltd)	Empagliflozin/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	10614741000033117	Synjardy 12.5mg/850mg tablets (Boehringer Ingelheim Ltd)	Empagliflozin/ Metformin hydrochloride
+prodcode	med_biguanide_SGLT2	9851741000033118	Vokanamet 50mg/850mg tablets (Napp Pharmaceuticals Ltd)	Canagliflozin hemihydrate/ Metformin hydrochloride

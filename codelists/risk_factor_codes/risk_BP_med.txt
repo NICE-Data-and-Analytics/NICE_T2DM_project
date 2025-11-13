@@ -1,0 +1,38 @@
+code_type	code_group	code	term
+medcode	risk_BP_med	114311000006111	Systolic arterial pressure
+medcode	risk_BP_med	2533615017	Average home systolic blood pressure
+medcode	risk_BP_med	1780182014	Standing systolic blood pressure
+medcode	risk_BP_med	2159155011	Sitting systolic blood pressure
+medcode	risk_BP_med	458812014	Average 24 hour systolic blood pressure
+medcode	risk_BP_med	458809011	Average day interval systolic blood pressure
+medcode	risk_BP_med	458808015	Average night interval systolic blood pressure
+medcode	risk_BP_med	2159157015	Lying systolic blood pressure
+medcode	risk_BP_med	298281000000114	Ambulatory systolic blood pressure
+medcode	risk_BP_med	11903371000006115	O/E - Systolic BP reading
+medcode	risk_BP_med	1808011000006111	Systolic blood pressure - left arm
+medcode	risk_BP_med	1994021000006115	Home systolic blood pressure
+medcode	risk_BP_med	1808041000006110	Systolic blood pressure - right arm
+medcode	risk_BP_med	458803012	Average systolic blood pressure
+medcode	risk_BP_med	5527191000006114	Systolic blood pressure
+medcode	risk_BP_med	2418961000000111	Baseline systolic blood pressure
+medcode	risk_BP_med	3676271000006117	Systolic blood pressure
+medcode	risk_BP_med	6046311000006118	24 hour systolic blood pressure
+medcode	risk_BP_med	6046061000006117	Maximum systolic blood pressure
+medcode	risk_BP_med	6046151000006115	Maximum 24 hour systolic blood pressure
+medcode	risk_BP_med	2705391000006113	Normal systolic arterial pressure
+medcode	risk_BP_med	6046141000006117	Minimum 24 hour systolic blood pressure
+medcode	risk_BP_med	6046051000006119	Minimum systolic blood pressure
+medcode	risk_BP_med	6620591000006114	Systolic blood pressure on admission
+medcode	risk_BP_med	6046111000006116	Maximum day interval systolic blood pressure
+medcode	risk_BP_med	6046081000006110	Minimum day interval systolic blood pressure
+medcode	risk_BP_med	6046091000006113	Minimum night interval systolic blood pressure
+medcode	risk_BP_med	14536491000006114	Self reported systolic blood pressure
+medcode	risk_BP_med	7615071000006115	Post exercise systolic blood pressure response normal
+medcode	risk_BP_med	2616361000000114	Non-invasive central systolic blood pressure
+medcode	risk_BP_med	7615061000006110	Post exercise systolic blood pressure response abnormal
+medcode	risk_BP_med	2786481000006111	Increased systolic arterial pressure
+medcode	risk_BP_med	2791691000006118	Abnormal systolic arterial pressure
+medcode	risk_BP_med	8057971000006116	Ambulatory systolic BP (blood pressure)
+medcode	risk_BP_med	2786501000006118	High systolic arterial pulse pressure
+medcode	risk_BP_med	5295021000006119	Non-invasive systolic arterial pressure
+medcode	risk_BP_med	2705401000006110	Normal systolic blood pressure

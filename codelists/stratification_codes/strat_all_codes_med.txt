@@ -1,0 +1,1338 @@
+code_type	code_group	code	term
+medcode	strat_ASCVD	2534664018	Ischaemic heart disease
+medcode	strat_ASCVD	299757012	Angina pectoris
+medcode	strat_ASCVD	94884017	Acute myocardial infarction
+medcode	strat_ASCVD	2537480011	IHD - Ischaemic heart disease
+medcode	strat_ASCVD	405339016	Cerebrovascular accident
+medcode	strat_ASCVD	395783012	Transient ischaemic attack
+medcode	strat_ASCVD	395788015	Transient cerebral ischaemia
+medcode	strat_ASCVD	235911000006116	Peripheral vascular disease
+medcode	strat_ASCVD	1780501013	Acute non-ST segment elevation myocardial infarction
+medcode	strat_ASCVD	105536013	Intermittent claudication
+medcode	strat_ASCVD	605501000006117	CVA unspecified
+medcode	strat_ASCVD	219531000000117	MI - acute myocardial infarction
+medcode	strat_ASCVD	2536395017	Coronary artery disease
+medcode	strat_ASCVD	1780491019	Acute ST segment elevation myocardial infarction
+medcode	strat_ASCVD	1488382011	Acute coronary syndrome
+medcode	strat_ASCVD	299835014	Ischaemic heart disease NOS
+medcode	strat_ASCVD	395780010	Cerebral infarction
+medcode	strat_ASCVD	605491000006113	CVA - Cerebrovascular accident
+medcode	strat_ASCVD	7845011	Unstable angina
+medcode	strat_ASCVD	299714019	Acute myocardial infarction of inferior wall
+medcode	strat_ASCVD	300515011	Peripheral vascular disease NOS
+medcode	strat_ASCVD	605461000006117	CVA - cerebrovascular accident due to cerebral artery occlusion
+medcode	strat_ASCVD	1222398015	Cerebral arterial occlusion
+medcode	strat_ASCVD	122401000006115	Stroke unspecified
+medcode	strat_ASCVD	395791015	Other peripheral vascular disease
+medcode	strat_ASCVD	744901000006114	Intracerebral haemorrhage (ICH)
+medcode	strat_ASCVD	350348018	Stable angina
+medcode	strat_ASCVD	300370010	Left sided CVA
+medcode	strat_ASCVD	5010981000006119	Stroke
+medcode	strat_ASCVD	251692018	H/O: TIA
+medcode	strat_ASCVD	216185010	Peripheral vascular disease monitoring
+medcode	strat_ASCVD	299721019	Acute myocardial infarction NOS
+medcode	strat_ASCVD	4031011	Old myocardial infarction
+medcode	strat_ASCVD	72571000006115	Unstable angina
+medcode	strat_ASCVD	411512011	Claudication
+medcode	strat_ASCVD	300371014	Right sided CVA
+medcode	strat_ASCVD	482941000006119	Angina pectoris NOS
+medcode	strat_ASCVD	497559016	Arteriosclerotic dementia
+medcode	strat_ASCVD	299765010	Angina pectoris NOS
+medcode	strat_ASCVD	350346019	Triple vessel disease of the heart
+medcode	strat_ASCVD	595731000006114	Coronary atherosclerosis
+medcode	strat_ASCVD	605471000006112	Cerebral hemorrhage
+medcode	strat_ASCVD	741131000000114	Peripheral vascular disease monitoring first letter
+medcode	strat_ASCVD	696161000006115	Multi-infarct dementia
+medcode	strat_ASCVD	451133011	Left sided cerebral infarction
+medcode	strat_ASCVD	158118014	Cerebellar infarction
+medcode	strat_ASCVD	299782012	Single coronary vessel disease
+medcode	strat_ASCVD	299709018	Anterior myocardial infarction NOS
+medcode	strat_ASCVD	742481000006118	Ischaemic leg
+medcode	strat_ASCVD	122361000006113	Stroke due to cerebral arterial occlusion
+medcode	strat_ASCVD	118689010	Cerebral thrombosis
+medcode	strat_ASCVD	122371000006118	Cerebral haemorrhage
+medcode	strat_ASCVD	451134017	Right sided cerebral infarction
+medcode	strat_ASCVD	810821000006112	H/O: myocardial infarct at greater than 60
+medcode	strat_ASCVD	299796018	Ischaemic cardiomyopathy
+medcode	strat_ASCVD	299776014	Chronic ischaemic heart disease
+medcode	strat_ASCVD	455641000006112	Acute anterolateral myocardial infarction
+medcode	strat_ASCVD	810811000006116	H/O: myocardial infarct at less than 60
+medcode	strat_ASCVD	299783019	Double coronary vessel disease
+medcode	strat_ASCVD	442204010	Angina on effort
+medcode	strat_ASCVD	13944841000006117	Peripheral arterial disease
+medcode	strat_ASCVD	299342019	Lacunar infarction
+medcode	strat_ASCVD	218511000000117	Infarction - cerebral
+medcode	strat_ASCVD	95931000006111	Transient cerebral ischaemia NOS
+medcode	strat_ASCVD	67511000006117	Vertebro-basilar insufficiency
+medcode	strat_ASCVD	299745015	Acute coronary insufficiency
+medcode	strat_ASCVD	37443015	Heart attack
+medcode	strat_ASCVD	457531000006110	Acute inferolateral myocardial infarction
+medcode	strat_ASCVD	116992017	Acute subendocardial infarction
+medcode	strat_ASCVD	1227364015	History of coronary artery bypass grafting
+medcode	strat_ASCVD	299741012	Preinfarction syndrome
+medcode	strat_ASCVD	350535018	Peripheral ischaemic vascular disease
+medcode	strat_ASCVD	443199013	Ischaemic foot
+medcode	strat_ASCVD	450665015	Ischaemic toe
+medcode	strat_ASCVD	2474651019	Infarction of basal ganglia
+medcode	strat_ASCVD	399031000006111	[X]Multi-infarct dementia
+medcode	strat_ASCVD	502878012	Cerebellar haemorrhage
+medcode	strat_ASCVD	7847015	Crescendo angina
+medcode	strat_ASCVD	350533013	Peripheral ischaemia
+medcode	strat_ASCVD	3414251000006112	VAD - Vascular dementia
+medcode	strat_ASCVD	524511000006116	Brainstem stroke syndrome
+medcode	strat_ASCVD	300366019	Cerebellar stroke syndrome
+medcode	strat_ASCVD	451132018	[V]Presence of coronary artery bypass graft
+medcode	strat_ASCVD	2160096015	Coronary artery bypass graft occlusion
+medcode	strat_ASCVD	494261017	Worsening angina
+medcode	strat_ASCVD	299707016	Acute anterior myocardial infarction
+medcode	strat_ASCVD	884611000006112	Peripheral vasc. disease NOS
+medcode	strat_ASCVD	230021000006115	Personal history of myocardial infarction
+medcode	strat_ASCVD	884151000006119	Myocardial Infarction
+medcode	strat_ASCVD	338974012	Ischaemic chest pain
+medcode	strat_ASCVD	459859010	Asymptomatic coronary heart disease
+medcode	strat_ASCVD	5058071000006110	Lower limb ischaemia
+medcode	strat_ASCVD	300362017	Middle cerebral artery syndrome
+medcode	strat_ASCVD	363791000006112	[X]Arteriosclerotic dementia
+medcode	strat_ASCVD	4778181000006119	Left sided cerebral hemisphere cerebrovascular accident
+medcode	strat_ASCVD	125470015	Cerebral embolism
+medcode	strat_ASCVD	300349016	Transient cerebral ischaemia NOS
+medcode	strat_ASCVD	106394016	Vertebrobasilar insufficiency
+medcode	strat_ASCVD	741071000000112	Peripheral vascular disease monitoring invitation
+medcode	strat_ASCVD	2855301000006112	Myocardial infarction
+medcode	strat_ASCVD	7844010	Preinfarction syndrome
+medcode	strat_ASCVD	1847121000006114	Peripheral arterial disease
+medcode	strat_ASCVD	4778201000006118	Right sided cerebral hemisphere cerebrovascular accident
+medcode	strat_ASCVD	256452010	ECG: myocardial infarction
+medcode	strat_ASCVD	299710011	Acute posterior myocardial infarction
+medcode	strat_ASCVD	498328016	Angina at rest
+medcode	strat_ASCVD	455651000006114	Acute anteroseptal myocardial infarction
+medcode	strat_ASCVD	299834013	Other specified ischaemic heart disease
+medcode	strat_ASCVD	300514010	Other specified peripheral vascular disease NOS
+medcode	strat_ASCVD	302011	Diabetic peripheral angiopathy
+medcode	strat_ASCVD	543141000006110	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+medcode	strat_ASCVD	350350014	New onset angina
+medcode	strat_ASCVD	450322013	Acute non-Q wave infarction
+medcode	strat_ASCVD	1234005010	Acute inferoposterior infarction
+medcode	strat_ASCVD	6632221000006112	Peripheral arterial occlusive disease
+medcode	strat_ASCVD	300277011	Intracerebral haemorrhage, intraventricular
+medcode	strat_ASCVD	300321011	Cerebral infarction due to thrombosis of cerebral arteries
+medcode	strat_ASCVD	524541000006117	Brain stem infarction
+medcode	strat_ASCVD	300287010	Intracerebral haemorrhage NOS
+medcode	strat_ASCVD	884621000006116	Peripheral vasc. disease NOS
+medcode	strat_ASCVD	4776121000006117	Generalised ischaemic myocardial dysfunction
+medcode	strat_ASCVD	1786197015	Coronary thrombosis
+medcode	strat_ASCVD	1738171000006114	History of myocardial infarction
+medcode	strat_ASCVD	2534674015	Chronic myocardial ischaemia
+medcode	strat_ASCVD	350376014	Silent myocardial infarction
+medcode	strat_ASCVD	39111000006114	Other acute and subacute ischaemic heart disease
+medcode	strat_ASCVD	3371411000006113	CHD - Coronary heart disease
+medcode	strat_ASCVD	3371421000006117	Coronary heart disease
+medcode	strat_ASCVD	299711010	Acute lateral myocardial infarction
+medcode	strat_ASCVD	5058111000006119	Critical lower limb ischaemia
+medcode	strat_ASCVD	300312010	Cerebral infarct due to thrombosis of precerebral arteries
+medcode	strat_ASCVD	300941014	[X]Other cerebral infarction
+medcode	strat_ASCVD	503469016	Pontine haemorrhage
+medcode	strat_ASCVD	503791000006114	Basal ganglia haemorrhage
+medcode	strat_ASCVD	300364016	Posterior cerebral artery syndrome
+medcode	strat_ASCVD	5011091000006110	Partial anterior cerebral circulation infarction
+medcode	strat_ASCVD	6990981000006114	Ischaemic stroke
+medcode	strat_ASCVD	25897016	Subclavian steal syndrome
+medcode	strat_ASCVD	499739014	Insufficiency - basilar artery
+medcode	strat_ASCVD	67501000006115	Vertebrobasilar artery syndrome
+medcode	strat_ASCVD	350354017	Silent myocardial ischaemia
+medcode	strat_ASCVD	5058231000006119	Coronary artery stenosis
+medcode	strat_ASCVD	451369010	H/O: Myocardial infarction in last year
+medcode	strat_ASCVD	299805019	Other chronic ischaemic heart disease NOS
+medcode	strat_ASCVD	299718016	Other acute myocardial infarction
+medcode	strat_ASCVD	98087016	Angina decubitus
+medcode	strat_ASCVD	1654891000000110	Coronary angioplasty planned
+medcode	strat_ASCVD	1550991000000116	Coronary artery bypass graft operation planned
+medcode	strat_ASCVD	4005601000006116	Calcific coronary arteriosclerosis
+medcode	strat_ASCVD	394541000006112	[X]Ischaemic heart diseases
+medcode	strat_ASCVD	89332015	Atherosclerotic heart disease
+medcode	strat_ASCVD	3600701000006114	Coronary artery atheroma
+medcode	strat_ASCVD	2115181000000110	Coronary microvascular disease
+medcode	strat_ASCVD	13930051000006117	Dressler's syndrome
+medcode	strat_ASCVD	8453031000006117	Haemorrhagic stroke
+medcode	strat_ASCVD	5011131000006112	Posterior cerebral circulation infarction
+medcode	strat_ASCVD	5582311000006110	Occipital cerebral infarction
+medcode	strat_ASCVD	294656010	Arteriosclerotic dementia NOS
+medcode	strat_ASCVD	8044481000006118	Ischaemic stroke without coma
+medcode	strat_ASCVD	300322016	Cerebral infarction due to embolism of cerebral arteries
+medcode	strat_ASCVD	300363010	Anterior cerebral artery syndrome
+medcode	strat_ASCVD	300943012	Cerebral artery occlusion
+medcode	strat_ASCVD	345655015	Pure motor lacunar syndrome
+medcode	strat_ASCVD	106392017	Basilar artery syndrome
+medcode	strat_ASCVD	4775971000006114	Angina
+medcode	strat_ASCVD	219521000000119	Attack - heart
+medcode	strat_ASCVD	459487012	Refractory angina
+medcode	strat_ASCVD	482811000006113	Angina at rest
+medcode	strat_ASCVD	2609111000000119	Non-obstructive coronary atherosclerosis
+medcode	strat_ASCVD	5887611000006117	Exercise-induced angina
+medcode	strat_ASCVD	458410010	Post infarct angina
+medcode	strat_ASCVD	459488019	Transient myocardial ischaemia
+medcode	strat_ASCVD	6651391000006114	NSTEMI - Non-ST segment elevation MI
+medcode	strat_ASCVD	2536393012	Arteriosclerotic heart disease
+medcode	strat_ASCVD	300510018	Other specified peripheral vascular disease
+medcode	strat_ASCVD	1715241000006112	Vascular claudication
+medcode	strat_ASCVD	2377871000000112	Ischaemic foot pain at rest
+medcode	strat_ASCVD	542261000006114	Cerebral infarction due to occlusion of precerebral artery
+medcode	strat_ASCVD	9912271000006112	Cerebellar stroke
+medcode	strat_ASCVD	163261000006119	Right sided intracerebral haemorrhage, unspecified
+medcode	strat_ASCVD	300313017	Cerebral infarction due to embolism of precerebral arteries
+medcode	strat_ASCVD	345675012	Lobar cerebral haemorrhage
+medcode	strat_ASCVD	496232015	Internal capsule haemorrhage
+medcode	strat_ASCVD	5011051000006116	Total anterior cerebral circulation infarction
+medcode	strat_ASCVD	300939013	Cerebral haemorrhage
+medcode	strat_ASCVD	748941000006115	Left sided intracerebral haemorrhage, unspecified
+medcode	strat_ASCVD	884421000006119	Cerebral haemorrhage
+medcode	strat_ASCVD	130375018	Lateral medullary syndrome
+medcode	strat_ASCVD	345684012	Carotid territory transient ischaemic attack
+medcode	strat_ASCVD	300348012	Other transient cerebral ischaemia
+medcode	strat_ASCVD	416991000006112	Transient cerebral ischemia
+medcode	strat_ASCVD	58046010	Vertebral artery syndrome
+medcode	strat_ASCVD	6360391000006118	Atypical angina
+medcode	strat_ASCVD	542251000006112	Cerebral infarction due to cerebral venous thrombosis, non-pyogenic
+medcode	strat_ASCVD	345650013	Brainstem infarction NOS
+medcode	strat_ASCVD	256460011	ECG: myocardial infarct NOS
+medcode	strat_ASCVD	208365015	Postoperative myocardial infarction
+medcode	strat_ASCVD	2537483013	Chronic coronary insufficiency
+medcode	strat_ASCVD	299808017	Subsequent myocardial infarction
+medcode	strat_ASCVD	59952018	Nocturnal angina
+medcode	strat_ASCVD	495394013	Cortical haemorrhage
+medcode	strat_ASCVD	300344014	Carotid artery syndrome hemispheric
+medcode	strat_ASCVD	1667741000000110	[V]Personal history of transient ischaemic attack
+medcode	strat_ASCVD	1234306015	Acute septal infarction
+medcode	strat_ASCVD	4032016	Healed myocardial infarction
+medcode	strat_ASCVD	345658018	Pure sensory lacunar syndrome
+medcode	strat_ASCVD	5492171000006112	TIA
+medcode	strat_ASCVD	905351000006113	[RFC] Myocardial infarction (MI)
+medcode	strat_ASCVD	299712015	True posterior myocardial infarction
+medcode	strat_ASCVD	299719012	Acute atrial infarction
+medcode	strat_ASCVD	447324018	Acute Q-wave infarct
+medcode	strat_ASCVD	6360351000006112	Multi vessel coronary artery disease
+medcode	strat_ASCVD	6651221000006117	STEMI - ST elevation myocardial infarction
+medcode	strat_ASCVD	299720018	Other acute myocardial infarction NOS
+medcode	strat_ASCVD	460681000006116	Acute transmural myocardial infarction of unspecif site
+medcode	strat_ASCVD	884141000006116	Coronary thrombosis
+medcode	strat_ASCVD	7571581000006113	Acute anterior ST segment elevation myocardial infarction
+medcode	strat_ASCVD	5011471000006116	Posterior circulation stroke of uncertain pathology
+medcode	strat_ASCVD	7054171000006115	Acute lacunar infarction
+medcode	strat_ASCVD	744921000006116	Intracerebral haemorrhage in hemisphere, unspecified
+medcode	strat_ASCVD	12223101000006118	Intracerebral haemorrhage
+medcode	strat_ASCVD	14068071000006114	History of transient ischaemic attack
+medcode	strat_ASCVD	300353019	Intermittent cerebral ischaemia
+medcode	strat_ASCVD	8231151000006110	Personal history of transient ischaemic attack
+medcode	strat_ASCVD	1786198013	Thrombosis - coronary
+medcode	strat_ASCVD	299723016	Other acute and subacute ischaemic heart disease
+medcode	strat_ASCVD	7572321000006112	Acute ST segment elevation myocardial infarction of inferior wall
+medcode	strat_ASCVD	5886711000006111	Ischaemia of feet
+medcode	strat_ASCVD	5011041000006118	Anterior cerebral circulation infarction
+medcode	strat_ASCVD	5011411000006113	Thalamic haemorrhage
+medcode	strat_ASCVD	1212072018	Occlusive stroke
+medcode	strat_ASCVD	6348301000006119	Embolic stroke
+medcode	strat_ASCVD	682481000006118	Myocardial infarction aborted
+medcode	strat_ASCVD	216351000006118	Post infarction pericarditis
+medcode	strat_ASCVD	7105241000006116	Typical angina
+medcode	strat_ASCVD	494438016	Subendocardial ischaemia
+medcode	strat_ASCVD	6864781000006110	Myocardial ischaemia
+medcode	strat_ASCVD	109915012	Post-myocardial infarction syndrome
+medcode	strat_ASCVD	14130101000006118	Stenosis of anterior descending branch of left coronary artery
+medcode	strat_ASCVD	6021731000006115	Critical ischaemia of foot
+medcode	strat_ASCVD	5967391000006111	Multiple lacunar infarcts
+medcode	strat_ASCVD	423221000006117	[X]Predominantly cortical dementia
+medcode	strat_ASCVD	370701000006118	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+medcode	strat_ASCVD	300956017	[X]Intracerebral haemorrhage in hemisphere, unspecified
+medcode	strat_ASCVD	542831000006116	Cerebral embolus
+medcode	strat_ASCVD	906771000006113	[RFC] Peripheral vascular disease
+medcode	strat_ASCVD	299742017	Coronary thrombosis not resulting in myocardial infarction
+medcode	strat_ASCVD	300874013	[X]Other forms of angina pectoris
+medcode	strat_ASCVD	299800012	Other specified chronic ischaemic heart disease
+medcode	strat_ASCVD	299804015	Other specified chronic ischaemic heart disease NOS
+medcode	strat_ASCVD	299708014	Acute anteroapical infarction
+medcode	strat_ASCVD	967931000006114	Acute myocardial infarction of posterolateral wall
+medcode	strat_ASCVD	6850801000006111	Disorder of coronary artery
+medcode	strat_ASCVD	3381601000006117	Acute myocardial infarction of anterior wall
+medcode	strat_ASCVD	300963017	[X]Other specified peripheral vascular diseases
+medcode	strat_ASCVD	459308015	Type 2 diabetes mellitus with peripheral angiopathy
+medcode	strat_ASCVD	3515794015	Acute cerebral ischaemia
+medcode	strat_ASCVD	5011291000006119	Haemorrhagic cerebral infarction
+medcode	strat_ASCVD	5011461000006111	Anterior circulation stroke of uncertain pathology
+medcode	strat_ASCVD	57341000006119	Wallenberg's syndrome
+medcode	strat_ASCVD	5011491000006115	Anterior circulation transient ischaemic attack
+medcode	strat_ASCVD	5492221000006118	Transient ischemic attack
+medcode	strat_ASCVD	2476647018	Vertebral artery compression syndrome
+medcode	strat_ASCVD	4354151000006115	Right coronary artery occlusion
+medcode	strat_ASCVD	931961000006117	Acute coronary syndrome
+medcode	strat_ASCVD	100681000006116	Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction
+medcode	strat_ASCVD	537751000006115	Cardiac rupture after acute myocardial infarction
+medcode	strat_ASCVD	299763015	Angina decubitus NOS
+medcode	strat_ASCVD	14130061000006116	Stenosis of right coronary artery
+medcode	strat_ASCVD	8036721000006118	Chronic total occlusion of coronary artery
+medcode	strat_ASCVD	299812011	Subsequent myocardial infarction of inferior wall
+medcode	strat_ASCVD	5887631000006111	Exertional angina
+medcode	strat_ASCVD	6546111000006118	ACS - Acute coronary syndrome
+medcode	strat_ASCVD	460686018	[V]Presence of aortocoronary bypass graft
+medcode	strat_ASCVD	299750014	Other acute and subacute ischaemic heart disease NOS
+medcode	strat_ASCVD	6860251000006115	Ischemic heart disease
+medcode	strat_ASCVD	3371381000006110	CAD - Coronary artery disease
+medcode	strat_ASCVD	7571601000006115	Acute STEMI (ST elevation myocardial infarction) of anterior wall
+medcode	strat_ASCVD	7572331000006110	Acute STEMI (ST elevation myocardial infarction) of inferior wall
+medcode	strat_ASCVD	14132941000006118	Myocardial infarction with non-obstructive coronary artery
+medcode	strat_ASCVD	370661000006114	[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+medcode	strat_ASCVD	3508964014	Cerebrovascular accident due to thrombus of left middle cerebral artery
+medcode	strat_ASCVD	5011161000006115	Lacunar stroke
+medcode	strat_ASCVD	605481000006110	CVA - cerebrovascular accident in the puerperium
+medcode	strat_ASCVD	6846141000006118	Cardioembolic stroke
+medcode	strat_ASCVD	746571000006116	Intracerebral haemorrhage, multiple localized
+medcode	strat_ASCVD	5011191000006111	Pure motor lacunar infarction
+medcode	strat_ASCVD	9868571000006116	Mural thrombus of left ventricle following acute myocardial infarction
+medcode	strat_ASCVD	813961000006116	Haemopericardium as current complication following acute myocardial infarction
+medcode	strat_ASCVD	498031000006112	Atrial septal defect as current complication following acute myocardial infarction
+medcode	strat_ASCVD	36036010	Syncope anginosa
+medcode	strat_ASCVD	5056201000006111	Triple vessel coronary artery disease
+medcode	strat_ASCVD	6601121000006118	Coronary artery thrombosis
+medcode	strat_ASCVD	362461000006119	[X]Acute transmural myocardial infarction of unspecif site
+medcode	strat_ASCVD	299811016	Subsequent myocardial infarction of anterior wall
+medcode	strat_ASCVD	455422014	Postoperative subendocardial myocardial infarction
+medcode	strat_ASCVD	6360361000006114	Left main coronary artery disease
+medcode	strat_ASCVD	13941171000006115	Occlusion of mid left anterior descending coronary artery
+medcode	strat_ASCVD	14130081000006114	Stenosis of left coronary artery main stem
+medcode	strat_ASCVD	8278561000006114	Ischaemic lower limb pain at rest
+medcode	strat_ASCVD	3508961018	Cerebrovascular accident due to thrombus of right middle cerebral artery
+medcode	strat_ASCVD	7855631000006111	Cerebral ischaemic stroke due to small artery occlusion
+medcode	strat_ASCVD	13909901000006119	Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage
+medcode	strat_ASCVD	300276019	External capsule haemorrhage
+medcode	strat_ASCVD	4777881000006112	Intracerebral haemorrhage, multiple localised
+medcode	strat_ASCVD	345639010	Infarction - precerebral
+medcode	strat_ASCVD	5011451000006114	Stroke of uncertain pathology
+medcode	strat_ASCVD	3505637014	Occlusion of left middle cerebral artery
+medcode	strat_ASCVD	300352012	Impending cerebral ischaemia
+medcode	strat_ASCVD	5492201000006111	TIA - Transient ischaemic attack
+medcode	strat_ASCVD	7289121000006119	Recurrent transient cerebral ischaemic attack
+medcode	strat_ASCVD	2729671000000118	Acute transmural myocardial infarction
+medcode	strat_ASCVD	455423016	Postoperative myocardial infarction, unspecified
+medcode	strat_ASCVD	4776071000006117	Two coronary vessel disease
+medcode	strat_ASCVD	6860261000006118	IHD - Ischemic heart disease
+medcode	strat_ASCVD	109916013	Dressler's syndrome
+medcode	strat_ASCVD	14130091000006112	Stenosis of circumflex branch of left coronary artery
+medcode	strat_ASCVD	5011141000006119	Posterior cerebral circulation stroke
+medcode	strat_ASCVD	6990991000006112	Ischemic stroke
+medcode	strat_ASCVD	14194801000006111	Acute cerebrovascular accident due to ischaemia
+medcode	strat_ASCVD	3166141000006114	Angina, class II
+medcode	strat_ASCVD	7475751000006117	Ischaemic dilated cardiomyopathy due to coronary artery disease
+medcode	strat_ASCVD	3536581000006113	Coronary occlusion
+medcode	strat_ASCVD	13930031000006112	Delayed postmyocardial infarction pericarditis
+medcode	strat_ASCVD	13941121000006116	Occlusion of proximal left anterior descending coronary artery
+medcode	strat_ASCVD	280561000006111	Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+medcode	strat_ASCVD	13919651000006113	Ulcer of heel due to atherosclerosis of artery of lower limb
+medcode	strat_ASCVD	6348291000006115	Thrombotic stroke
+medcode	strat_ASCVD	7839991000006115	Silent cerebral infarct
+medcode	strat_ASCVD	3511959014	Thrombosis of left middle cerebral artery
+medcode	strat_ASCVD	3509794017	Cerebrovascular accident due to occlusion of left middle cerebral artery
+medcode	strat_ASCVD	14014251000006116	Cerebrovascular accident due to occlusion of bilateral pontine arteries
+medcode	strat_ASCVD	5011111000006118	Partial anterior cerebral circulation stroke
+medcode	strat_ASCVD	5011211000006112	Pure sensory lacunar infarction
+medcode	strat_ASCVD	12122331000006116	Acute ST segment elevation myocardial infarction of inferolateral wall
+medcode	strat_ASCVD	2619484018	MI - Myocardial infarction aborted
+medcode	strat_ASCVD	300879015	[X]Other forms of chronic ischaemic heart disease
+medcode	strat_ASCVD	12122341000006114	Acute ST segment elevation myocardial infarction of inferoposterior wall
+medcode	strat_ASCVD	5056421000006119	Old inferior myocardial infarction
+medcode	strat_ASCVD	67081000006119	Ventricular septal defect as current complication following acute myocardial infarction
+medcode	strat_ASCVD	300511019	Peripheral angiopathic disease EC NOS
+medcode	strat_ASCVD	3511955015	Thrombosis of right middle cerebral artery
+medcode	strat_ASCVD	14492731000006117	Cerebrovascular accident of thalamus
+medcode	strat_ASCVD	13909881000006116	Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct
+medcode	strat_ASCVD	4056931000006116	Brain stem haemorrhage
+medcode	strat_ASCVD	3509810017	Cerebrovascular accident due to occlusion of right middle cerebral artery
+medcode	strat_ASCVD	5011121000006114	PACS - Partial anterior cerebral circulation stroke
+medcode	strat_ASCVD	2901571000006113	Completed stroke
+medcode	strat_ASCVD	12223121000006111	ICH - intracerebral haemorrhage
+medcode	strat_ASCVD	3508955016	Cerebrovascular accident due to thrombus of basilar artery
+medcode	strat_ASCVD	118831000006118	Subsequent myocardial infarction of unspecified site
+medcode	strat_ASCVD	6546751000006118	First myocardial infarction
+medcode	strat_ASCVD	300876010	[X]Other forms of acute ischaemic heart disease
+medcode	strat_ASCVD	3371361000006117	Coronary arteriosclerosis
+medcode	strat_ASCVD	5058121000006110	Critical lower limb ischemia
+medcode	strat_ASCVD	459306016	Type II diabetes mellitus with peripheral angiopathy
+medcode	strat_ASCVD	7067291000006113	Infarction of medulla oblongata
+medcode	strat_ASCVD	2729571000000119	Cerebral infarction due to stenosis of cerebral artery
+medcode	strat_ASCVD	3505639012	Occlusion of right middle cerebral artery
+medcode	strat_ASCVD	32122016	Status anginosus
+medcode	strat_ASCVD	543291000006110	Myocardial infarction with complication
+medcode	strat_ASCVD	6841231000006113	Acute ischaemic heart disease
+medcode	strat_ASCVD	7510331000006117	History of non-ST segment elevation myocardial infarction
+medcode	strat_ASCVD	3641641000006116	Acute myocardial infarction of anterolateral wall
+medcode	strat_ASCVD	13941191000006119	Occlusion of distal left anterior descending coronary artery
+medcode	strat_ASCVD	14015031000006119	Myocardial infarction due to demand ischaemia
+medcode	strat_ASCVD	7574481000006111	Subsequent non-ST segment elevation myocardial infarction
+medcode	strat_ASCVD	5589641000006112	Intracerebellar and posterior fossa haemorrhage
+medcode	strat_ASCVD	3507383012	Spontaneous haemorrhage of cortical intracerebral hemisphere
+medcode	strat_ASCVD	483988011	Bulbar haemorrhage
+medcode	strat_ASCVD	2729551000000111	Cerebral infarction due to occlusion of cerebral artery
+medcode	strat_ASCVD	14182621000006113	Cryptogenic stroke
+medcode	strat_ASCVD	5011521000006118	Vertebrobasilar territory transient ischaemic attack
+medcode	strat_ASCVD	299758019	Stenocardia
+medcode	strat_ASCVD	4776031000006115	Ischaemic heart disease - angina
+medcode	strat_ASCVD	4776141000006112	Ischemic cardiomyopathy
+medcode	strat_ASCVD	2855351000006111	Myocardial infarct
+medcode	strat_ASCVD	5056411000006110	Old anterior myocardial infarction
+medcode	strat_ASCVD	5056941000006119	Post-infarction pericarditis
+medcode	strat_ASCVD	8087751000006116	Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery
+medcode	strat_ASCVD	6841391000006118	Acute myocardial ischaemia
+medcode	strat_ASCVD	1229885017	Microinfarction of heart
+medcode	strat_ASCVD	3565871000006113	Acute myocardial infarction of inferolateral wall
+medcode	strat_ASCVD	7502661000006117	Microvascular ischaemia of myocardium
+medcode	strat_ASCVD	4354131000006110	Left coronary artery occlusion
+medcode	strat_ASCVD	13945191000006117	Occlusion of anterior descending branch of left coronary artery
+medcode	strat_ASCVD	14130111000006115	LAD (left anterior descending) coronary artery stenosis
+medcode	strat_ASCVD	7848701000006116	Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus
+medcode	strat_ASCVD	13718621000006117	History of cerebrovascular accident due to ischaemia
+medcode	strat_ASCVD	5011071000006114	Total anterior cerebral circulation stroke
+medcode	strat_ASCVD	5011241000006111	Lacunar ataxic hemiparesis
+medcode	strat_ASCVD	14194811000006114	Acute ischaemic stroke
+medcode	strat_ASCVD	9843961000006118	Acute ST segment elevation myocardial infarction of anterolateral wall
+medcode	strat_ASCVD	9868461000006110	Unstable angina co-occurrent and due to coronary arteriosclerosis
+medcode	strat_ASCVD	7065281000006117	Ischaemic congestive cardiomyopathy
+medcode	strat_ASCVD	3499001000006116	Angina, class I
+medcode	strat_ASCVD	7508021000006119	CABG (coronary artery bypass graft) operation planned
+medcode	strat_ASCVD	7572351000006115	Silent coronary vasospastic disease
+medcode	strat_ASCVD	13941141000006111	Acute ST segment elevation myocardial infarction due to mid left anterior descending coronary artery occlusion
+medcode	strat_ASCVD	5294511000006117	Coronary graft stenosis
+medcode	strat_ASCVD	6043771000006118	Non-Q wave myocardial infarction
+medcode	strat_ASCVD	616081000006113	Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+medcode	strat_ASCVD	3452181000006112	Acute myocardial infarction of lateral wall
+medcode	strat_ASCVD	14145381000006119	Occlusion of circumflex branch of left coronary artery
+medcode	strat_ASCVD	913931000006116	Type 1 diabetes mellitus with peripheral angiopathy
+medcode	strat_ASCVD	300970017	[X]Peripheral angiopathy in diseases classified elsewhere
+medcode	strat_ASCVD	6633851000006110	PVD-peripheral vascular disease
+medcode	strat_ASCVD	5967911000006119	Trash foot
+medcode	strat_ASCVD	3508962013	Stroke due to thrombus of right middle cerebral artery
+medcode	strat_ASCVD	2832651000006111	Subcortical haemorrhage
+medcode	strat_ASCVD	5011351000006119	Posterior cerebral circulation haemorrhagic infarction
+medcode	strat_ASCVD	3512176011	Embolus of left middle cerebral artery
+medcode	strat_ASCVD	2622631000006114	Intrapontine haemorrhage
+medcode	strat_ASCVD	13909861000006114	Cerebral ischaemic stroke due to dissection of artery
+medcode	strat_ASCVD	5011081000006112	TACS - Total anterior cerebral circulation stroke
+medcode	strat_ASCVD	12223111000006115	Intracerebral hemorrhage
+medcode	strat_ASCVD	14194611000006113	Acute cerebrovascular accident of basal ganglia
+medcode	strat_ASCVD	14518481000006115	Cerebrovascular accident of basal ganglia
+medcode	strat_ASCVD	14518501000006113	Cerebrovascular accident of brainstem
+medcode	strat_ASCVD	3778021000006116	LMS - Lateral medullary syndrome
+medcode	strat_ASCVD	11920121000006117	Transient cerebral ischemia
+medcode	strat_ASCVD	300345010	Multiple and bilateral precerebral artery syndromes
+medcode	strat_ASCVD	9844011000006119	Acute ST segment elevation myocardial infarction of posterior wall
+medcode	strat_ASCVD	4776051000006110	Single vessel coronary artery disease
+medcode	strat_ASCVD	5935321000006111	Acute Q wave myocardial infarction
+medcode	strat_ASCVD	13935211000006117	Acute myocardial infarction of inferolateral wall with posterior extension
+medcode	strat_ASCVD	3886751000006118	Angina, class III
+medcode	strat_ASCVD	14130071000006111	RCA (right coronary artery) stenosis
+medcode	strat_ASCVD	2515471000006117	Septal infarction by electrocardiogram
+medcode	strat_ASCVD	8041051000006118	History of placement of stent in coronary artery bypass graft
+medcode	strat_ASCVD	299813018	Subsequent myocardial infarction of other sites
+medcode	strat_ASCVD	300882013	[X]Subsequent myocardial infarction of unspecified site
+medcode	strat_ASCVD	5647291000006110	Ischaemic myocardial dysfunction
+medcode	strat_ASCVD	212061000006119	Postoperative transmural myocardial infarction of anterior wall
+medcode	strat_ASCVD	212071000006114	Postoperative transmural myocardial infarction of inferior wall
+medcode	strat_ASCVD	7093091000006111	Recent myocardial infarction
+medcode	strat_ASCVD	3536601000006115	Coronary artery occluded
+medcode	strat_ASCVD	7574491000006114	Subsequent NSTEMI (non-ST segment elevation myocardial infarction)
+medcode	strat_ASCVD	3699921000006110	Acute inferior myocardial infarction
+medcode	strat_ASCVD	3745741000006117	Acute myocardial infarction of inferoposterior wall
+medcode	strat_ASCVD	13944861000006118	Peripheral artery disease
+medcode	strat_ASCVD	4392221000006118	Peripheral angiopathy due to diabetes mellitus
+medcode	strat_ASCVD	84961000006116	Type II diabetes mellitus with peripheral angiopathy
+medcode	strat_ASCVD	4193641000006111	Nonparalytic stroke
+medcode	strat_ASCVD	3509799010	Cerebrovascular accident due to occlusion of left posterior cerebral artery
+medcode	strat_ASCVD	3509790014	Cerebrovascular accident due to occlusion of right posterior cerebral artery
+medcode	strat_ASCVD	3508965010	Stroke due to thrombus of left middle cerebral artery
+medcode	strat_ASCVD	5011171000006110	LACI - Lacunar infarction
+medcode	strat_ASCVD	5011431000006119	Lacunar haemorrhage
+medcode	strat_ASCVD	3510963013	Lacunar ataxic hemiparesis of left dominant side
+medcode	strat_ASCVD	3505651014	Occlusion of left posterior cerebral artery
+medcode	strat_ASCVD	14194191000006114	Acute cerebrovascular accident due to stenosis of left carotid artery
+medcode	strat_ASCVD	3511086012	Thrombosis of right vertebral artery
+medcode	strat_ASCVD	5011101000006116	PACI - Partial anterior cerebral circulation infarction
+medcode	strat_ASCVD	3507370011	Spontaneous haemorrhage of cerebral hemisphere
+medcode	strat_ASCVD	14194211000006110	Acute cerebrovascular accident due to occlusion of left middle cerebral artery
+medcode	strat_ASCVD	14194641000006112	Acute cerebrovascular accident of brainstem
+medcode	strat_ASCVD	3512178012	Embolus of right middle cerebral artery
+medcode	strat_ASCVD	3777981000006119	Posterior inferior cerebellar artery syndrome
+medcode	strat_ASCVD	5011501000006111	Anterior circulation transient ischemic attack
+medcode	strat_ASCVD	5011551000006110	Posterior circulation transient ischaemic attack
+medcode	strat_ASCVD	212091000006110	Postoperative transmural myocardial infarction unspec site
+medcode	strat_ASCVD	9843981000006111	Acute ST segment elevation myocardial infarction of lateral wall
+medcode	strat_ASCVD	9843991000006114	Acute ST segment elevation myocardial infarction of anteroseptal wall
+medcode	strat_ASCVD	6360421000006114	Recurrent angina after coronary stent placement
+medcode	strat_ASCVD	3459561000006119	Acute myocardial infarction of apical-lateral wall
+medcode	strat_ASCVD	4776081000006119	Double vessel coronary artery disease
+medcode	strat_ASCVD	158601000006116	Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+medcode	strat_ASCVD	8011041000006111	Acute myocardial infarction due to right coronary artery occlusion
+medcode	strat_ASCVD	5056501000006113	Post-infarction ventricular septal defect
+medcode	strat_ASCVD	7084801000006112	Mixed myocardial ischaemia and infarction
+medcode	strat_ASCVD	2571561000006118	Pre-infarction syndrome
+medcode	strat_ASCVD	3576371000006117	Postmyocardial infarction syndrome
+medcode	strat_ASCVD	7572341000006117	Acute inferior ST segment elevation myocardial infarction
+medcode	strat_ASCVD	13919691000006119	Ulcer of ankle due to atherosclerosis of artery of lower limb
+medcode	strat_ASCVD	3510961010	Lacunar ataxic hemiparesis of right dominant side
+medcode	strat_ASCVD	3508952018	Cerebrovascular accident due to thrombus of left carotid artery
+medcode	strat_ASCVD	14194491000006118	Acute cerebrovascular accident due to occlusion of right carotid artery
+medcode	strat_ASCVD	14492571000006113	Cerebrovascular accident due to occlusion of right anterior cerebral artery
+medcode	strat_ASCVD	14194741000006118	Acute cerebrovascular accident due to occlusion of right cerebellar artery
+medcode	strat_ASCVD	14492751000006112	Thalamic stroke
+medcode	strat_ASCVD	14493231000006118	Cerebrovascular accident due to embolism of bilateral middle cerebral arteries
+medcode	strat_ASCVD	9875951000006117	Cerebrovascular accident due to right carotid artery stenosis
+medcode	strat_ASCVD	13717171000006112	Cerebrovascular accident due to stenosis of bilateral carotid arteries
+medcode	strat_ASCVD	5011061000006119	TACI - Total anterior cerebral circulation infarction
+medcode	strat_ASCVD	13967201000006117	Occlusion of branch of basilar artery
+medcode	strat_ASCVD	5011541000006113	Posterior circulation transient ischemic attack
+medcode	strat_ASCVD	988951000006117	Transient Ischaemic Attacks
+medcode	strat_ASCVD	3551171000006114	Acute myocardial infarction of high lateral wall
+medcode	strat_ASCVD	7574041000006111	Mitral valve regurgitation due to acute myocardial infarction
+medcode	strat_ASCVD	13961321000006113	Occlusion of proximal portion of right coronary artery
+medcode	strat_ASCVD	13961461000006113	Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery
+medcode	strat_ASCVD	9844051000006118	Acute ST segment elevation myocardial infarction due to right coronary artery occlusion
+medcode	strat_ASCVD	6837051000006119	Basal ganglion stroke
+medcode	strat_ASCVD	5011261000006110	Multi-infarct state
+medcode	strat_ASCVD	7855711000006113	Stroke co-occurrent with migraine
+medcode	strat_ASCVD	2855341000006114	MI - Myocardial infarction
+medcode	strat_ASCVD	7966931000006114	Angina associated with type 2 diabetes mellitus
+medcode	strat_ASCVD	13945211000006116	Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery
+medcode	strat_ASCVD	159001000006119	Rupture of papillary muscle as current complication following acute myocardial infarction
+medcode	strat_ASCVD	3024781000006112	Past myocardial infarction diagnosed on ECG AND/OR other special investigation, but currently presenting no symptoms
+medcode	strat_ASCVD	12276271000006112	Progressive angina
+medcode	strat_ASCVD	6360401000006116	Recurrent angina after percutaneous transluminal coronary angioplasty
+medcode	strat_ASCVD	3842391000006115	Ischaemic contracture of left ventricle syndrome
+medcode	strat_ASCVD	13947581000006115	Occlusion of diagonal branch of anterior descending branch of left coronary artery
+medcode	strat_ASCVD	5898341000006114	Ischemic foot
+medcode	strat_ASCVD	6021741000006113	Critical ischemia of foot
+medcode	strat_ASCVD	84591000006119	Type 2 diabetes mellitus with peripheral angiopathy
+medcode	strat_ASCVD	14457701000006115	Left posterior cerebral artery thrombosis
+medcode	strat_ASCVD	3505653012	Occlusion of right posterior cerebral artery
+medcode	strat_ASCVD	4777811000006117	Basal ganglia hemorrhage
+medcode	strat_ASCVD	3508958019	Cerebrovascular accident due to thrombus of right carotid artery
+medcode	strat_ASCVD	14194941000006115	Acute cerebrovascular accident due to embolism of right middle cerebral artery
+medcode	strat_ASCVD	14194971000006111	Acute cerebrovascular accident due to embolism of left middle cerebral artery
+medcode	strat_ASCVD	4775931000006111	Aborted myocardial infarction
+medcode	strat_ASCVD	4776001000006111	Anginal syndrome
+medcode	strat_ASCVD	5056431000006116	Old lateral myocardial infarction
+medcode	strat_ASCVD	13945981000006117	Acute ST segment elevation myocardial infarction due to occlusion of septal branch of anterior descending branch of left coronary artery
+medcode	strat_ASCVD	494260016	Impending infarction
+medcode	strat_ASCVD	7298951000006115	Arteriosclerosis of coronary artery bypass graft of transplanted heart
+medcode	strat_ASCVD	3512174014	Embolus of right posterior cerebral artery
+medcode	strat_ASCVD	14492741000006110	Stroke of thalamus
+medcode	strat_ASCVD	2726591000006119	Anterior choroidal artery syndrome
+medcode	strat_ASCVD	4540591000006113	History of transient ischemic attack
+medcode	strat_ASCVD	6969941000006114	Coronary artery stent thrombosis
+medcode	strat_ASCVD	5056311000006117	Acute Q wave infarction - inferior
+medcode	strat_ASCVD	3526080018	Mural thrombus of right ventricle following acute myocardial infarction
+medcode	strat_ASCVD	300881018	[X]Subsequent myocardial infarction of other sites
+medcode	strat_ASCVD	8087551000006113	History of acute ST segment elevation myocardial infarction
+medcode	strat_ASCVD	6360371000006119	Significant coronary bypass graft disease
+medcode	strat_ASCVD	7571611000006117	Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle
+medcode	strat_ASCVD	14194831000006115	History of type 2 myocardial infarction
+medcode	strat_ASCVD	13941211000006118	Acute ST segment elevation myocardial infarction due to distal left anterior descending coronary artery occlusion
+medcode	strat_ASCVD	13961331000006111	Occlusion of distal portion of right coronary artery
+medcode	strat_ASCVD	13961361000006119	Occlusion of mid portion of right coronary artery
+medcode	strat_ASCVD	13961451000006111	Acute STEMI (ST elevation myocardial infarction) due to PDA (posterior descending artery) branch of RCA (right coronary artery) occlusion
+medcode	strat_ASCVD	14132951000006116	MINOCA - myocardial infarction with non-obstructive coronary artery
+medcode	strat_ASCVD	14452831000006118	Bilateral embolism of middle cerebral arteries
+medcode	strat_ASCVD	14457721000006113	Right posterior cerebral artery thrombosis
+medcode	strat_ASCVD	4777861000006119	Intracerebral haemorrhage with intraventricular haemorrhage
+medcode	strat_ASCVD	5011331000006114	Anterior cerebral circulation haemorrhagic infarction
+medcode	strat_ASCVD	411416011	Stroke in the puerperium
+medcode	strat_ASCVD	14194661000006111	Acute cerebrovascular accident due to stenosis of right carotid artery
+medcode	strat_ASCVD	5011231000006118	Pure sensorimotor lacunar infarction
+medcode	strat_ASCVD	12223131000006114	ICH - intracerebral hemorrhage
+medcode	strat_ASCVD	7064691000006118	Transient cerebral ischaemia due to atrial fibrillation
+medcode	strat_ASCVD	1218860015	Acute papillary muscle infarction
+medcode	strat_ASCVD	6847761000006118	Chronic ischemic heart disease
+medcode	strat_ASCVD	7703511000006110	Subacute ischaemic heart disease
+medcode	strat_ASCVD	13941091000006115	Acute ST segment elevation myocardial infarction due to proximal left anterior descending coronary artery occlusion
+medcode	strat_ASCVD	5887641000006118	Angina of effort
+medcode	strat_ASCVD	6360441000006119	Recurrent angina after coronary artery bypass graft
+medcode	strat_ASCVD	7278491000006111	Atherosclerosis of coronary artery
+medcode	strat_ASCVD	7572221000006117	Subsequent ST segment elevation myocardial infarction of inferior wall
+medcode	strat_ASCVD	7696501000006114	Resting ischaemia
+medcode	strat_ASCVD	13961441000006114	Acute ST segment elevation myocardial infarction due to occlusion of posterior descending branch of right coronary artery
+medcode	strat_ASCVD	14145391000006116	Acute ST segment elevation myocardial infarction due to occlusion of circumflex branch of left coronary artery
+medcode	strat_ASCVD	5058081000006113	Lower limb ischemia
+medcode	strat_ASCVD	6632271000006113	Peripheral artery occlusive disease
+medcode	strat_ASCVD	3509792018	Cerebrovascular accident due to occlusion of left carotid artery
+medcode	strat_ASCVD	5649201000006113	Extension of cerebrovascular accident
+medcode	strat_ASCVD	3509817019	Left hemispheric cerebellar artery embolism with stroke
+medcode	strat_ASCVD	3636969013	Occlusion of right middle cerebral artery by embolus
+medcode	strat_ASCVD	9875961000006115	Cerebrovascular accident due to left carotid artery stenosis
+medcode	strat_ASCVD	13718601000006110	History of embolic cerebrovascular accident
+medcode	strat_ASCVD	14492321000006119	Cerebrovascular accident due to embolism of left anterior cerebral artery
+medcode	strat_ASCVD	3508956015	Stroke due to basilar artery thrombus
+medcode	strat_ASCVD	14489491000006119	Cerebrovascular accident due to thrombosis of right posterior cerebral artery
+medcode	strat_ASCVD	14194571000006115	Acute cerebrovascular accident due to occlusion of left carotid artery
+medcode	strat_ASCVD	13966821000006114	Occlusion of distal basilar artery
+medcode	strat_ASCVD	9844071000006111	Acute ST segment elevation myocardial infarction of septum
+medcode	strat_ASCVD	6946631000006113	Obliterative coronary artery disease
+medcode	strat_ASCVD	7572301000006119	Acute myocardial infarction during procedure
+medcode	strat_ASCVD	7572881000006117	Acute ST segment elevation myocardial infarction of inferior wall involving right ventricle
+medcode	strat_ASCVD	14194701000006115	Myocardial infarction due to atherothrombotic coronary artery disease
+medcode	strat_ASCVD	9353781000006114	Coronary arteriosclerosis after percutaneous coronary angioplasty
+medcode	strat_ASCVD	14742011000006111	Acute anterior non-ST segment elevation myocardial infarction
+medcode	strat_ASCVD	9843951000006115	Acute ST segment elevation myocardial infarction of posterolateral wall
+medcode	strat_ASCVD	5056441000006114	Old posterior myocardial infarction
+medcode	strat_ASCVD	14057221000006111	Rupture of ventricle due to acute myocardial infarction
+medcode	strat_ASCVD	3191111000006116	Congenital coronary artery sclerosis
+medcode	strat_ASCVD	13961431000006116	Acute STEMI (ST elevation myocardial infarction) due to AM (acute marginal) branch of RCA (right coronary artery) occlusion
+medcode	strat_ASCVD	14145371000006117	Acute myocardial infarction due to occlusion of circumflex branch of left coronary artery
+medcode	strat_ASCVD	13944851000006115	Peripheral arterial vascular disease
+medcode	strat_ASCVD	14861611000006117	Ischaemic foot with rest pain
+medcode	strat_ASCVD	4270361000006116	Paralytic stroke
+medcode	strat_ASCVD	5011251000006113	Dysarthria-clumsy hand syndrome
+medcode	strat_ASCVD	5011421000006117	Thalamic hemorrhage
+medcode	strat_ASCVD	6837061000006117	Basal ganglion infarct
+medcode	strat_ASCVD	3441831000006111	Progressing stroke
+medcode	strat_ASCVD	14194721000006113	Acute cerebrovascular accident due to thrombosis of right middle cerebral artery
+medcode	strat_ASCVD	14492871000006111	Stroke due to thrombosis of left posterior cerebral artery
+medcode	strat_ASCVD	14457741000006118	Left cerebellar artery thrombosis
+medcode	strat_ASCVD	14492191000006119	Cerebrovascular accident due to occlusion of left anterior cerebral artery
+medcode	strat_ASCVD	5582351000006111	Top of basilar syndrome
+medcode	strat_ASCVD	7295961000006113	Superior cerebellar artery syndrome
+medcode	strat_ASCVD	7289131000006116	Recurrent transient cerebral ischemic attack
+medcode	strat_ASCVD	212081000006112	Postoperative transmural myocardial infarction other sites
+medcode	strat_ASCVD	8014911000006110	Sequela of cardioembolic stroke
+medcode	strat_ASCVD	14509111000006110	Dilated cardiomyopathy of ischaemic origin
+medcode	strat_ASCVD	7106991000006111	Coronary arteriosclerosis of coronary artery bypass graft
+medcode	strat_ASCVD	3458791000006114	Anginal chest pain at rest
+medcode	strat_ASCVD	7572291000006115	Subsequent STEMI (ST elevation myocardial infarction)
+medcode	strat_ASCVD	7572861000006110	Acute myocardial infarction of anterior wall involving right ventricle
+medcode	strat_ASCVD	7789771000006114	Non-obstructive atherosclerosis of coronary artery
+medcode	strat_ASCVD	13941161000006110	Acute STEMI (ST elevation myocardial infarction) due to mid LAD (left anterior descending) coronary artery occlusion
+medcode	strat_ASCVD	13945971000006115	Occlusion of septal branch of anterior descending branch of left coronary artery
+medcode	strat_ASCVD	158611000006118	Rupture of chordae tendinae as current complication following acute myocardial infarction
+medcode	strat_ASCVD	5056271000006117	Acute Q wave infarction - anteroseptal
+medcode	strat_ASCVD	5056471000006118	Accelerated coronary artery disease in transplanted heart
+medcode	strat_ASCVD	7572251000006114	Subsequent ST segment elevation myocardial infarction of anterior wall
+medcode	strat_ASCVD	7848541000006112	Arrhythmia as current complication following acute myocardial infarction
+medcode	strat_ASCVD	13935161000006114	Acute myocardial infarction of right ventricle
+medcode	strat_ASCVD	13945201000006119	Occlusion of left anterior descending coronary artery
+medcode	strat_ASCVD	13961401000006112	Occlusion of posterior descending branch of right coronary artery
+medcode	strat_ASCVD	9837051000006111	Gangrene of right lower limb due to atherosclerosis
+medcode	strat_ASCVD	5058091000006111	Ischemic leg
+medcode	strat_ASCVD	13919631000006118	Limb pain at rest due to atherosclerosis of artery of lower limb
+medcode	strat_ASCVD	3532661000006118	IC - Intermittent claudication
+medcode	strat_ASCVD	14014281000006112	Cerebrovascular accident due to stenosis of bilateral vertebral arteries
+medcode	strat_ASCVD	3507359016	Spontaneous haemorrhage of brain stem
+medcode	strat_ASCVD	3636133016	Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus
+medcode	strat_ASCVD	3636141016	Cerebrovascular accident due to occlusion of right cerebellar artery by embolus
+medcode	strat_ASCVD	3636143018	Cerebrovascular accident due to occlusion of left cerebellar artery by embolus
+medcode	strat_ASCVD	3505881015	Right middle cerebral artery thrombosis
+medcode	strat_ASCVD	14194841000006113	Acute cerebrovascular accident due to occlusion of left cerebellar artery
+medcode	strat_ASCVD	13905301000006116	Bilateral occlusion of pontine arteries
+medcode	strat_ASCVD	14492841000006115	Cerebrovascular accident due to occlusion of right posterior communicating artery
+medcode	strat_ASCVD	14492861000006116	Cerebrovascular accident due to thrombosis of left posterior cerebral artery
+medcode	strat_ASCVD	4056951000006111	Brainstem haemorrhage
+medcode	strat_ASCVD	4057031000006117	Brain stem infarct
+medcode	strat_ASCVD	14194281000006115	Acute cerebrovascular accident due to occlusion of right posterior cerebral artery
+medcode	strat_ASCVD	14194331000006112	Acute cerebrovascular accident due to occlusion of right middle cerebral artery
+medcode	strat_ASCVD	14492471000006114	Cerebrovascular accident due to thrombosis of right cerebellar artery
+medcode	strat_ASCVD	14194621000006117	Acute stroke of basal ganglia
+medcode	strat_ASCVD	14493261000006110	Cerebrovascular accident due to thrombosis of left cerebellar artery
+medcode	strat_ASCVD	14179491000006111	Unstable angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart
+medcode	strat_ASCVD	12125971000006114	Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
+medcode	strat_ASCVD	4775981000006112	Cardiac angina
+medcode	strat_ASCVD	4776021000006118	Ischemic heart disease - angina
+medcode	strat_ASCVD	5056261000006112	Asymptomatic ischaemia
+medcode	strat_ASCVD	7572281000006118	Subsequent ST segment elevation myocardial infarction
+medcode	strat_ASCVD	14194711000006117	Type 1 myocardial infarction
+medcode	strat_ASCVD	13961381000006112	Acute STEMI (ST elevation myocardial infarction) due to mid RCA (right coronary artery) occlusion
+medcode	strat_ASCVD	13961391000006110	Occlusion of marginal branch of right coronary artery
+medcode	strat_ASCVD	14145451000006115	Acute STEMI (ST segment elevation myocardial infarction) of apex of heart
+medcode	strat_ASCVD	8032161000006112	Coronary arteriosclerosis in patient with history of previous myocardial infarction
+medcode	strat_ASCVD	14752451000006117	Ventricular thrombus following acute myocardial infarction
+medcode	strat_ASCVD	14015311000006110	Coronary artery disease due to type 2 diabetes mellitus
+medcode	strat_ASCVD	5056321000006113	Acute non-Q wave infarction - inferior
+medcode	strat_ASCVD	5056331000006111	Acute Q wave infarction - inferolateral
+medcode	strat_ASCVD	5056341000006118	Acute non-Q wave infarction - inferolateral
+medcode	strat_ASCVD	5056461000006113	MI - Silent myocardial infarction
+medcode	strat_ASCVD	6864791000006113	Myocardial ischemia
+medcode	strat_ASCVD	7574081000006117	Mitral valve regurgitation due to acute myocardial infarction without papillary muscle and chordal rupture
+medcode	strat_ASCVD	3655161000006110	Pericarditis secondary to acute myocardial infarction
+medcode	strat_ASCVD	14194821000006118	History of myocardial infarction due to demand ischaemia
+medcode	strat_ASCVD	9478171000006111	Pain at rest of left lower limb co-occurrent and due to atherosclerosis
+medcode	strat_ASCVD	84781000006112	Type I diabetes mellitus with peripheral angiopathy
+medcode	strat_ASCVD	913941000006114	Peripheral angiopathy due to type 1 diabetes mellitus
+medcode	strat_ASCVD	6632231000006110	PAOD - Peripheral arterial occlusive disease
+medcode	strat_ASCVD	6632251000006115	Peripheral angiopathy
+medcode	strat_ASCVD	14180191000006115	Bilateral intermittent claudication of lower limbs due to atherosclerosis of nonbiological bypass graft
+medcode	strat_ASCVD	3509769018	Cerebrovascular accident due to occlusion of left cerebellar artery
+medcode	strat_ASCVD	2832661000006113	Subcortical hemorrhage
+medcode	strat_ASCVD	2893541000006113	Weber-Gubler syndrome
+medcode	strat_ASCVD	14172901000006118	Bilateral occlusion of middle cerebral arteries
+medcode	strat_ASCVD	14172931000006114	Bilateral occlusion of anterior cerebral arteries
+medcode	strat_ASCVD	3414261000006114	Multi infarct dementia
+medcode	strat_ASCVD	7951271000006116	Haemorrhage of medulla oblongata
+medcode	strat_ASCVD	3512170017	Embolus of left posterior cerebral artery
+medcode	strat_ASCVD	14492701000006113	Cerebrovascular accident due to thrombosis of left vertebral artery
+medcode	strat_ASCVD	14518541000006110	Cerebrovascular accident due to embolism of basilar artery
+medcode	strat_ASCVD	4057041000006110	Brain stem stroke
+medcode	strat_ASCVD	4057051000006112	Infarction of brain stem
+medcode	strat_ASCVD	14457901000006117	Cerebral venous sinus thrombosis in puerperium
+medcode	strat_ASCVD	9875641000006111	Cerebrovascular accident due to right carotid artery occlusion
+medcode	strat_ASCVD	14492231000006112	Cerebrovascular accident due to occlusion of basilar artery
+medcode	strat_ASCVD	5582321000006119	Foville syndrome
+medcode	strat_ASCVD	3507363011	Spontaneous haemorrhage of deep cerebral hemisphere
+medcode	strat_ASCVD	3636136012	Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus
+medcode	strat_ASCVD	14194151000006115	Acute cerebrovascular accident due to occlusion of left posterior cerebral artery
+medcode	strat_ASCVD	14194161000006118	Acute stroke due to occlusion of left posterior cerebral artery
+medcode	strat_ASCVD	14194651000006114	Acute stroke of brainstem
+medcode	strat_ASCVD	3719851000006116	Cerebellar hemorrhage
+medcode	strat_ASCVD	13909891000006118	Cerebral ischaemic stroke due to hypercoagulable state
+medcode	strat_ASCVD	5011531000006115	Vertebrobasilar territory transient ischemic attack
+medcode	strat_ASCVD	8032061000006113	Gangrene due to peripheral vascular disease
+medcode	strat_ASCVD	2729631000000115	Acute nontransmural myocardial infarction
+medcode	strat_ASCVD	14741971000006110	Acute inferior non-ST segment elevation myocardial infarction
+medcode	strat_ASCVD	9844021000006110	Acute ST segment elevation myocardial infarction due to left coronary artery occlusion
+medcode	strat_ASCVD	14488861000006119	Supraventricular tachycardia following acute myocardial infarction
+medcode	strat_ASCVD	6601131000006115	CT - Coronary thrombosis
+medcode	strat_ASCVD	6619191000006115	Past history of myocardial infarction
+medcode	strat_ASCVD	7100421000006116	Recurrent coronary arteriosclerosis after percutaneous transluminal coronary angioplasty
+medcode	strat_ASCVD	3427201000006111	AMI - Acute myocardial infarction
+medcode	strat_ASCVD	3494951000006115	Aortocoronary artery bypass graft repeated
+medcode	strat_ASCVD	7508011000006110	Coronary artery bypass grafting planned
+medcode	strat_ASCVD	7848501000006110	Ventricular aneurysm as current complication following acute myocardial infarction
+medcode	strat_ASCVD	7855741000006112	Atherosclerosis of autologous coronary artery bypass graft
+medcode	strat_ASCVD	8024001000006117	Acute coronary artery occlusion not resulting in myocardial infarction
+medcode	strat_ASCVD	13941111000006112	Acute STEMI (ST elevation myocardial infarction) due to proximal LAD (left anterior descending) coronary artery occlusion
+medcode	strat_ASCVD	13947721000006111	Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery
+medcode	strat_ASCVD	13961471000006118	Acute STEMI (ST elevation myocardial infarction) due to PL (posterolateral) branch of RCA (right coronary artery) occlusion
+medcode	strat_ASCVD	3951991000006119	Angina, class IV
+medcode	strat_ASCVD	14145431000006110	Acute ST segment elevation myocardial infarction of apex of heart
+medcode	strat_ASCVD	14546511000006116	Postmyocardial infarction pericardial effusion
+medcode	strat_ASCVD	9868481000006117	Angina co-occurrent and due to coronary arteriosclerosis
+medcode	strat_ASCVD	12125951000006116	Arteriosclerosis of autologous vein coronary artery bypass graft with angina
+medcode	strat_ASCVD	8004261000006118	Acute myocardial infarction due to left coronary artery occlusion
+medcode	strat_ASCVD	4776171000006116	Reinfarction of myocardium
+medcode	strat_ASCVD	5056301000006115	Acute non-Q wave infarction - anterolateral
+medcode	strat_ASCVD	5647321000006118	Hibernating myocardium
+medcode	strat_ASCVD	6914971000006118	Myocardial infarction in recovery phase
+medcode	strat_ASCVD	7080821000006111	Coronary arteriosclerosis due to radiation
+medcode	strat_ASCVD	2571531000006110	Intermediate coronary syndrome
+medcode	strat_ASCVD	3536591000006111	Coronary artery occlusion
+medcode	strat_ASCVD	7848521000006117	Pulmonary embolism as current complication following acute myocardial infarction
+medcode	strat_ASCVD	13935201000006115	Acute apical myocardial infarction of heart
+medcode	strat_ASCVD	13941231000006112	Acute STEMI (ST elevation myocardial infarction) due to distal LAD (left anterior descending) coronary artery occlusion
+medcode	strat_ASCVD	13961351000006116	Acute STEMI (ST elevation myocardial infarction) due to distal RCA (right coronary artery) occlusion
+medcode	strat_ASCVD	13961411000006110	Occlusion of posterior lateral branch of right coronary artery
+medcode	strat_ASCVD	13961421000006119	Acute ST segment elevation myocardial infarction due to occlusion of marginal branch of right coronary artery
+medcode	strat_ASCVD	12122231000006112	Bilateral lower limb atherosclerosis pain at rest co-occurrent and due to atherosclerosis
+medcode	strat_ASCVD	4392201000006111	Diabetic peripheral vascular disease
+medcode	strat_ASCVD	12125761000006117	Bilateral atherosclerosis of lower limbs with gangrene
+medcode	strat_ASCVD	5057981000006111	Peripheral ischemic vascular disease
+medcode	strat_ASCVD	5058001000006116	Peripheral ischemia
+medcode	strat_ASCVD	8015271000006112	Peripheral vascular disease associated with another disorder
+medcode	strat_ASCVD	14452791000006113	Embolism of left carotid artery
+medcode	strat_ASCVD	14457761000006119	Right cerebellar artery thrombosis
+medcode	strat_ASCVD	14790901000006117	Malignant middle cerebral artery syndrome
+medcode	strat_ASCVD	3510818013	Acute cerebral ischemia
+medcode	strat_ASCVD	4777871000006114	Intracerebral hemorrhage with intraventricular hemorrhage
+medcode	strat_ASCVD	5011371000006112	Massive supratentorial cerebral haemorrhage
+medcode	strat_ASCVD	2893551000006110	Weber syndrome
+medcode	strat_ASCVD	5589651000006114	Intracerebellar and posterior fossa hemorrhage
+medcode	strat_ASCVD	3506623013	Dysphagia due to and following non-traumatic intracerebral haemorrhage
+medcode	strat_ASCVD	3510959018	Lacunar ataxic hemiparesis of left nondominant side
+medcode	strat_ASCVD	3346051000006110	Internal capsule hemorrhage
+medcode	strat_ASCVD	3414231000006117	MID - Multi-infarct dementia
+medcode	strat_ASCVD	7855641000006118	Cerebral ischemic stroke due to small artery occlusion
+medcode	strat_ASCVD	2622651000006119	Pontine hemorrhage
+medcode	strat_ASCVD	13909871000006119	Cerebral ischaemic stroke due to aortic arch embolism
+medcode	strat_ASCVD	14492821000006110	Cerebrovascular accident due to embolism of right anterior cerebral artery
+medcode	strat_ASCVD	14492941000006113	Cerebrovascular accident due to occlusion of bilateral vertebral arteries
+medcode	strat_ASCVD	4056941000006114	Brain stem hemorrhage
+medcode	strat_ASCVD	8031281000006118	Cerebral infarction due to stenosis of carotid artery
+medcode	strat_ASCVD	14451981000006116	Occlusion of right anterior cerebral artery
+medcode	strat_ASCVD	14457851000006110	Cerebral venous sinus thrombosis in pregnancy
+medcode	strat_ASCVD	14492111000006112	Cerebrovascular accident due to occlusion of left posterior communicating artery
+medcode	strat_ASCVD	14742481000006110	Asymptomatic occlusion of intracranial vertebral artery
+medcode	strat_ASCVD	3509781019	Cerebrovascular accident due to occlusion of right cerebellar artery
+medcode	strat_ASCVD	13718611000006113	History of embolic stroke
+medcode	strat_ASCVD	13718641000006112	History of ischaemic stroke
+medcode	strat_ASCVD	5009091000006112	Infarction of optic radiation
+medcode	strat_ASCVD	5011301000006118	Hemorrhagic cerebral infarction
+medcode	strat_ASCVD	14492331000006116	Stroke due to embolism of left anterior cerebral artery
+medcode	strat_ASCVD	989201000006117	Cerebral haemorrhage
+medcode	strat_ASCVD	989211000006119	Cerebral haemorrhage NOS
+medcode	strat_ASCVD	5912811000006111	Infarction of visual cortex
+medcode	strat_ASCVD	3636139017	Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus
+medcode	strat_ASCVD	14492421000006113	Cerebrovascular accident due to embolism of right carotid artery
+medcode	strat_ASCVD	14802151000006119	Cerebrovascular accident with intracranial haemorrhage
+medcode	strat_ASCVD	7855721000006117	Stroke and migraine
+medcode	strat_ASCVD	3719861000006119	Haemorrhagic cerebellum
+medcode	strat_ASCVD	3728451000006116	Cerebral arterial embolism
+medcode	strat_ASCVD	14492921000006118	Stroke due to embolism of left carotid artery
+medcode	strat_ASCVD	14493271000006115	Stroke due to thrombosis of left cerebellar artery
+medcode	strat_ASCVD	5492181000006110	Temporary cerebral vascular dysfunction
+medcode	strat_ASCVD	7107851000006112	Anterior myocardial infarction on electrocardiogram
+medcode	strat_CKD_med	304071000000115	Chronic kidney disease stage 3
+medcode	strat_CKD_med	408381000000119	Chronic kidney disease annual review
+medcode	strat_CKD_med	304091000000116	Chronic kidney disease stage 4
+medcode	strat_CKD_med	509111010	Chronic renal failure
+medcode	strat_CKD_med	304051000000112	Chronic kidney disease stage 2
+medcode	strat_CKD_med	407481000000111	Chronic kidney disease monitoring
+medcode	strat_CKD_med	557811000000119	Chronic kidney disease stage 3A
+medcode	strat_CKD_med	304111000000114	Chronic kidney disease stage 5
+medcode	strat_CKD_med	354409011	Chronic renal impairment
+medcode	strat_CKD_med	595871000000110	Chronic kidney disease stage 3 without proteinuria
+medcode	strat_CKD_med	595991000000115	Chronic kidney disease stage 3A without proteinuria
+medcode	strat_CKD_med	86957016	Nephrotic syndrome
+medcode	strat_CKD_med	501594013	Transplantation of kidney
+medcode	strat_CKD_med	557831000000110	Chronic kidney disease stage 3B
+medcode	strat_CKD_med	304031000000117	Chronic kidney disease stage 1
+medcode	strat_CKD_med	396711013	RF - Renal failure
+medcode	strat_CKD_med	1940621000006111	CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1
+medcode	strat_CKD_med	596131000000114	Chronic kidney disease stage 3B without proteinuria
+medcode	strat_CKD_med	215521000000116	End stage renal disease
+medcode	strat_CKD_med	278832011	Haemodialysis
+medcode	strat_CKD_med	2771041011	Chronic kidney disease
+medcode	strat_CKD_med	595811000000117	Chronic kidney disease stage 3 with proteinuria
+medcode	strat_CKD_med	618441000000117	CKD stage 3 without proteinuria
+medcode	strat_CKD_med	618461000000116	CKD stage 3A without proteinuria
+medcode	strat_CKD_med	394640016	Renal dialysis
+medcode	strat_CKD_med	2773184015	Chronic kidney disease stage 3
+medcode	strat_CKD_med	595931000000116	Chronic kidney disease stage 3A with proteinuria
+medcode	strat_CKD_med	596051000000115	Chronic kidney disease stage 3B with proteinuria
+medcode	strat_CKD_med	596191000000110	Chronic kidney disease stage 4 with proteinuria
+medcode	strat_CKD_med	596261000000111	Chronic kidney disease stage 4 without proteinuria
+medcode	strat_CKD_med	1940651000006119	CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
+medcode	strat_CKD_med	618481000000113	CKD stage 3B without proteinuria
+medcode	strat_CKD_med	619541000006116	Dialysis for renal failure
+medcode	strat_CKD_med	460644012	History of renal transplant
+medcode	strat_CKD_med	90471000006113	Live donor renal transplant
+medcode	strat_CKD_med	118218017	Peritoneal dialysis
+medcode	strat_CKD_med	90461000006118	Transplantation of kidney from cadaver
+medcode	strat_CKD_med	906351000006116	[RFC] Renal transplant
+medcode	strat_CKD_med	480871000006117	Anaemia of chronic renal failure
+medcode	strat_CKD_med	595721000000116	Chronic kidney disease stage 2 without proteinuria
+medcode	strat_CKD_med	1940631000006114	CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
+medcode	strat_CKD_med	1940661000006117	CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+medcode	strat_CKD_med	618431000000114	CKD stage 3 with proteinuria
+medcode	strat_CKD_med	618491000000110	CKD stage 4 with proteinuria
+medcode	strat_CKD_med	641471000006117	End stage renal failure
+medcode	strat_CKD_med	424731000006111	Renal failure
+medcode	strat_CKD_med	1940591000006114	CKD G2A1 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1
+medcode	strat_CKD_med	618421000000112	CKD stage 2 without proteinuria
+medcode	strat_CKD_med	618471000000111	CKD stage 3B with proteinuria
+medcode	strat_CKD_med	272325018	Cadaveric renal transplant
+medcode	strat_CKD_med	994391000006115	Chronic kidney disease stage
+medcode	strat_CKD_med	1940601000006118	CKD G2A2 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2
+medcode	strat_CKD_med	618451000000119	CKD stage 3A with proteinuria
+medcode	strat_CKD_med	618501000000116	CKD stage 4 without proteinuria
+medcode	strat_CKD_med	3245871000006111	ESRD - End stage renal disease
+medcode	strat_CKD_med	303826014	Nephrotic syndrome with membranous glomerulonephritis
+medcode	strat_CKD_med	454255014	Anaemia secondary to renal failure
+medcode	strat_CKD_med	596321000000110	Chronic kidney disease stage 5 with proteinuria
+medcode	strat_CKD_med	117168016	Renal transplant
+medcode	strat_CKD_med	272327014	Transplantation of kidney NOS
+medcode	strat_CKD_med	354417015	Acute-on-chronic renal failure
+medcode	strat_CKD_med	2404491000000115	Chronic kidney disease resolved
+medcode	strat_CKD_med	1940671000006112	CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+medcode	strat_CKD_med	1940511000006116	CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
+medcode	strat_CKD_med	1940521000006112	CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
+medcode	strat_CKD_med	595661000000119	Chronic kidney disease stage 2 with proteinuria
+medcode	strat_CKD_med	1940641000006116	CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+medcode	strat_CKD_med	1940501000006119	CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1
+medcode	strat_CKD_med	641491000006116	End-stage renal disease
+medcode	strat_CKD_med	284213011	Renal transplant planned
+medcode	strat_CKD_med	2767385013	Chronic kidney disease stage 4
+medcode	strat_CKD_med	596401000000111	Chronic kidney disease stage 5 without proteinuria
+medcode	strat_CKD_med	1940571000006113	CKD G1A2 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2
+medcode	strat_CKD_med	618411000000118	CKD stage 2 with proteinuria
+medcode	strat_CKD_med	618511000000119	CKD stage 5 with proteinuria
+medcode	strat_CKD_med	251957012	H/O: renal dialysis
+medcode	strat_CKD_med	773041000006111	Insertion of chronic ambulatory peritoneal dialysis catheter
+medcode	strat_CKD_med	303855018	Nephrotic syndrome NOS
+medcode	strat_CKD_med	396706011	Nephrotic syndrome with minimal change glomerulonephritis
+medcode	strat_CKD_med	303833014	Nephrotic syndrome, focal and segmental glomerular lesions
+medcode	strat_CKD_med	2767154014	Chronic kidney disease stage 5
+medcode	strat_CKD_med	1940561000006118	CKD G1A1 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A1
+medcode	strat_CKD_med	1940611000006115	CKD G2A3 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3
+medcode	strat_CKD_med	1940551000006115	CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+medcode	strat_CKD_med	2675886019	Creation of graft fistula for dialysis
+medcode	strat_CKD_med	3245851000006118	ESRF - End stage renal failure
+medcode	strat_CKD_med	299665018	Hypertensive renal disease with renal failure
+medcode	strat_CKD_med	324973015	Kidney transplant failure and rejection
+medcode	strat_CKD_med	1850891000006119	Reason for influenza vaccine - chronic kidney disease
+medcode	strat_CKD_med	887731000006115	Renal failure
+medcode	strat_CKD_med	177251000006119	Renal transplant with complication, without blame
+medcode	strat_CKD_med	1825111000006112	Chronic kidney disease diagnosis discussed with patient
+medcode	strat_CKD_med	595541000000119	Chronic kidney disease stage 1 with proteinuria
+medcode	strat_CKD_med	595601000000118	Chronic kidney disease stage 1 without proteinuria
+medcode	strat_CKD_med	1940581000006111	CKD G1A3 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3
+medcode	strat_CKD_med	618401000000115	CKD stage 1 without proteinuria
+medcode	strat_CKD_med	618521000000113	CKD stage 5 without proteinuria
+medcode	strat_CKD_med	394639018	Compensation for renal failure
+medcode	strat_CKD_med	357219012	Continuous ambulatory peritoneal dialysis
+medcode	strat_CKD_med	461420012	Dialysis procedure
+medcode	strat_CKD_med	251923016	H/O: kidney recipient
+medcode	strat_CKD_med	278844014	Insertion of temporary peritoneal dialysis catheter
+medcode	strat_CKD_med	303834015	Nephrotic syndrome, diffuse membranous glomerulonephritis
+medcode	strat_CKD_med	181021000006119	Removal of ambulatory peritoneal dialysis catheter
+medcode	strat_CKD_med	886631000006110	Renal failure NOS
+medcode	strat_CKD_med	2767384012	Chronic kidney disease stage 2
+medcode	strat_CKD_med	618391000000118	CKD stage 1 with proteinuria
+medcode	strat_CKD_med	272389014	Exploration of renal transplant
+medcode	strat_CKD_med	1816581000006110	Kidney failure unspecified
+medcode	strat_CKD_med	587521000006111	Non-insulin-dependent diabetes mellitus with renal comps
+medcode	strat_CKD_med	453312018	Peritoneal dialysis-associated peritonitis
+medcode	strat_CKD_med	349998013	Haemofiltration
+medcode	strat_CKD_med	303846016	Nephrotic syndrome in diabetes mellitus
+medcode	strat_CKD_med	677461000006115	Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis
+medcode	strat_CKD_med	127091000006118	Steroid-sensitive nephrotic syndrome
+medcode	strat_CKD_med	1940541000006117	CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+medcode	strat_CKD_med	290737016	Dependence on renal dialysis
+medcode	strat_CKD_med	754061000006111	Kidney transplant with complication, without blame
+medcode	strat_CKD_med	303839013	Nephrotic syndrome, diffuse crescentic glomerulonephritis
+medcode	strat_CKD_med	3647021000006114	Transplant of kidney
+medcode	strat_CKD_med	460912010	[V]Preparatory care for dialysis
+medcode	strat_CKD_med	305192017	[X]Other chronic renal failure
+medcode	strat_CKD_med	509108014	Chronic uraemia
+medcode	strat_CKD_med	1940531000006110	CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+medcode	strat_CKD_med	677621000006112	Nephrotic syndrome with membranoproliferative glomerulonephritis
+medcode	strat_CKD_med	303832016	Nephrotic syndrome, minor glomerular abnormality
+medcode	strat_CKD_med	375841000000114	Peritoneal dialysis NEC
+medcode	strat_CKD_med	354610013	Renal transplant rejection
+medcode	strat_CKD_med	2645965011	Stenosis of arteriovenous dialysis fistula
+medcode	strat_CKD_med	354615015	Acute rejection of renal transplant
+medcode	strat_CKD_med	7643311000006115	CKD - chronic kidney disease
+medcode	strat_CKD_med	251956015	H/O: kidney dialysis
+medcode	strat_CKD_med	303825013	Nephrotic syndrome with proliferative glomerulonephritis
+medcode	strat_CKD_med	677471000006110	Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis
+medcode	strat_CKD_med	408661000000117	Predicted stage chronic kidney disease
+medcode	strat_CKD_med	4694051000006116	Removal of chronic ambulatory peritoneal dialysis catheter
+medcode	strat_CKD_med	906311000006117	[RFC] Continuous ambulatory peritoneal dialysis
+medcode	strat_CKD_med	372621000000114	Allotransplantation of kidney from beating heart cadaver
+medcode	strat_CKD_med	2195661000000114	Aneurysm of dialysis arteriovenous fistula
+medcode	strat_CKD_med	2692168016	Automated peritoneal dialysis
+medcode	strat_CKD_med	1823941000006114	Chronic kidney disease confirmed
+medcode	strat_CKD_med	994421000006111	Chronic kidney disease stage 3
+medcode	strat_CKD_med	7714891000006118	Chronic kidney disease stage 5 on dialysis
+medcode	strat_CKD_med	7147781000006115	CKD stage 4
+medcode	strat_CKD_med	2613841000000113	Dialysis therapy started by renal service
+medcode	strat_CKD_med	12704471000006116	End-stage renal disease
+medcode	strat_CKD_med	7480371000006113	H/O chronic kidney disease
+medcode	strat_CKD_med	913441000006119	Insulin-dependent diabetes mellitus with renal complications
+medcode	strat_CKD_med	403110014	Kidney failure as a complication of care
+medcode	strat_CKD_med	637771000000113	Ligation of arteriovenous dialysis fistula
+medcode	strat_CKD_med	3222311000006119	Minimal change disease
+medcode	strat_CKD_med	303844018	Nephrotic syndrome in diseases EC
+medcode	strat_CKD_med	387911000000115	Pre-transplantation of kidney work-up, live donor
+medcode	strat_CKD_med	3183501000006111	Renal failure syndrome
+medcode	strat_CKD_med	353974015	Xenograft renal transplant
+medcode	strat_CKD_med	399381000000115	Allotransplantation of kidney from cadaver NEC
+medcode	strat_CKD_med	1549841000006116	Allotransplantation of kidney from non-beating heart cadaver
+medcode	strat_CKD_med	1221119015	ARF - Acute renal failure
+medcode	strat_CKD_med	500371000006119	Autotransplant of kidney
+medcode	strat_CKD_med	2767383018	Chronic kidney disease stage 1
+medcode	strat_CKD_med	855641000006115	Chronic kidney rejection
+medcode	strat_CKD_med	354619014	Chronic rejection of renal transplant
+medcode	strat_CKD_med	7174791000006111	CKD stage 3
+medcode	strat_CKD_med	7174851000006111	CKD stage 5
+medcode	strat_CKD_med	741701000006114	Hypertensive heart and renal disease with (congestive) heart failure
+medcode	strat_CKD_med	299673010	Hypertensive heart and renal disease with renal failure
+medcode	strat_CKD_med	1870801000006111	Infection of haemodialysis arteriovenous fistula
+medcode	strat_CKD_med	30043012	Mechanical complication of dialysis catheter
+medcode	strat_CKD_med	2238421000000115	Occlusion of dialysis arteriovenous fistula
+medcode	strat_CKD_med	272326017	Other specified transplantation of kidney
+medcode	strat_CKD_med	386181000000111	Pre-transplantation of kidney work-up, recipient
+medcode	strat_CKD_med	356557018	Renal failure-associated hyperphosphataemia
+medcode	strat_CKD_med	359851000000113	Repair of suprarenal abdominal aortic aneurysm with insertion of endovascular stent
+medcode	strat_CKD_med	2238301000000119	Thrombosis of dialysis arteriovenous fistula
+medcode	strat_CKD_med	413415016	Unexplained episode of renal transplant dysfunction
+medcode	strat_CKD_med	1847111000006118	Aneurysm of anastomotic site of dialysis arteriovenous fistula
+medcode	strat_CKD_med	507483018	Dialysis disequilibrium
+medcode	strat_CKD_med	3647061000006115	Kidney transplant
+medcode	strat_CKD_med	176711000006111	Renal dialysis with complication, without blame
+medcode	strat_CKD_med	2238261000000112	Thrombosis of dialysis arteriovenous graft
+medcode	strat_CKD_med	1927751000006113	Complication of dialysis
+medcode	strat_CKD_med	2240871000000116	Haemorrhage of dialysis arteriovenous fistula
+medcode	strat_CKD_med	424791000006110	[X]Renal tubulo-interstitial disorders/transplant rejection
+medcode	strat_CKD_med	3245841000006115	End stage kidney disease
+medcode	strat_CKD_med	1705621000000113	Flushing of peritoneal dialysis catheter
+medcode	strat_CKD_med	303853013	Nephrotic syndrome associated with another disorder
+medcode	strat_CKD_med	900121000006113	Renal transplant rejected
+medcode	strat_CKD_med	1227723010	[V]Aftercare involving peritoneal dialysis
+medcode	strat_CKD_med	1227722017	[V]Aftercare involving renal dialysis NOS
+medcode	strat_CKD_med	478131000006115	Allotransplantation of kidney from cadaver
+medcode	strat_CKD_med	272320011	Allotransplantation of kidney from live donor
+medcode	strat_CKD_med	1848741000006116	Complication of peritoneal dialysis
+medcode	strat_CKD_med	2237861000000114	Infection of dialysis vascular access
+medcode	strat_CKD_med	754781000006116	Kidney dialysis with complication, without blame
+medcode	strat_CKD_med	228101000006113	Placement ambulatory apparatus compensation renal failure
+medcode	strat_CKD_med	354616019	Acute rejection of renal transplant - grade I
+medcode	strat_CKD_med	8212401000006115	Anaemia co-occurrent and due to chronic kidney disease stage 3
+medcode	strat_CKD_med	8104231000006115	CKD (chronic kidney disease) stage 3 with proteinuria
+medcode	strat_CKD_med	8104301000006115	CKD (chronic kidney disease) stage 3A with proteinuria
+medcode	strat_CKD_med	8104381000006112	CKD (chronic kidney disease) stage 3B with proteinuria
+medcode	strat_CKD_med	8104451000006111	CKD (chronic kidney disease) stage 4 with proteinuria
+medcode	strat_CKD_med	6447761000006113	Dialysis care
+medcode	strat_CKD_med	5094161000006119	End stage renal failure on dialysis
+medcode	strat_CKD_med	3245861000006116	ESCRF - End stage chronic renal failure
+medcode	strat_CKD_med	380101000000116	Examination of recipient after kidney transplant
+medcode	strat_CKD_med	282526013	Intestinal dialysis
+medcode	strat_CKD_med	228131000006117	Placement ambulatory dialysis apparatus - compens renal fail
+medcode	strat_CKD_med	228211000006117	Placement other apparatus for compensation for renal failure
+medcode	strat_CKD_med	177341000006111	Renal tubulo-interstitial disorders in transplant rejection
+medcode	strat_CKD_med	8117051000006114	Active on kidney transplant waiting list
+medcode	strat_CKD_med	1847091000006110	Aneurysm of superficialised artery of dialysis arteriovenous fistula
+medcode	strat_CKD_med	4668951000006113	Autotransplantation of kidney
+medcode	strat_CKD_med	485267014	Beta-2 microglobulin amyloidosis
+medcode	strat_CKD_med	5120171000006118	CAPD - Continuous ambulatory peritoneal dialysis
+medcode	strat_CKD_med	7966691000006116	Chronic kidney disease stage 3 due to type 2 diabetes mellitus
+medcode	strat_CKD_med	615611000006116	Det.ren.func.after ren.transpl
+medcode	strat_CKD_med	422992018	Excision of rejected transplanted kidney
+medcode	strat_CKD_med	2674486017	Extracorporeal albumin haemodialysis
+medcode	strat_CKD_med	5120141000006114	Flushing of chronic ambulatory peritoneal dialysis catheter
+medcode	strat_CKD_med	366671000000118	Interventions associated with transplantation of kidney
+medcode	strat_CKD_med	866731000006115	Kidney replacement NOS
+medcode	strat_CKD_med	303838017	Nephrotic syndrome, dense deposit disease
+medcode	strat_CKD_med	2238381000000112	Occlusion of dialysis arteriovenous graft
+medcode	strat_CKD_med	5093381000006112	Steroid-dependent nephrotic syndrome
+medcode	strat_CKD_med	460910019	[V]Aftercare involving intermittent dialysis
+medcode	strat_CKD_med	460913017	[V]Other specified aftercare involving intermittent dialysis
+medcode	strat_CKD_med	507993019	Acute hypercalcaemia of dialysis
+medcode	strat_CKD_med	354628010	Acute-on-chronic rejection of renal transplant
+medcode	strat_CKD_med	2195721000000112	Aneurysm of needle site of dialysis arteriovenous fistula
+medcode	strat_CKD_med	8040681000006112	Chronic kidney disease stage 3 due to hypertension
+medcode	strat_CKD_med	7966641000006113	Chronic kidney disease stage 4 due to type 2 diabetes mellitus
+medcode	strat_CKD_med	354621016	Chronic transplant nephropathy
+medcode	strat_CKD_med	1743241000006119	Continuous ambulatory peritoneal dialysis associated peritonitis
+medcode	strat_CKD_med	6024541000006117	Donor renal transplantation
+medcode	strat_CKD_med	3245881000006114	End stage chronic renal failure
+medcode	strat_CKD_med	789941000006117	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+medcode	strat_CKD_med	380061000000118	Interventions associated with transplantation of kidney NOS
+medcode	strat_CKD_med	866751000006110	Kidney replacement
+medcode	strat_CKD_med	303847013	Kimmelstiel - Wilson disease
+medcode	strat_CKD_med	278834012	Other specified compensation for renal failure
+medcode	strat_CKD_med	8040771000006116	Prerenal renal failure
+medcode	strat_CKD_med	2672571000006112	Removal of peritoneal dialysis catheter
+medcode	strat_CKD_med	2240991000000111	Rupture of dialysis arteriovenous fistula
+medcode	strat_CKD_med	2237981000000112	Stenosis of dialysis arteriovenous graft
+medcode	strat_CKD_med	354612017	Accelerated rejection of renal transplant
+medcode	strat_CKD_med	5094141000006118	Acute on chronic renal failure
+medcode	strat_CKD_med	354614016	Borderline changes of acute rejection
+medcode	strat_CKD_med	7966761000006115	Chronic kidney disease stage 2 due to type 2 diabetes mellitus
+medcode	strat_CKD_med	994441000006116	Chronic kidney disease stage 5
+medcode	strat_CKD_med	7966611000006114	Chronic kidney disease stage 5 due to type 2 diabetes mellitus
+medcode	strat_CKD_med	7147761000006113	CKD stage 2
+medcode	strat_CKD_med	278835013	Compensation for renal failure NOS
+medcode	strat_CKD_med	5094171000006114	End stage renal failure with renal transplant
+medcode	strat_CKD_med	1905531000006112	Excision of rejected transplanted kidney
+medcode	strat_CKD_med	7770921000006110	Haemodialysis care
+medcode	strat_CKD_med	4543021000006113	History of renal dialysis
+medcode	strat_CKD_med	2240321000000114	Infection of dialysis arteriovenous graft
+medcode	strat_CKD_med	9681361000006119	Insertion of dialysis catheter into femoral vein
+medcode	strat_CKD_med	638111000000115	Ligation of arteriovenous dialysis graft
+medcode	strat_CKD_med	74720014	Lipoid nephrosis
+medcode	strat_CKD_med	3222391000006112	Minimal change nephropathy
+medcode	strat_CKD_med	6210341000006119	Peritoneal dialysis catheter
+medcode	strat_CKD_med	228121000006115	Placement ambulatory apparatus- compensate renal failure OS
+medcode	strat_CKD_med	3647091000006111	Renal graft
+medcode	strat_CKD_med	2210341000000113	Stenosis of dialysis vascular access
+medcode	strat_CKD_med	2198141000000110	Stenosis of vein of transplanted kidney
+medcode	strat_CKD_med	2253671000000112	Stenosis of venous side of dialysis arteriovenous shunt
+medcode	strat_CKD_med	2210381000000117	Thrombosis of dialysis vascular access
+medcode	strat_CKD_med	2211591000000116	Thrombus in peritoneal dialysis catheter
+medcode	strat_CKD_med	3647051000006117	Tx - Renal transplantation
+medcode	strat_CKD_med	2189151000000117	Urological complication of renal transplant
+medcode	strat_CKD_med	354613010	Very mild acute rejection of renal transplant
+medcode	strat_CKD_med	7966791000006111	Chronic kidney disease stage 1 due to type 2 diabetes mellitus
+medcode	strat_CKD_med	354623018	Chronic rejection of renal transplant - grade 1
+medcode	strat_CKD_med	8104511000006111	CKD (chronic kidney disease) stage 5 with proteinuria
+medcode	strat_CKD_med	7147741000006114	CKD stage 1
+medcode	strat_CKD_med	5096231000006110	Failed renal transplant
+medcode	strat_CKD_med	2240741000000115	Infection of dialysis arteriovenous shunt
+medcode	strat_CKD_med	7218201000006110	Peritoneal dialysis catheter in situ
+medcode	strat_CKD_med	2232261000000110	Aneurysm of dialysis vascular access
+medcode	strat_CKD_med	3525759011	Insertion of tunnelled haemodialysis catheter
+medcode	strat_CKD_med	228111000006111	Placement ambulatory apparatus- compensate renal failure NOS
+medcode	strat_CKD_med	106291000006118	Thomas intravascular shunt for dialysis
+medcode	strat_CKD_med	8027471000006112	Chronic kidney disease stage 4 due to type 1 diabetes mellitus
+medcode	strat_CKD_med	3973811000006118	Chronic renal failure syndrome
+medcode	strat_CKD_med	7207581000006116	Laparoscopic insertion of peritoneal dialysis catheter
+medcode	strat_CKD_med	703481000006116	Microcystic type congenital nephrotic syndrome
+medcode	strat_CKD_med	303848015	Nephrotic syndrome in malaria
+medcode	strat_CKD_med	677481000006113	Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis
+medcode	strat_CKD_med	5120251000006115	Night-time intermittent peritoneal dialysis
+medcode	strat_CKD_med	354617011	Acute rejection of renal transplant - grade II
+medcode	strat_CKD_med	7615331000006115	Anaemia in chronic kidney disease
+medcode	strat_CKD_med	994411000006115	Chronic kidney disease stage 2
+medcode	strat_CKD_med	7714921000006112	Chronic kidney disease stage 5 with transplant
+medcode	strat_CKD_med	7643331000006114	Chronic renal disease
+medcode	strat_CKD_med	2240831000000118	Haemorrhage of dialysis arteriovenous graft
+medcode	strat_CKD_med	2237901000000119	Haemorrhage of dialysis vascular access
+medcode	strat_CKD_med	5907551000006114	HD - Haemodialysis
+medcode	strat_CKD_med	5907591000006115	Hemodialysis
+medcode	strat_CKD_med	2237821000000118	Occlusion of dialysis vascular access
+medcode	strat_CKD_med	8040661000006119	Chronic kidney disease stage 4 due to hypertension
+medcode	strat_CKD_med	7841571000006110	Chronic renal insufficiency
+medcode	strat_CKD_med	5053041000006110	Continuous venovenous haemofiltration
+medcode	strat_CKD_med	3973841000006119	CRF - Chronic renal failure
+medcode	strat_CKD_med	2211311000000117	Haemodialysis first use syndrome
+medcode	strat_CKD_med	8030421000006114	Hypertensive heart AND chronic kidney disease stage 4
+medcode	strat_CKD_med	3525746015	Insertion of haemodialysis catheter
+medcode	strat_CKD_med	7083771000006113	Peritoneal dialysis catheter procedure
+medcode	strat_CKD_med	7985891000006113	Transplantation of kidney and pancreas
+medcode	strat_CKD_med	2191221000000118	Vascular complication of renal transplant
+medcode	strat_CKD_med	354618018	Acute rejection of renal transplant - grade III
+medcode	strat_CKD_med	2209101000000119	Aneurysm of artery of transplanted kidney
+medcode	strat_CKD_med	8036941000006111	Chronic kidney disease stage 1 due to hypertension
+medcode	strat_CKD_med	8087071000006112	Chronic kidney disease stage 3 due to benign hypertension
+medcode	strat_CKD_med	303842019	Congenital Finnish nephrosis
+medcode	strat_CKD_med	5095941000006115	Disorder of peritoneal dialysis catheter
+medcode	strat_CKD_med	3605671000006116	Haemodialysis, maintenance at home
+medcode	strat_CKD_med	3222411000006112	Minimal change glomerulonephritis
+medcode	strat_CKD_med	228221000006113	Placement other apparatus- compensate for renal failure NOS
+medcode	strat_CKD_med	228231000006111	Placement other apparatus- compensate for renal failure OS
+medcode	strat_CKD_med	5093351000006116	Steroid-resistant nephrotic syndrome
+medcode	strat_CKD_med	5096141000006114	Chronic allograft nephropathy
+medcode	strat_CKD_med	8040691000006110	Chronic kidney disease stage 2 due to hypertension
+medcode	strat_CKD_med	8040671000006114	Chronic kidney disease stage 5 due to hypertension
+medcode	strat_CKD_med	354624012	Chronic rejection of renal transplant - grade II
+medcode	strat_CKD_med	354627017	Chronic rejection of renal transplant - grade III
+medcode	strat_CKD_med	2240911000000119	Haemorrhage of dialysis arteriovenous shunt
+medcode	strat_CKD_med	3296351000006114	Hypertensive renal failure
+medcode	strat_CKD_med	7164601000006118	Insertion of peritoneal dialysis catheter using fluoroscopy guidance
+medcode	strat_CKD_med	5052661000006111	Intermittent haemodialysis
+medcode	strat_CKD_med	7985971000006118	Laparoscopic biopsy of transplanted kidney
+medcode	strat_CKD_med	7641781000006113	Maintenance haemodialysis
+medcode	strat_CKD_med	3347091000006118	NS - Nephrotic syndrome
+medcode	strat_CKD_med	7354791000006117	Removal of haemodialysis catheter
+medcode	strat_CKD_med	2238021000000114	Stenosis of dialysis arteriovenous shunt
+medcode	strat_CKD_med	5120121000006119	Adjustment of chronic ambulatory peritoneal dialysis catheter
+medcode	strat_CKD_med	2209021000000112	Aneurysm of vein of transplanted kidney
+medcode	strat_CKD_med	7970091000006119	Awaiting renal transplant
+medcode	strat_CKD_med	7507461000006117	Awaiting transplantation of kidney
+medcode	strat_CKD_med	8027451000006119	Chronic kidney disease stage 3 due to type 1 diabetes mellitus
+medcode	strat_CKD_med	8346001000006110	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
+medcode	strat_CKD_med	3455181000006115	Complication of transplanted kidney
+medcode	strat_CKD_med	354632016	De novo glomerulonephritis
+medcode	strat_CKD_med	7054551000006115	Delayed kidney graft function
+medcode	strat_CKD_med	7096521000006114	Dependence on haemodialysis due to end stage renal disease
+medcode	strat_CKD_med	9681371000006114	Dialysis catheter inserted in groin
+medcode	strat_CKD_med	3918321000006116	Dialysis disequilibrium syndrome
+medcode	strat_CKD_med	7103511000006119	Disorder related to renal transplantation
+medcode	strat_CKD_med	877641000006113	Extracorporeal kidney
+medcode	strat_CKD_med	8030451000006117	Hypertensive heart AND chronic kidney disease stage 1
+medcode	strat_CKD_med	8030431000006112	Hypertensive heart AND chronic kidney disease stage 3
+medcode	strat_CKD_med	7145851000006114	Insertion of tunnelled dialysis catheter using fluoroscopic guidance
+medcode	strat_CKD_med	8014771000006115	Line sepsis associated with dialysis catheter
+medcode	strat_CKD_med	3222371000006111	Minimal change nephrotic syndrome
+medcode	strat_CKD_med	3222321000006110	Nil disease
+medcode	strat_CKD_med	5095881000006119	Peritoneal dialysis catheter exit site infection
+medcode	strat_CKD_med	5096031000006117	Primary non-function of renal transplant
+medcode	strat_CKD_med	6613531000006114	Renal replacement
+medcode	strat_CKD_med	5120111000006110	Renewal of chronic ambulatory peritoneal dialysis catheter
+medcode	strat_CKD_med	2240951000000115	Rupture of dialysis arteriovenous graft
+medcode	strat_CKD_med	2241031000000116	Rupture of dialysis arteriovenous shunt
+medcode	strat_CKD_med	2237941000000116	Rupture of dialysis vascular access
+medcode	strat_CKD_med	2238341000000116	Thrombosis of dialysis arteriovenous shunt
+medcode	strat_CKD_med	2234621000000111	Thrombosis of vein of transplanted kidney
+medcode	strat_CKD_med	5096271000006113	Transplant glomerulopathy
+medcode	strat_CKD_med	7710041000006114	Transplant renal artery stenosis
+medcode	strat_CKD_med	12016621000006114	Action myoclonus renal failure syndrome
+medcode	strat_CKD_med	14175011000006111	Anaemia due to chronic kidney disease stage 1
+medcode	strat_CKD_med	7615371000006117	Anaemia in end stage renal disease
+medcode	strat_CKD_med	7615361000006112	Anemia in chronic kidney disease
+medcode	strat_CKD_med	3798211000006110	Arteriovenous shunt for renal dialysis
+medcode	strat_CKD_med	7507471000006112	Awaiting renal transplant
+medcode	strat_CKD_med	5095971000006111	Blockage of peritoneal dialysis catheter
+medcode	strat_CKD_med	7598001000006110	Childhood nephrotic syndrome
+medcode	strat_CKD_med	8027411000006115	Chronic kidney disease stage 2 due to type 1 diabetes mellitus
+medcode	strat_CKD_med	14174321000006116	Chronic kidney disease stage 5 due to drug induced diabetes mellitus
+medcode	strat_CKD_med	8027491000006113	Chronic kidney disease stage 5 due to type 1 diabetes mellitus
+medcode	strat_CKD_med	8345931000006110	Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+medcode	strat_CKD_med	8346021000006117	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+medcode	strat_CKD_med	8346041000006112	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+medcode	strat_CKD_med	7043231000006112	Chronic progressive renal failure
+medcode	strat_CKD_med	8104261000006112	CKD (chronic kidney disease) stage 3 without proteinuria
+medcode	strat_CKD_med	8104481000006115	CKD (chronic kidney disease) stage 4 without proteinuria
+medcode	strat_CKD_med	8104551000006112	CKD (chronic kidney disease) stage 5 without proteinuria
+medcode	strat_CKD_med	7714911000006116	CKD (chronic kidney disease) stage 5d
+medcode	strat_CKD_med	7714941000006117	CKD (chronic kidney disease) stage 5t
+medcode	strat_CKD_med	7262731000006112	Cloudy peritoneal dialysis effluent
+medcode	strat_CKD_med	7723851000006119	Continuous renal replacement therapy
+medcode	strat_CKD_med	5053081000006116	CVVHF - Continuous venovenous hemofiltration
+medcode	strat_CKD_med	7097941000006112	Dependence on dialysis due to end stage renal disease
+medcode	strat_CKD_med	7272711000006110	Dependence on haemodialysis
+medcode	strat_CKD_med	7096531000006112	Dependence on hemodialysis due to end stage renal disease
+medcode	strat_CKD_med	6724211000006116	Dialysis access maintenance
+medcode	strat_CKD_med	7641801000006112	Emergency haemodialysis
+medcode	strat_CKD_med	5730251000006114	Extracorporeal kidney
+medcode	strat_CKD_med	5095591000006119	First use syndrome of dialysis
+medcode	strat_CKD_med	5053101000006112	Haemodiafiltration
+medcode	strat_CKD_med	7593681000006118	Hypertension concurrent and due to end stage renal disease on dialysis
+medcode	strat_CKD_med	8044061000006119	Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus
+medcode	strat_CKD_med	8044011000006117	Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus
+medcode	strat_CKD_med	8030441000006119	Hypertensive heart AND chronic kidney disease stage 2
+medcode	strat_CKD_med	3525758015	Insertion of tunneled hemodialysis catheter
+medcode	strat_CKD_med	5120211000006116	Intermittent peritoneal dialysis
+medcode	strat_CKD_med	5488801000006112	Kidney dialysis
+medcode	strat_CKD_med	3647031000006112	Kidney transplantation
+medcode	strat_CKD_med	8087641000006112	Malignant hypertensive chronic kidney disease
+medcode	strat_CKD_med	8087661000006111	Malignant hypertensive chronic kidney disease stage 1
+medcode	strat_CKD_med	3222351000006118	MCD - Minimal change disease
+medcode	strat_CKD_med	3222361000006116	MCGN - Minimal change glomerulonephritis
+medcode	strat_CKD_med	2238461000000111	Occlusion of dialysis arteriovenous shunt
+medcode	strat_CKD_med	1550021000006110	OS interventions associated with transplantation of kidney
+medcode	strat_CKD_med	5095891000006116	Peritoneal dialysis cannula exit site infection
+medcode	strat_CKD_med	7770551000006113	Peritoneal dialysis care
+medcode	strat_CKD_med	7354801000006116	Removal of hemodialysis catheter
+medcode	strat_CKD_med	988961000006115	Renal transplant rejected
+medcode	strat_CKD_med	7207591000006118	Replacement of peritoneal dialysis catheter
+medcode	strat_CKD_med	2197961000000113	Rupture of artery of transplanted kidney
+medcode	strat_CKD_med	2198001000000111	Rupture of vein of transplanted kidney
+medcode	strat_CKD_med	5093391000006110	SDNS - Steroid-dependent nephrotic syndrome
+medcode	strat_CKD_med	5096211000006116	Severe chronic transplant nephropathy
+medcode	strat_CKD_med	2234541000000115	Thrombosis of artery of transplanted kidney
+medcode	strat_CKD_med	3527360016	Transplanted kidney present
+medcode	strat_CVD_risk	1126121000000112	QRISK2 cardiovascular disease 10 year risk score
+medcode	strat_CVD_risk	664421000000119	QRISK cardiovascular disease 10 year risk calculator score
+medcode	strat_CVD_risk	459504017	Framingham coronary heart disease 10 year risk score
+medcode	strat_CVD_risk	459796013	Coronary heart disease risk
+medcode	strat_CVD_risk	1488811018	Cardiovascular event risk
+medcode	strat_CVD_risk	164111000006114	Risk factors present at heart disease screening
+medcode	strat_CVD_risk	8463841000006110	QRISK3 cardiovascular disease 10 year risk calculator score
+medcode	strat_CVD_risk	251882011	At risk of heart disease
+medcode	strat_CVD_risk	251883018	High risk of heart disease
+medcode	strat_CVD_risk	495371000000110	Review of patient at risk from coronary heart disease
+medcode	strat_CVD_risk	929481000006119	Framingham coronary heart disease 10 year adjusted risk score
+medcode	strat_CVD_risk	1488412018	High risk of primary heart disease
+medcode	strat_CVD_risk	1661461000000113	CVD (cardiovascular disease) risk assessment by third party
+medcode	strat_CVD_risk	459503011	Framingham Coronary Heart Disease 5 year risk score
+medcode	strat_CVD_risk	1488411013	Moderate risk of primary heart disease
+medcode	strat_CVD_risk	1002141000006111	On CVD risk register
+medcode	strat_CVD_risk	1656461000006115	QRISK cardiovascular disease (CVD) estimated 10 year risk score
+medcode	strat_CVD_risk	14014011000006112	At risk of cardiovascular disease
+medcode	strat_CVD_risk	1656451000006117	QRISK cardiovascular disease (CVD) 10 year risk score
+medcode	strat_CVD_risk	1678531000006110	ASSIGN (Assessing cardiovascular risk using Scottish Intercollegiate Guidelines Network) score
+medcode	strat_CVD_risk	1843221000006112	Framingham Coronary Heart Disease or Cardiovascular Disease 10 year risk adjusted to JBS2 (Joint British Societies 2) guidelines score
+medcode	strat_CVD_risk	1141351000000111	High probability of deep vein thrombosis
+medcode	strat_CVD_risk	638701000000116	ASSIGN score
+medcode	strat_CVD_risk	1141311000000112	Moderate probability of deep vein thrombosis
+medcode	strat_CVD_risk	6052911000006117	At risk of coronary heart disease
+medcode	strat_CVD_risk	8050831000006113	Joint British Societies cardiovascular disease risk
+medcode	strat_CVD_risk	7228321000006116	QRISK cardiovascular disease risk score
+medcode	strat_CVD_risk	8463651000006111	QRISK3 cardiovascular disease 10 year risk calculator
+medcode	strat_CVD_risk	11928841000006119	QRISK cardiovascular disease 10 year risk score
+medcode	strat_CVD_risk	5550051000006117	Dundee cardiovascular risk score
+medcode	strat_CVD_risk	11930511000006119	Framingham coronary heart disease 10 year risk score adjusted to Joint British Societies 2 guidelines
+medcode	strat_CVD_risk	8464061000006116	Assessment using QRISK cardiovascular disease 10 year risk calculator
+medcode	strat_CVD_risk	8294621000006117	High risk of transient ischaemic attack
+medcode	strat_CVD_risk	5898541000006117	Risk of subacute bacterial endocarditis
+medcode	strat_CVD_risk	12490801000006112	QRISK cardiovascular disease 10 year risk calculator score
+medcode	strat_CVD_risk	8463671000006118	Assessment using QRISK3 cardiovascular disease 10 year risk calculator
+medcode	strat_CVD_risk	7497251000006111	At high risk for heart failure
+medcode	strat_CVD_risk	6768181000006115	Potential for acute ischemic cardiac event
+medcode	strat_CVD_risk	7730391000006113	Assessment using QRISK2 cardiovascular disease 10 year risk scale
+medcode	strat_CVD_risk	12001531000006119	QRISK2 cardiovascular disease 10 year risk calculator
+medcode	strat_CVD_risk	13960481000006114	At risk of stroke
+medcode	strat_CVD_risk	7208001000006118	Congestive heart failure, hypertension, age 75 years or older, diabetes, and previous stroke or transient ischaemic attack risk score
+medcode	strat_HF_med	139475013	Heart failure
+medcode	strat_HF_med	70653017	Congestive heart failure
+medcode	strat_HF_med	141306010	Left ventricular failure
+medcode	strat_HF_med	493287011	Congestive cardiac failure
+medcode	strat_HF_med	2616471011	New York Heart Association Classification - Class II
+medcode	strat_HF_med	2616470012	New York Heart Association Classification - Class I
+medcode	strat_HF_med	2616472016	New York Heart Association Classification - Class III
+medcode	strat_HF_med	301694014	Pulmonary oedema
+medcode	strat_HF_med	139482012	Cardiac failure
+medcode	strat_HF_med	395772015	Heart failure NOS
+medcode	strat_HF_med	216184014	Congestive heart failure monitoring
+medcode	strat_HF_med	300179017	Decompensated cardiac failure
+medcode	strat_HF_med	1647701000000118	Heart failure with normal ejection fraction
+medcode	strat_HF_med	3886041000006118	Left heart failure
+medcode	strat_HF_med	1488804017	Heart failure confirmed
+medcode	strat_HF_med	7573171000006116	Heart failure with reduced ejection fraction
+medcode	strat_HF_med	147247018	Chronic congestive heart failure
+medcode	strat_HF_med	206703015	Right heart failure
+medcode	strat_HF_med	510016018	Biventricular congestive heart failure
+medcode	strat_HF_med	300190010	Acute left ventricular failure
+medcode	strat_HF_med	1490256017	Acute pulmonary oedema
+medcode	strat_HF_med	18472010	Acute congestive heart failure
+medcode	strat_HF_med	2227501000000110	Heart failure with preserved ejection fraction
+medcode	strat_HF_med	251680018	H/O: heart failure
+medcode	strat_HF_med	12626351000006111	QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation
+medcode	strat_HF_med	253994013	O/E - pulmonary oedema
+medcode	strat_HF_med	7025691000006110	Decompensated chronic heart failure
+medcode	strat_HF_med	94251011	Acute heart failure
+medcode	strat_HF_med	2616473014	New York Heart Association Classification - Class IV
+medcode	strat_HF_med	1816101000006113	Right ventricular failure
+medcode	strat_HF_med	301741013	Acute pulmonary oedema unspecified
+medcode	strat_HF_med	223981000000118	Cardiac failure NOS
+medcode	strat_HF_med	490972013	Right ventricular failure
+medcode	strat_HF_med	301743011	Acute pulmonary oedema NOS
+medcode	strat_HF_med	300180019	Compensated cardiac failure
+medcode	strat_HF_med	3182541000006117	Congestive cardiac failure
+medcode	strat_HF_med	3182551000006115	CCF - Congestive cardiac failure
+medcode	strat_HF_med	7321121000006119	Heart failure with preserved ejection fraction
+medcode	strat_HF_med	2675255018	Congestive heart failure due to valvular disease
+medcode	strat_HF_med	453099015	H/O: Heart failure in last year
+medcode	strat_HF_med	13910671000006110	Heart failure with mid range ejection fraction
+medcode	strat_HF_med	494669012	Chronic pulmonary oedema
+medcode	strat_HF_med	2664351000006113	Chronic right-sided heart failure
+medcode	strat_HF_med	7251291000006119	Chronic diastolic heart failure
+medcode	strat_HF_med	1661371000000112	HFNEF - heart failure with normal ejection fraction
+medcode	strat_HF_med	504901000006118	Benign hypertensive heart disease with congestive cardiac failure
+medcode	strat_HF_med	3283871000006117	Chronic heart failure
+medcode	strat_HF_med	7056281000006118	Congestive heart failure due to left ventricular systolic dysfunction
+medcode	strat_HF_med	72934016	Rheumatic left ventricular failure
+medcode	strat_HF_med	12734351000006110	QOF (Quality and Outcomes Framework) heart failure quality indicator-related care invitation using preferred method of communication
+medcode	strat_HF_med	139481017	Weak heart
+medcode	strat_HF_med	1576321000006113	Cause of Death- Congestive Cardiac Failure
+medcode	strat_HF_med	7573201000006117	Heart failure with reduced ejection fraction due to cardiomyopathy
+medcode	strat_HF_med	350484012	Heart failure as a complication of care
+medcode	strat_HF_med	741701000006114	Hypertensive heart and renal disease with (congestive) heart failure
+medcode	strat_HF_med	7573181000006118	Heart failure with reduced ejection fraction due to coronary artery disease
+medcode	strat_HF_med	3589241000006116	Chronic right-sided congestive heart failure
+medcode	strat_HF_med	728681000006116	Malignant hypertensive heart disease without congestive heart failure
+medcode	strat_HF_med	6212521000006115	Acute cardiac pulmonary oedema
+medcode	strat_HF_med	7250571000006113	Chronic systolic heart failure
+medcode	strat_HF_med	14015051000006114	Acute on chronic right-sided congestive heart failure
+medcode	strat_HF_med	4193361000006119	Chronic left-sided heart failure
+medcode	strat_HF_med	728671000006119	Malignant hypertensive heart disease with congestive cardiac failure
+medcode	strat_HF_med	7573211000006119	Heart failure with reduced ejection fraction due to heart valve disease
+medcode	strat_HF_med	3886071000006114	LVF - Left ventricular failure
+medcode	strat_HF_med	6919191000006119	Diastolic heart failure
+medcode	strat_HF_med	8030311000006111	Exacerbation of congestive heart failure
+medcode	strat_HF_med	12623611000006114	Excepted from heart failure quality indicators - service unavailable
+medcode	strat_HF_med	2585431000006117	Chronic left-sided congestive heart failure
+medcode	strat_HF_med	789941000006117	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+medcode	strat_HF_med	14131371000006115	Telehealth monitoring for chronic heart failure
+medcode	strat_HF_med	5054791000006119	Fluid overload pulmonary oedema
+medcode	strat_HF_med	8048061000006111	Chronic combined systolic and diastolic heart failure
+medcode	strat_HF_med	4005301000006110	Biventricular failure
+medcode	strat_HF_med	2660881000006116	High output heart failure
+medcode	strat_HF_med	6204381000006117	Acute right-sided heart failure
+medcode	strat_HF_med	6914191000006115	Systolic heart failure
+medcode	strat_HF_med	7052811000006113	Right heart failure due to pulmonary hypertension
+medcode	strat_HF_med	7475721000006114	Heart failure due to end stage congenital heart disease
+medcode	strat_HF_med	3244761000006113	Hypertensive heart failure
+medcode	strat_HF_med	7507301000006110	Acute exacerbation of chronic congestive heart failure
+medcode	strat_HF_med	6043761000006113	Refractory heart failure
+medcode	strat_HF_med	8011111000006111	Congestive heart failure with right heart failure
+medcode	strat_HF_med	7573191000006115	Heart failure with reduced ejection fraction due to myocarditis
+medcode	strat_HF_med	3182531000006110	Congestive heart disease
+medcode	strat_HF_med	5054671000006113	High altitude pulmonary oedema
+medcode	strat_HF_med	7510341000006110	Symptomatic congestive heart failure
+medcode	strat_HF_med	3182561000006118	CHF - Congestive heart failure
+medcode	strat_HF_med	14151151000006111	Heart failure due to thyrotoxicosis
+medcode	strat_HF_med	3974561000006115	Pleural effusion due to congestive heart failure
+medcode	strat_HF_med	3842421000006111	Congestive rheumatic heart failure
+medcode	strat_HF_med	14742661000006115	Left ventricular failure with normal ejection fraction due to valvular heart disease
+medcode	strat_HF_med	3886061000006119	Left-sided heart failure
+medcode	strat_HF_med	2504341000006116	Acute left heart failure
+medcode	strat_HF_med	3213831000006118	Right heart failure secondary to left heart failure
+medcode	strat_HF_med	3868341000006118	HF - Heart failure
+medcode	strat_HF_med	13971301000006111	Low output heart failure due to and following Fontan operation
+medcode	strat_HF_med	2581861000006110	Hypertensive heart disease with congestive heart failure
+medcode	strat_HF_med	3809001000006112	Acute right-sided congestive heart failure
+medcode	strat_HF_med	3489281000006119	Hypertensive heart disease without congestive heart failure
+medcode	strat_HF_med	7275961000006118	Acute on chronic diastolic heart failure
+medcode	strat_HF_med	14171441000006118	Heart failure management programme

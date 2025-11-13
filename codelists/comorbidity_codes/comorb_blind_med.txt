@@ -1,0 +1,81 @@
+code_type	code_group	code	term
+medcode	comorb_blind_med	9093013	Diabetic retinopathy
+medcode	comorb_blind_med	98476015	Proliferative diabetic retinopathy
+medcode	comorb_blind_med	2159978018	O/E - left eye proliferative diabetic retinopathy
+medcode	comorb_blind_med	2159977011	O/E - right eye proliferative diabetic retinopathy
+medcode	comorb_blind_med	2474726011	Pan retinal photocoagulation for diabetes
+medcode	comorb_blind_med	297758012	Diabetic retinopathy NOS
+medcode	comorb_blind_med	975251000006111	O/E - right eye stable treated proliferative diabetic retinopathy
+medcode	comorb_blind_med	914151000006112	Retinopathy with type 2 diabetes mellitus
+medcode	comorb_blind_med	975261000006113	O/E - left eye stable treated proliferative diabetic retinopathy
+medcode	comorb_blind_med	856611000006114	Laser treated diabetic retinopathy
+medcode	comorb_blind_med	856631000006115	Left laser treated diabetic retinopathy
+medcode	comorb_blind_med	857421000006119	Right laser treated diabetic retinopathy
+medcode	comorb_blind_med	2159876015	O/E - referable retinopathy
+medcode	comorb_blind_med	297779012	Other proliferative retinopathy
+medcode	comorb_blind_med	297782019	Proliferative retinopathy
+medcode	comorb_blind_med	455408014	Advanced diabetic retinal disease
+medcode	comorb_blind_med	1785163015	High risk proliferative diabetic retinopathy
+medcode	comorb_blind_med	934251000006110	O/E - non-referable retinopathy
+medcode	comorb_blind_med	297780010	Proliferative retinopathy due to sickle cell disease
+medcode	comorb_blind_med	641581000006115	Non-insulin-dependent diabetes mellitus with retinopathy
+medcode	comorb_blind_med	2975241000006110	Retinopathy
+medcode	comorb_blind_med	14059421000006119	Proliferative retinopathy due to diabetes mellitus
+medcode	comorb_blind_med	6760411000006117	O/E - retinopathy
+medcode	comorb_blind_med	856651000006110	Left advanced diabetic retinal disease
+medcode	comorb_blind_med	6761801000006113	On examination - left eye background diabetic retinopathy
+medcode	comorb_blind_med	6022721000006112	Proliferative diabetic retinopathy - high risk
+medcode	comorb_blind_med	857441000006114	Right advanced diabetic retinal disease
+medcode	comorb_blind_med	736911000000111	Excluded from diabetic retinopathy screening as blind
+medcode	comorb_blind_med	2549896013	O/E - sight threatening diabetic retinopathy
+medcode	comorb_blind_med	6761781000006114	On examination - right eye background diabetic retinopathy
+medcode	comorb_blind_med	84991000006112	Type II diabetes mellitus with retinopathy
+medcode	comorb_blind_med	6515211000006114	BDR - Background diabetic retinopathy
+medcode	comorb_blind_med	2906401000006113	Diabetic retinal microaneurysm
+medcode	comorb_blind_med	8242331000006114	Diabetic retinopathy detected by national screening programme
+medcode	comorb_blind_med	733161000000116	Impaired vision due to diabetic retinopathy
+medcode	comorb_blind_med	857411000006110	Right proliferative diabetic retinopathy
+medcode	comorb_blind_med	84621000006117	Type 2 diabetes mellitus with retinopathy
+medcode	comorb_blind_med	914161000006114	Type II diabetes mellitus with retinopathy
+medcode	comorb_blind_med	297781014	Other specified other proliferative retinopathy
+medcode	comorb_blind_med	1583901000006115	Ineligibility for diab. eye screen: Blind (screening contraind)
+medcode	comorb_blind_med	12189891000006110	PDR - proliferative diabetic retinopathy
+medcode	comorb_blind_med	6982521000006119	Diabetes type 2 with retinopathy
+medcode	comorb_blind_med	2576431000006117	DR - Diabetic retinopathy
+medcode	comorb_blind_med	14084061000006113	Retinopathy due to type 2 diabetes mellitus
+medcode	comorb_blind_med	14077731000006117	High risk proliferative retinopathy due to diabetes mellitus
+medcode	comorb_blind_med	6022691000006119	Early proliferative diabetic retinopathy
+medcode	comorb_blind_med	6866541000006117	On examination - left eye stable treated proliferative diabetic retinopathy
+medcode	comorb_blind_med	6630581000006113	Very severe proliferative diabetic retinopathy
+medcode	comorb_blind_med	6866901000006111	On examination - right eye stable treated proliferative diabetic retinopathy
+medcode	comorb_blind_med	6837961000006116	Panretinal photocoagulation for diabetes
+medcode	comorb_blind_med	6022761000006118	Proliferative diabetic retinopathy - quiescent
+medcode	comorb_blind_med	6630701000006110	Visually threatening diabetic retinopathy
+medcode	comorb_blind_med	6022731000006110	High risk proliferative retinopathy
+medcode	comorb_blind_med	9846701000006114	Retinopathy of both eyes
+medcode	comorb_blind_med	14077471000006114	Advanced retinal disease due to diabetes mellitus
+medcode	comorb_blind_med	6761861000006114	On examination - right eye proliferative diabetic retinopathy
+medcode	comorb_blind_med	14077721000006115	Non-high-risk proliferative retinopathy due to diabetes mellitus
+medcode	comorb_blind_med	6761881000006116	On examination - left eye proliferative diabetic retinopathy
+medcode	comorb_blind_med	14072621000006113	Traction detachment of retina due to diabetes mellitus
+medcode	comorb_blind_med	9846691000006114	Bilateral retinopathy
+medcode	comorb_blind_med	14077751000006112	Proliferative retinopathy with iris neovascularisation due to diabetes mellitus
+medcode	comorb_blind_med	8210281000006112	Non-diabetic proliferative retinopathy of bilateral eyes
+medcode	comorb_blind_med	5030771000006114	Diabetic traction retinal detachment
+medcode	comorb_blind_med	6022671000006115	Proliferative diabetic retinopathy - non high risk
+medcode	comorb_blind_med	12085291000006119	Severe nonproliferative diabetic retinopathy of left eye
+medcode	comorb_blind_med	14181911000006117	Bilateral nonproliferative retinopathy due to diabetes mellitus type 2
+medcode	comorb_blind_med	6630591000006111	Diabetic retinal venous beading
+medcode	comorb_blind_med	7968881000006119	Proliferative diabetic retinopathy due to type 2 diabetes mellitus
+medcode	comorb_blind_med	14072611000006117	Proliferative retinopathy with neovascularisation elsewhere than the optic disc due to diabetes mellitus
+medcode	comorb_blind_med	14072601000006115	Proliferative retinopathy with optic disc neovascularisation due to diabetes mellitus
+medcode	comorb_blind_med	6630641000006118	High risk proliferative diabetic retinopathy not amenable to photocoagulation
+medcode	comorb_blind_med	8030601000006119	Macular oedema and retinopathy due to type 2 diabetes mellitus
+medcode	comorb_blind_med	6630821000006112	Non-high-risk proliferative diabetic retinopathy with clinically significant macular oedema
+medcode	comorb_blind_med	6630661000006119	Non-high-risk proliferative diabetic retinopathy with no macular oedema
+medcode	comorb_blind_med	6630481000006114	Proliferative diabetic retinopathy - high risk with no macular oedema
+medcode	comorb_blind_med	5030741000006118	Proliferative diabetic retinopathy with new vessels elsewhere than on disc
+medcode	comorb_blind_med	5030691000006115	Proliferative diabetic retinopathy with new vessels on disc
+medcode	comorb_blind_med	14077741000006110	Quiescent proliferative retinopathy due to diabetes mellitus
+medcode	comorb_blind_med	12166111000006116	Retinopathy due to diabetes mellitus
+medcode	comorb_blind_med	7841331000006118	Background retinopathy due to impaired glucose regulation

@@ -1,0 +1,9 @@
+code_type	code_group	MedCodeId	Term
+QRISK	QRISK	1126121000000112	QRISK2 cardiovascular disease 10 year risk score
+QRISK	QRISK	664421000000119	QRISK cardiovascular disease 10 year risk calculator score
+QRISK	QRISK	8463841000006110	QRISK3 cardiovascular disease 10 year risk calculator score
+QRISK	QRISK	1656451000006117	QRISK cardiovascular disease (CVD) 10 year risk score
+QRISK	QRISK	1656461000006115	QRISK cardiovascular disease (CVD) estimated 10 year risk score
+QRISK	QRISK	7228321000006116	QRISK cardiovascular disease risk score
+QRISK	QRISK	11928841000006119	QRISK cardiovascular disease 10 year risk score
+QRISK	QRISK	12490801000006112	QRISK cardiovascular disease 10 year risk calculator score

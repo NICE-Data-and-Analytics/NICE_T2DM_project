@@ -1,0 +1,50 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_sulfonylurea	646441000033117	Gliclazide 80mg tablets	Gliclazide
+prodcode	med_sulfonylurea	5709741000033116	Gliclazide 40mg tablets	Gliclazide
+prodcode	med_sulfonylurea	2289441000033115	Gliclazide 30mg modified-release tablets	Gliclazide
+prodcode	med_sulfonylurea	644641000033112	Glibenclamide 5mg tablets	Glibenclamide
+prodcode	med_sulfonylurea	645841000033112	Glimepiride 2mg tablets	Glimepiride
+prodcode	med_sulfonylurea	646141000033113	Glimepiride 4mg tablets	Glimepiride
+prodcode	med_sulfonylurea	1450941000033113	Tolbutamide 500mg tablets	Tolbutamide
+prodcode	med_sulfonylurea	644841000033113	Glipizide 5mg tablets	Glipizide
+prodcode	med_sulfonylurea	645941000033116	Glimepiride 1mg tablets	Glimepiride
+prodcode	med_sulfonylurea	644541000033111	Glibenclamide 2.5mg tablets	Glibenclamide
+prodcode	med_sulfonylurea	646041000033114	Glimepiride 3mg tablets	Glimepiride
+prodcode	med_sulfonylurea	463541000033118	Diamicron 80mg tablets (Servier Laboratories Ltd)	Gliclazide
+prodcode	med_sulfonylurea	2289941000033113	Diamicron 30mg MR tablets (Servier Laboratories Ltd)	Gliclazide
+prodcode	med_sulfonylurea	8298141000033113	Gliclazide 60mg modified-release tablets	Gliclazide
+prodcode	med_sulfonylurea	406841000033114	Daonil 5mg tablets (Sanofi)	Glibenclamide
+prodcode	med_sulfonylurea	646541000033116	Glipizide 2.5mg tablets	Glipizide
+prodcode	med_sulfonylurea	644741000033115	Glibenese 5mg tablets (Pfizer Ltd)	Glipizide
+prodcode	med_sulfonylurea	557341000033115	Euglucon 5mg tablets (Sanofi)	Glibenclamide
+prodcode	med_sulfonylurea	59541000033116	Amaryl 1mg tablets (Zentiva Pharma UK Ltd)	Glimepiride
+prodcode	med_sulfonylurea	58841000033113	Amaryl 2mg tablets (Zentiva Pharma UK Ltd)	Glimepiride
+prodcode	med_sulfonylurea	59741000033112	Amaryl 4mg tablets (Zentiva Pharma UK Ltd)	Glimepiride
+prodcode	med_sulfonylurea	462141000033115	Diabetamide 5mg tablets (Ashbourne Pharmaceuticals Ltd)	Glibenclamide
+prodcode	med_sulfonylurea	1278041000033114	Semi-Daonil 2.5mg tablets (Sanofi)	Glibenclamide
+prodcode	med_sulfonylurea	59641000033115	Amaryl 3mg tablets (Zentiva Pharma UK Ltd)	Glimepiride
+prodcode	med_sulfonylurea	10701641000033116	Bilxona 30mg modified-release tablets (Accord Healthcare Ltd)	Gliclazide
+prodcode	med_sulfonylurea	557241000033113	Euglucon 2.5mg tablets (Aventis Pharma)	Glibenclamide
+prodcode	med_sulfonylurea	12998941000033116	Gliclazide 160mg tablets	Gliclazide
+prodcode	med_sulfonylurea	920241000033117	Minodiab 5mg tablets (Pfizer Ltd)	Glipizide
+prodcode	med_sulfonylurea	462041000033119	Diabetamide 2.5mg tablets (Ashbourne Pharmaceuticals Ltd)	Glibenclamide
+prodcode	med_sulfonylurea	1602941000033117	Diaglyk 80mg tablets (Ashbourne Pharmaceuticals Ltd)	Gliclazide
+prodcode	med_sulfonylurea	3953041000033113	Gliclazide 80mg/5ml oral suspension	Gliclazide
+prodcode	med_sulfonylurea	5709841000033114	Zicron 40mg tablets (Bristol Laboratories Ltd)	Gliclazide
+prodcode	med_sulfonylurea	5869241000033114	Gliclazide 40mg/5ml oral suspension	Gliclazide
+prodcode	med_sulfonylurea	920141000033112	Minodiab 2.5mg tablets (Pfizer Ltd)	Glipizide
+prodcode	med_sulfonylurea	10043341000033116	Vamju 30mg modified-release tablets (Advanz Pharma)	Gliclazide
+prodcode	med_sulfonylurea	406741000033116	Daonil  Tablets  2.5 mg	Glibenclamide
+prodcode	med_sulfonylurea	10701741000033113	Bilxona 60mg modified-release tablets (Accord Healthcare Ltd)	Gliclazide
+prodcode	med_sulfonylurea	8298241000033118	Laaglyda MR 60mg tablets (Krka UK Ltd)	Gliclazide
+prodcode	med_sulfonylurea	4941241000033119	Nazdol MR 30mg tablets (Krka UK Ltd)	Gliclazide
+prodcode	med_sulfonylurea	5815341000033115	Edicil MR 30mg tablets (Teva UK Ltd)	Gliclazide
+prodcode	med_sulfonylurea	10043441000033110	Vamju 60mg modified-release tablets (Advanz Pharma)	Gliclazide
+prodcode	med_sulfonylurea	5378141000033117	Dacadis MR 30mg tablets (Viatris UK Healthcare Ltd)	Gliclazide
+prodcode	med_sulfonylurea	11918941000033116	Zicron PR 30mg tablets (Bristol Laboratories Ltd)	Gliclazide
+prodcode	med_sulfonylurea	5968741000033115	Glibenclamide 5mg/5ml oral solution	Glibenclamide
+prodcode	med_sulfonylurea	5968841000033113	Glibenclamide 5mg/5ml oral suspension	Glibenclamide
+prodcode	med_sulfonylurea	8125241000033119	Glimepiride 6mg/5ml oral suspension	Glimepiride
+prodcode	med_sulfonylurea	13345341000033117	Lamzarin 60mg modified-release tablets (Key Pharmaceuticals Ltd)	Gliclazide
+prodcode	med_sulfonylurea	12999041000033113	Glydex 160mg tablets (Medreich Plc)	Gliclazide
+prodcode	med_sulfonylurea	13122741000033116	Amglidia 0.6mg/ml oral suspension with 1ml oral syringe (Amring Pharmaceuticals Ltd)	Glibenclamide

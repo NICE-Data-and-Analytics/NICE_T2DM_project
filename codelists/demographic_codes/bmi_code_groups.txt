@@ -1,0 +1,40 @@
+MedCodeId	Term	Category
+253844013	Normal body mass index	normal
+2474325012	Body mass index 20-24 - normal	normal
+1808071000006119	Body mass index 18.5-24.9	normal
+3070611000006119	Normal BMI (body mass index)	normal
+253848011	Body mass index 30+ - obesity	obese
+280881000006115	O/E - obese	obese
+253576010	O/E - obese	obese
+1803041000000114	Obesity hypoventilation syndrome	obese
+293635019	Extreme obesity with alveolar hypoventilation	obese
+6866991000006116	Obese	obese
+2535848016	Pickwickian syndrome	obese
+232631000006113	Pickwickian syndrome	obese
+4553741000006118	BMI 30+ - obesity	obese
+2350241000000116	Obese class I (body mass index 30.0 - 34.9)	obese_class_1
+12113161000006113	Obese class I	obese_class_1
+2350261000000115	Obese class II (body mass index 35.0 - 39.9)	obese_class_2
+12113181000006115	Obese class II	obese_class_2
+2160062010	Body mass index 40+ - severely obese	obese_class_3
+1900331000006113	Obese class III (body mass index equal to or greater than 40.0)	obese_class_3
+13926671000006119	Obese class III	obese_class_3
+6763391000006114	Body mass index 40+ - morbidly obese	obese_class_3
+6763401000006111	BMI (body mass index) 40+ - severely obese	obese_class_3
+253847018	Body mass index index 25-29 - overweight	overweight
+4553701000006115	Body mass index 25-29 - overweight	overweight
+4553721000006113	BMI 25-29 - overweight	overweight
+7833991000006118	Overweight in adulthood with body mass index of 25 or more but less than 30	overweight
+453856012	Body mass index less than 20	unclear
+5998281000006119	BMI less than 20	unclear
+1922491000006113	Down syndrome body mass index centile	unclear
+1808061000006114	Body mass index less than 18.5	underweight
+7068841000006116	Body mass index less than 16.5	underweight
+100716012	Body mass index	value_dependant
+11923361000006119	Finding of body mass index	value_dependant
+3484801000006114	BMI - Body mass index	value_dependant
+923861000006112	Body mass index	value_dependant
+2196071000000116	Baseline body mass index	value_dependant
+8286991000006119	Baseline BMI (body mass index)	value_dependant
+5892201000006119	Observation of body mass index	value_dependant
+7504441000006114	Measurement of body mass index	value_dependant

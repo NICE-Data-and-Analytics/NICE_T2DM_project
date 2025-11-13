@@ -1,0 +1,17 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_SGLT2	8199441000033112	Dapagliflozin 10mg tablets	Dapagliflozin propanediol monohydrate
+prodcode	med_SGLT2	9336641000033119	Empagliflozin 10mg tablets	Empagliflozin
+prodcode	med_SGLT2	9336841000033118	Empagliflozin 25mg tablets	Empagliflozin
+prodcode	med_SGLT2	9110341000033112	Canagliflozin 100mg tablets	Canagliflozin hemihydrate
+prodcode	med_SGLT2	9110441000033118	Canagliflozin 300mg tablets	Canagliflozin hemihydrate
+prodcode	med_SGLT2	8199341000033118	Dapagliflozin 5mg tablets	Dapagliflozin propanediol monohydrate
+prodcode	med_SGLT2	8199641000033114	Forxiga 10mg tablets (AstraZeneca UK Ltd)	Dapagliflozin propanediol monohydrate
+prodcode	med_SGLT2	9110541000033117	Invokana 100mg tablets (Napp Pharmaceuticals Ltd)	Canagliflozin hemihydrate
+prodcode	med_SGLT2	9110641000033116	Invokana 300mg tablets (Napp Pharmaceuticals Ltd)	Canagliflozin hemihydrate
+prodcode	med_SGLT2	8199541000033113	Forxiga 5mg tablets (AstraZeneca UK Ltd)	Dapagliflozin propanediol monohydrate
+prodcode	med_SGLT2	9337141000033114	Jardiance 10mg tablets (Boehringer Ingelheim Ltd)	Empagliflozin
+prodcode	med_SGLT2	9337241000033119	Jardiance 25mg tablets (Boehringer Ingelheim Ltd)	Empagliflozin
+prodcode	med_SGLT2	12880941000033111	Ertugliflozin 5mg tablets	Ertugliflozin L-pyroglutamic acid
+prodcode	med_SGLT2	12881041000033118	Ertugliflozin 15mg tablets	Ertugliflozin L-pyroglutamic acid
+prodcode	med_SGLT2	12881241000033114	Steglatro 15mg tablets (Merck Sharp & Dohme (UK) Ltd)	Ertugliflozin L-pyroglutamic acid
+prodcode	med_SGLT2	12881141000033119	Steglatro 5mg tablets (Merck Sharp & Dohme (UK) Ltd)	Ertugliflozin L-pyroglutamic acid

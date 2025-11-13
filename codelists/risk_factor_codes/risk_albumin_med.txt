@@ -1,0 +1,59 @@
+code_type	code_group	code	term
+medcode	risk_album_med	74961000006113	Urine albumin:creatinine ratio
+medcode	risk_album_med	494597013	Urine microalbumin level
+medcode	risk_album_med	74951000006111	Urine albumin level
+medcode	risk_album_med	2474458019	Urine microalbumin profile
+medcode	risk_album_med	457416018	Urine protein/creatinine ratio
+medcode	risk_album_med	373788012	Microalbumin excretion rate
+medcode	risk_album_med	129931000000118	24 hour urine protein output
+medcode	risk_album_med	456795013	Microalbuminuria
+medcode	risk_album_med	2397861000000112	Random urine protein:creatinine ratio
+medcode	risk_album_med	68971000006117	Urine microalbumin/creatinine ratio
+medcode	risk_album_med	476291000006112	Albumin/creatinine ratio
+medcode	risk_album_med	260307015	Urine microalbumin positive
+medcode	risk_album_med	928561000006118	Persistent microalbuminuria associated with type 2 diabetes mellitus
+medcode	risk_album_med	457420019	24 hour urine albumin output
+medcode	risk_album_med	451417018	Albumin excretion rate
+medcode	risk_album_med	317686015	Albuminuria
+medcode	risk_album_med	187311000000113	24 hour urine protein excretion test
+medcode	risk_album_med	1940661000006117	CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+medcode	risk_album_med	1940631000006114	CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
+medcode	risk_album_med	14083811000006118	Persistent microalbuminuria due to type 2 diabetes mellitus
+medcode	risk_album_med	1940601000006118	CKD G2A2 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2
+medcode	risk_album_med	1940671000006112	CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+medcode	risk_album_med	1940511000006116	CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
+medcode	risk_album_med	1940521000006112	CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
+medcode	risk_album_med	1940641000006116	CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+medcode	risk_album_med	411750015	Albumin in sample
+medcode	risk_album_med	1940571000006113	CKD G1A2 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2
+medcode	risk_album_med	8027521000006110	Microalbuminuria due to type 2 diabetes mellitus
+medcode	risk_album_med	928571000006113	Type II diabetes mellitus with persistent microalbuminuria
+medcode	risk_album_med	1940611000006115	CKD G2A3 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3
+medcode	risk_album_med	1940551000006115	CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+medcode	risk_album_med	1484877019	Overnight albumin excretion rate
+medcode	risk_album_med	1940581000006111	CKD G1A3 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3
+medcode	risk_album_med	5095031000006114	Microalbuminuric diabetic nephropathy
+medcode	risk_album_med	1940541000006117	CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+medcode	risk_album_med	14357931000006118	ACR (albumin to creatinine ratio) in urine by test strip semi-quantitative result
+medcode	risk_album_med	4111481000006118	"Microalbumin measurement, urine, semi-quantitative"
+medcode	risk_album_med	933211000006112	DM + persist microalbuminuria
+medcode	risk_album_med	5289601000006117	Albumin/creatinine ratio
+medcode	risk_album_med	3636267017	Persistent albuminuria
+medcode	risk_album_med	3515025016	Grade A3 albuminuria
+medcode	risk_album_med	5520191000006113	Urine microalbumin/creatinine ratio measurement
+medcode	risk_album_med	5518901000006111	Urine albumin level
+medcode	risk_album_med	5520181000006110	Urine albumin/creatinine ratio
+medcode	risk_album_med	5520171000006112	Urine albumin/creatinine ratio measurement
+medcode	risk_album_med	5576791000006113	Albumin in sample
+medcode	risk_album_med	3254671000006113	Urine microalbumin
+medcode	risk_album_med	3254681000006111	Urine microalbumin level
+medcode	risk_album_med	3665021000006112	Abnormal presence of albumin
+medcode	risk_album_med	5289591000006113	Albumin/creatinine ratio measurement
+medcode	risk_album_med	5518891000006112	Urine albumin measurement
+medcode	risk_album_med	8409231000006115	Albumin / creatinine ratio
+medcode	risk_album_med	12681291000006112	Albumin/creatinine ratio in urine
+medcode	risk_album_med	8345931000006110	Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+medcode	risk_album_med	8346021000006117	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+medcode	risk_album_med	8346041000006112	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+medcode	risk_album_med	3515023011	Albuminuria grade A2
+medcode	risk_album_med	12622571000006112	Protein mass concentration in urine

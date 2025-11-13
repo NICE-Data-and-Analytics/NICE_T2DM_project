@@ -1,0 +1,15 @@
+code_type	code_group	code	term
+medcode	risk_HR_med	254020017	Pulse rate
+medcode	risk_HR_med	487210016	Heart rate
+medcode	risk_HR_med	2378591000000110	Baseline heart rate
+medcode	risk_HR_med	254030014	O/E - pulse rate
+medcode	risk_HR_med	2635731000006111	Pulse
+medcode	risk_HR_med	5991331000006116	O/E - pulse
+medcode	risk_HR_med	2189651000000113	Radial pulse rate
+medcode	risk_HR_med	14504531000006114	Finding of pulse rate
+medcode	risk_HR_med	7300961000006113	Resting heart rate
+medcode	risk_HR_med	5889231000006115	Finding of heart rate
+medcode	risk_HR_med	1699161000006113	Heart rate
+medcode	risk_HR_med	4555701000006116	On examination - pulse rate
+medcode	risk_HR_med	3777921000006118	PR - Pulse rate
+medcode	risk_HR_med	6253981000006111	Cardiac rate

@@ -1,0 +1,2 @@
+code_type	code_group	code	term
+ICD	comorb_ulcer_ICD	L97	"Ulcer of lower limb, not elsewhere classified"

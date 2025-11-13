@@ -1,0 +1,149 @@
+MedCodeId	Term	Observations
+197984010	Type 1 diabetes mellitus	3000000
+1658861000000113	Type I diabetic dietary review	90000
+494564012	Type I diabetes mellitus	80000
+84281000006115	Type 1 diabetes mellitus	30000
+84651000006114	Type I diabetes mellitus	20000
+928501000006119	Ketoacidosis in type 1 diabetes mellitus	20000
+479511000000117	Diabetes type 1 review	10000
+616621000006115	Type 1 diabetes mellitus without complication	10000
+299601000000114	Gastroparesis with type 1 diabetes mellitus	7000
+1780311019	Type 1 diabetes mellitus with persistent microalbuminuria	4000
+928461000006119	Persistent proteinuria associated with type 1 diabetes mellitus	4000
+913661000006118	Retinopathy with type 1 diabetes mellitus	2000
+913451000006117	Type 1 diabetes mellitus with renal complications	2000
+292548017	Type 1 diabetes mellitus - poor control	2000
+84661000006111	Type I diabetes mellitus poorly controlled	2000
+616641000006110	"Diabetes mellitus, juvenile type, with ketoacidosis"	1000
+913841000006116	Renal disorder associated with type 1 diabetes mellitus	1000
+913541000006118	Type 1 diabetes mellitus with multiple complications	1000
+7480691000006118	H/O diabetes mellitus type 1	800
+928521000006112	Ketoacidotic coma in type 1 diabetes mellitus	800
+1665751000000119	Type 1 diabetic dietary review	800
+928511000006116	Type I diabetes mellitus with ketoacidosis	700
+84291000006117	Type 1 diabetes mellitus - poor control	700
+7098211000006116	Dietary education for type 1 diabetes mellitus	700
+8232101000006117	Referral to type I diabetes structured education programme	600
+938301000006114	Exudative maculopathy with type 1 diabetes mellitus	500
+1667941000000112	Type I diabetes mellitus with gastroparesis	400
+429971019	Unstable type 1 diabetes mellitus	400
+457326014	Type 1 diabetes mellitus without complication	400
+84741000006118	Type I diabetes mellitus with nephropathy	400
+913481000006113	Type 1 diabetes mellitus with ophthalmic complications	400
+292540012	Type 1 diabetes mellitus with ulcer	300
+459161015	Type 1 diabetes mellitus with hypoglycaemic coma	300
+84731000006111	Multiple complications of type 1 diabetes mellitus	300
+2288011000000114	Type I diabetes mellitus in remission	200
+459296014	Type 1 diabetes mellitus with neuropathic arthropathy	200
+292541011	Type 1 diabetes mellitus with gangrene	200
+84371000006110	Type 1 diabetes mellitus with nephropathy	200
+616601000006113	"Diabetes mellitus, juvenile type, + ophthalmic manifestation"	200
+928491000006110	Type I diabetes mellitus with persistent microalbuminuria	100
+616671000006119	"Diabetes mellitus, juvenile, + neurological manifestation"	100
+913511000006117	Type 1 diabetes mellitus with neurological complications	100
+2288041000000110	Type 1 diabetes mellitus in remission	100
+84761000006119	Type I diabetes mellitus with neuropathic arthropathy	100
+14083741000006114	Ketoacidosis due to type 1 diabetes mellitus	100
+84811000006114	Type I diabetes mellitus with retinopathy	100
+616661000006114	"Diabetes mellitus, juvenile type, with renal manifestation"	100
+7287611000006113	Type 1 diabetes mellitus uncontrolled	100
+8006221000006115	Microalbuminuria due to type 1 diabetes mellitus	90
+14083781000006115	Persistent proteinuria due to type 1 diabetes mellitus	90
+616611000006111	Disorder due to type 1 diabetes mellitus	90
+913811000006115	Type 1 diabetes mellitus with polyneuropathy	90
+457325013	Type I diabetes mellitus without complication	90
+14083901000006110	Persistent microalbuminuria due to type 1 diabetes mellitus	90
+84401000006113	Type 1 diabetes mellitus with ophthalmic complications	80
+3253231000006110	Diabetes mellitus type I	70
+84711000006117	Type I diabetes mellitus with hypoglycaemic coma	70
+429970018	Unstable type I diabetes mellitus	60
+913671000006113	Type I diabetes mellitus with retinopathy	60
+8043321000006114	Hyperlipidaemia due to type 1 diabetes mellitus	50
+459292011	Type 1 diabetes mellitus with arthropathy	50
+3253241000006117	Diabetes mellitus type 1	50
+84441000006110	Type 1 diabetes mellitus with retinopathy	50
+84431000006117	Type 1 diabetes mellitus with renal complications	50
+84801000006111	Type I diabetes mellitus with renal complications	50
+292550013	Type I diabetes mellitus - poor control	50
+459163017	Type I diabetes mellitus with hypoglycaemic coma	40
+616651000006112	"Diabetes mellitus, juvenile type, with ketoacidotic coma"	40
+913901000006112	Type 1 diabetes mellitus with diabetic cataract	40
+84451000006112	Type 1 diabetes mellitus with ulcer	30
+913931000006116	Type 1 diabetes mellitus with peripheral angiopathy	30
+72711000006117	Unstable type 1 diabetes mellitus	30
+5754581000006110	Brittle type 1 diabetes mellitus	30
+84341000006119	Type 1 diabetes mellitus with hypoglycaemic coma	30
+938311000006112	Type I diabetes mellitus with exudative maculopathy	30
+84771000006114	Disorder of eye with type 1 diabetes mellitus	30
+84821000006118	Type I diabetes mellitus with ulcer	20
+459294012	Type I diabetes mellitus with arthropathy	20
+928471000006114	Type I diabetes mellitus with persistent proteinuria	20
+913781000006117	Type 1 diabetes mellitus with mononeuropathy	20
+616591000006117	"Diabetes mellitus, juvenile +peripheral circulatory disorder"	20
+84381000006113	Type 1 diabetes mellitus with neurological complications	20
+292482014	"Diabetes mellitus, juvenile type, with hyperosmolar coma"	20
+72721000006113	Unstable type I diabetes mellitus	20
+6030001000006116	Insulin-dependent diabetes without complication	20
+913461000006115	Type I diabetes mellitus with renal complications	20
+913851000006119	Type I diabetes mellitus with nephropathy	20
+84691000006115	Cataract due to diabetes mellitus type 1	20
+7969211000006115	Mixed hyperlipidaemia due to type 1 diabetes mellitus	10
+292538019	Type I diabetes mellitus with ulcer	10
+84311000006118	Type 1 diabetes mellitus with arthropathy	10
+12705071000006113	Gastroparesis due to type 1 diabetes mellitus	10
+84421000006115	Type 1 diabetes mellitus with polyneuropathy	10
+84461000006114	Type 1 diabetes mellitus without complication	10
+292543014	Type I diabetes mellitus with gangrene	10
+84701000006115	Type I diabetes mellitus with gangrene	10
+84321000006114	Type 1 diabetes mellitus with diabetic cataract	10
+84361000006115	Type 1 diabetes mellitus with multiple complications	10
+913551000006116	Type I diabetes mellitus with multiple complications	10
+2967831017	Pre-existing type 1 diabetes mellitus in pregnancy	10
+8077141000006113	Proteinuria due to type 1 diabetes mellitus	9
+13966631000006113	Newly diagnosed type 1 diabetes mellitus	9
+14083771000006118	Exudative maculopathy due to type 1 diabetes mellitus	8
+913791000006119	Type I diabetes mellitus with mononeuropathy	7
+8027471000006112	Chronic kidney disease stage 4 due to type 1 diabetes mellitus	7
+2867431000006112	Insulin dependent diabetes mellitus type IA	5
+84831000006115	Type I diabetes mellitus without complication	5
+14083831000006112	Retinopathy due to type 1 diabetes mellitus	5
+8440231000006115	Eating disorder co-occurrent with diabetes mellitus type 1	4
+8119331000006114	Hyperglycaemia due to type 1 diabetes mellitus	4
+84721000006113	Mononeuropathy with type 1 diabetes mellitus	4
+8024771000006113	Rubeosis iridis due to type 1 diabetes mellitus	4
+928531000006110	Type I diabetes mellitus with ketoacidotic coma	4
+14083931000006119	Hypoglycaemic coma due to type 1 diabetes mellitus	4
+84751000006116	Type I diabetes mellitus with neurological complications	3
+913521000006113	Neurological disorder with type 1 diabetes mellitus	3
+14083941000006112	Disorder of nervous system due to type 1 diabetes mellitus	3
+84391000006111	Type 1 diabetes mellitus with neuropathic arthropathy	3
+8027391000006115	Chronic kidney disease stage 1 due to type 1 diabetes mellitus	3
+6951091000006110	Diabetes type 1 with ketoacidosis	3
+14083841000006119	Gangrene due to type 1 diabetes mellitus	3
+913491000006111	Type I diabetes mellitus with ophthalmic complications	3
+12702381000006118	Diabetic oculopathy due to type I diabetes mellitus	3
+14091771000006115	Disorder of eye due to type 1 diabetes mellitus	3
+84781000006112	Type I diabetes mellitus with peripheral angiopathy	2
+913941000006114	Peripheral angiopathy due to type 1 diabetes mellitus	2
+84791000006110	Polyneuropathy due to diabetes mellitus type I	2
+13966641000006115	Newly diagnosed diabetes mellitus type 1	2
+8027451000006119	Chronic kidney disease stage 3 due to type 1 diabetes mellitus	2
+2867421000006114	Insulin dependent diabetes mellitus type 1A	2
+84331000006112	Type 1 diabetes mellitus with gangrene	2
+913911000006110	Type I diabetes mellitus with diabetic cataract	2
+14181871000006115	Severe nonproliferative diabetic retinopathy of bilateral eyes due to diabetes mellitus type 1	1
+14182011000006110	Bilateral proliferative retinopathy of eyes due to diabetes mellitus type 1	1
+84681000006118	Type I diabetes mellitus with arthropathy	1
+8019521000006112	Nonproliferative diabetic retinopathy due to type 1 diabetes mellitus	1
+8019531000006110	Proliferative retinopathy due to type 1 diabetes mellitus	1
+7708051000006112	Gastroparesis due to diabetes mellitus type I	1
+913821000006111	Type I diabetes mellitus with polyneuropathy	1
+8026061000006112	Heel AND/OR midfoot ulcer due to type 1 diabetes mellitus	1
+8014501000006115	Diabetes mellitus type 1 without retinopathy	1
+14084021000006119	Renal disorder due to type 1 diabetes mellitus	1
+7287621000006117	Type I diabetes mellitus uncontrolled	1
+7287641000006112	Type 1 diabetes mellitus well controlled	1
+8022481000006112	Peripheral neuropathy due to type 1 diabetes mellitus	1
+8027411000006115	Chronic kidney disease stage 2 due to type 1 diabetes mellitus	1
+8027491000006113	Chronic kidney disease stage 5 due to type 1 diabetes mellitus	1
+12085801000006113	Macular oedema due to type 1 diabetes mellitus	1

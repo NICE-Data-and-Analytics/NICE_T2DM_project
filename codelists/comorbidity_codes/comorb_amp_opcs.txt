@@ -1,0 +1,18 @@
+code_type	code_group	code	term
+OPCS	comorb_amp_OPCS	X09	Amputation of leg
+OPCS	comorb_amp_OPCS	X091	Hindquarter amputation
+OPCS	comorb_amp_OPCS	X093	Amputation of leg above knee
+OPCS	comorb_amp_OPCS	X094	Amputation of leg through knee
+OPCS	comorb_amp_OPCS	X095	Amputation of leg below knee
+OPCS	comorb_amp_OPCS	X098	Other specified amputation of leg
+OPCS	comorb_amp_OPCS	X099	Unspecified amputation of leg
+OPCS	comorb_amp_OPCS	X10	Amputation of foot
+OPCS	comorb_amp_OPCS	X101	Amputation of foot through ankle
+OPCS	comorb_amp_OPCS	X104	Amputation through metatarsal bones
+OPCS	comorb_amp_OPCS	X108	Other specified amputation of foot
+OPCS	comorb_amp_OPCS	X109	Unspecified amputation of foot
+OPCS	comorb_amp_OPCS	X11	Amputation of toe
+OPCS	comorb_amp_OPCS	X111	Amputation of great toe
+OPCS	comorb_amp_OPCS	X112	Amputation of phalanx of toe
+OPCS	comorb_amp_OPCS	X118	Other specified amputation of toe
+OPCS	comorb_amp_OPCS	X119	Unspecified amputation of toe

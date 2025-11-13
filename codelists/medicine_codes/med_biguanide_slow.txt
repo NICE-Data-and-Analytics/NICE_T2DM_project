@@ -1,0 +1,26 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_biguanide_slow	3228141000033117	Metformin 500mg modified-release tablets	Metformin hydrochloride
+prodcode	med_biguanide_slow	4945241000033117	Metformin 1g modified-release tablets	Metformin hydrochloride
+prodcode	med_biguanide_slow	9230641000033113	Sukkarto SR 500mg tablets (Morningside Healthcare Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	9230841000033114	Sukkarto SR 1000mg tablets (Morningside Healthcare Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	3228241000033112	Glucophage SR 500mg tablets (Merck Serono Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	4549141000033118	Metformin 750mg modified-release tablets	Metformin hydrochloride
+prodcode	med_biguanide_slow	4945341000033110	Glucophage SR 1000mg tablets (Merck Serono Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	12593141000033115	Yaltormin SR 500mg tablets (Wockhardt UK Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	12593341000033117	Yaltormin SR 1000mg tablets (Wockhardt UK Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	4549241000033113	Glucophage SR 750mg tablets (Merck Serono Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	4957741000033118	Bolamyn SR 500mg tablets (Teva UK Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	7874941000033110	Diagemet XL 500mg tablets (Genus Pharmaceuticals Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	13606641000033119	Glucorex SR 500mg tablets (GlucoRx Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	6029841000033115	Metabet SR 500mg tablets (Morningside Healthcare Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	13429041000033112	Sukkarto SR 750mg tablets (Morningside Healthcare Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	12593241000033110	Yaltormin SR 750mg tablets (Wockhardt UK Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	8348941000033113	Bolamyn SR 1000mg tablets (Teva UK Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	6279741000033117	Metabet SR 1000mg tablets (Morningside Healthcare Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	6391041000033117	Glucient SR 500mg tablets (Consilient Health Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	10598941000033117	Glucient SR 1000mg tablets (Consilient Health Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	12326541000033110	Meijumet 500mg modified-release tablets (Medreich Plc)	Metformin hydrochloride
+prodcode	med_biguanide_slow	12664441000033115	Metuxtan SR 500mg tablets (Accord Healthcare Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	10598841000033113	Glucient SR 750mg tablets (Consilient Health Ltd)	Metformin hydrochloride
+prodcode	med_biguanide_slow	12326741000033119	Meijumet 1000mg modified-release tablets (Medreich Plc)	Metformin hydrochloride
+prodcode	med_biguanide_slow	12326641000033111	Meijumet 750mg modified-release tablets (Medreich Plc)	Metformin hydrochloride

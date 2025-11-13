@@ -1,0 +1,7 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_insulin_GLP1	10044641000033114	Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pens (Novo Nordisk Ltd)	Insulin degludec/ Liraglutide
+prodcode	med_insulin_GLP1	10044541000033113	Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices	Insulin degludec/ Liraglutide
+prodcode	med_insulin_GLP1	12902541000033110	Suliqua 100units/ml / 33micrograms/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi)	Insulin glargine/ Lixisenatide
+prodcode	med_insulin_GLP1	12902641000033111	Suliqua 100units/ml / 50micrograms/ml solution for injection 3ml pre-filled SoloStar pens (Sanofi)	Insulin glargine/ Lixisenatide
+prodcode	med_insulin_GLP1	12902841000033112	Insulin glargine 100units/ml / Lixisenatide 50micrograms/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine/ Lixisenatide
+prodcode	med_insulin_GLP1	12902741000033119	Insulin glargine 100units/ml / Lixisenatide 33micrograms/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine/ Lixisenatide

@@ -1,0 +1,50 @@
+code_type	code_group	code	term
+OPCS	risk_PAD_OPCS	L541	Percutaneous transluminal angioplasty of iliac artery
+OPCS	risk_PAD_OPCS	L544	Percutaneous transluminal insertion of stent into iliac artery
+OPCS	risk_PAD_OPCS	L631	Percutaneous transluminal angioplasty of femoral artery
+OPCS	risk_PAD_OPCS	L635	Percutaneous transluminal insertion of stent into femoral artery
+OPCS	risk_PAD_OPCS	L662	Percutaneous transluminal stent reconstruction of artery
+OPCS	risk_PAD_OPCS	L665	Percutaneous transluminal balloon angioplasty of artery
+OPCS	risk_PAD_OPCS	L667	Percutaneous transluminal placement of peripheral stent in artery
+OPCS	risk_PAD_OPCS	L711	Percutaneous transluminal angioplasty of artery
+OPCS	risk_PAD_OPCS	L161	Emergency bypass of aorta by anastomosis of axillary artery to femoral artery
+OPCS	risk_PAD_OPCS	L162	Bypass of aorta by anastomosis of axillary artery to femoral artery NEC
+OPCS	risk_PAD_OPCS	L163	Bypass of aorta by anastomosis of axillary artery to bilateral femoral arteries
+OPCS	risk_PAD_OPCS	L206	Emergency bypass of bifurcation of aorta by anastomosis of aorta to iliac artery NEC
+OPCS	risk_PAD_OPCS	L216	Bypass of bifurcation of aorta by anastomosis of aorta to iliac artery NEC
+OPCS	risk_PAD_OPCS	L501	Emergency bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+OPCS	risk_PAD_OPCS	L502	Emergency bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+OPCS	risk_PAD_OPCS	L503	Emergency bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+OPCS	risk_PAD_OPCS	L504	Emergency bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+OPCS	risk_PAD_OPCS	L505	Emergency bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+OPCS	risk_PAD_OPCS	L506	Emergency bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+OPCS	risk_PAD_OPCS	L511	Bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+OPCS	risk_PAD_OPCS	L512	Bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+OPCS	risk_PAD_OPCS	L513	Bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+OPCS	risk_PAD_OPCS	L514	Bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+OPCS	risk_PAD_OPCS	L515	Bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+OPCS	risk_PAD_OPCS	L516	Bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+OPCS	risk_PAD_OPCS	L521	Endarterectomy of iliac artery and patch repair of iliac artery
+OPCS	risk_PAD_OPCS	L522	Endarterectomy of iliac artery NEC
+OPCS	risk_PAD_OPCS	L528	Other specified reconstruction of iliac artery
+OPCS	risk_PAD_OPCS	L531	Repair of iliac artery NEC
+OPCS	risk_PAD_OPCS	L581	Emergency bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+OPCS	risk_PAD_OPCS	L582	Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+OPCS	risk_PAD_OPCS	L583	Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+OPCS	risk_PAD_OPCS	L584	Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+OPCS	risk_PAD_OPCS	L585	Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+OPCS	risk_PAD_OPCS	L586	Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+OPCS	risk_PAD_OPCS	L587	Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+OPCS	risk_PAD_OPCS	L591	Bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+OPCS	risk_PAD_OPCS	L592	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+OPCS	risk_PAD_OPCS	L593	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+OPCS	risk_PAD_OPCS	L594	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+OPCS	risk_PAD_OPCS	L595	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+OPCS	risk_PAD_OPCS	L596	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+OPCS	risk_PAD_OPCS	L597	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+OPCS	risk_PAD_OPCS	L601	Endarterectomy of femoral artery and patch repair of femoral artery
+OPCS	risk_PAD_OPCS	L602	Endarterectomy of femoral artery NEC
+OPCS	risk_PAD_OPCS	L603	Profundoplasty of femoral artery and patch repair of deep femoral artery
+OPCS	risk_PAD_OPCS	L604	Profundoplasty of femoral artery NEC
+OPCS	risk_PAD_OPCS	L652	Revision of reconstruction involving iliac artery
+OPCS	risk_PAD_OPCS	L653	Revision of reconstruction involving femoral artery

@@ -1,0 +1,21 @@
+code_type	code_group	code	term
+medcode	risk_HDL_med	259232010	Serum high density lipoprotein cholesterol level
+medcode	risk_HDL_med	458313013	Plasma HDL (high density lipoprotein) cholesterol level
+medcode	risk_HDL_med	259242012	Serum fasting HDL (high density lipoprotein) cholesterol level
+medcode	risk_HDL_med	259243019	Serum random HDL (high density lipoprotein) cholesterol level
+medcode	risk_HDL_med	855771000006118	HDL cholesterol level
+medcode	risk_HDL_med	259567011	Plasma fasting HDL (high density lipoprotein) cholesterol level
+medcode	risk_HDL_med	259564016	Plasma random HDL (high density lipoprotein) cholesterol level
+medcode	risk_HDL_med	2949971000006113	High density lipoprotein cholesterol measurement
+medcode	risk_HDL_med	4079571000006118	HDL cholesterol
+medcode	risk_HDL_med	8385731000006118	Serum HDL (high density lipoprotein) cholesterol level
+medcode	risk_HDL_med	4600211000006117	Serum HDL cholesterol level
+medcode	risk_HDL_med	2949981000006111	HDL cholesterol measurement
+medcode	risk_HDL_med	12622321000006118	HDL (high density lipoprotein) cholesterol substance concentration in serum
+medcode	risk_HDL_med	4600201000006115	Serum HDL cholesterol measurement
+medcode	risk_HDL_med	2950001000006114	HDL - High density lipoprotein cholesterol level
+medcode	risk_HDL_med	4079591000006117	High density lipoprotein cholesterol
+medcode	risk_HDL_med	12622291000006110	HDL (high density lipoprotein) cholesterol substance concentration in plasma
+medcode	risk_HDL_med	4079601000006113	HDLC - High density lipoprotein cholesterol
+medcode	risk_HDL_med	2950011000006112	High density lipoprotein cholesterol level
+medcode	risk_HDL_med	6041651000006119	Plasma HDL cholesterol level

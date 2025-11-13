@@ -1,0 +1,69 @@
+code_type	code_group	code	term
+medcode	risk_PAD_med	235911000006116	Peripheral vascular disease
+medcode	risk_PAD_med	105536013	Intermittent claudication
+medcode	risk_PAD_med	300515011	Peripheral vascular disease NOS
+medcode	risk_PAD_med	395791015	Other peripheral vascular disease
+medcode	risk_PAD_med	216185010	Peripheral vascular disease monitoring
+medcode	risk_PAD_med	411512011	Claudication
+medcode	risk_PAD_med	741131000000114	Peripheral vascular disease monitoring first letter
+medcode	risk_PAD_med	742481000006118	Ischaemic leg
+medcode	risk_PAD_med	13944841000006117	Peripheral arterial disease
+medcode	risk_PAD_med	350535018	Peripheral ischaemic vascular disease
+medcode	risk_PAD_med	443199013	Ischaemic foot
+medcode	risk_PAD_med	450665015	Ischaemic toe
+medcode	risk_PAD_med	350533013	Peripheral ischaemia
+medcode	risk_PAD_med	884611000006112	Peripheral vasc. disease NOS
+medcode	risk_PAD_med	5058071000006110	Lower limb ischaemia
+medcode	risk_PAD_med	741071000000112	Peripheral vascular disease monitoring invitation
+medcode	risk_PAD_med	1847121000006114	Peripheral arterial disease
+medcode	risk_PAD_med	300514010	Other specified peripheral vascular disease NOS
+medcode	risk_PAD_med	302011	Diabetic peripheral angiopathy
+medcode	risk_PAD_med	6632221000006112	Peripheral arterial occlusive disease
+medcode	risk_PAD_med	884621000006116	Peripheral vasc. disease NOS
+medcode	risk_PAD_med	5058111000006119	Critical lower limb ischaemia
+medcode	risk_PAD_med	300510018	Other specified peripheral vascular disease
+medcode	risk_PAD_med	1715241000006112	Vascular claudication
+medcode	risk_PAD_med	2377871000000112	Ischaemic foot pain at rest
+medcode	risk_PAD_med	5886711000006111	Ischaemia of feet
+medcode	risk_PAD_med	6021731000006115	Critical ischaemia of foot
+medcode	risk_PAD_med	906771000006113	[RFC] Peripheral vascular disease
+medcode	risk_PAD_med	300963017	[X]Other specified peripheral vascular diseases
+medcode	risk_PAD_med	459308015	Type 2 diabetes mellitus with peripheral angiopathy
+medcode	risk_PAD_med	8278561000006114	Ischaemic lower limb pain at rest
+medcode	risk_PAD_med	280561000006111	Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+medcode	risk_PAD_med	13919651000006113	Ulcer of heel due to atherosclerosis of artery of lower limb
+medcode	risk_PAD_med	300511019	Peripheral angiopathic disease EC NOS
+medcode	risk_PAD_med	5058121000006110	Critical lower limb ischemia
+medcode	risk_PAD_med	459306016	Type II diabetes mellitus with peripheral angiopathy
+medcode	risk_PAD_med	7848701000006116	Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus
+medcode	risk_PAD_med	913931000006116	Type 1 diabetes mellitus with peripheral angiopathy
+medcode	risk_PAD_med	300970017	[X]Peripheral angiopathy in diseases classified elsewhere
+medcode	risk_PAD_med	6633851000006110	PVD-peripheral vascular disease
+medcode	risk_PAD_med	13944861000006118	Peripheral artery disease
+medcode	risk_PAD_med	4392221000006118	Peripheral angiopathy due to diabetes mellitus
+medcode	risk_PAD_med	84961000006116	Type II diabetes mellitus with peripheral angiopathy
+medcode	risk_PAD_med	13919691000006119	Ulcer of ankle due to atherosclerosis of artery of lower limb
+medcode	risk_PAD_med	5898341000006114	Ischemic foot
+medcode	risk_PAD_med	6021741000006113	Critical ischemia of foot
+medcode	risk_PAD_med	84591000006119	Type 2 diabetes mellitus with peripheral angiopathy
+medcode	risk_PAD_med	5058081000006113	Lower limb ischemia
+medcode	risk_PAD_med	6632271000006113	Peripheral artery occlusive disease
+medcode	risk_PAD_med	13944851000006115	Peripheral arterial vascular disease
+medcode	risk_PAD_med	14861611000006117	Ischaemic foot with rest pain
+medcode	risk_PAD_med	9837051000006111	Gangrene of right lower limb due to atherosclerosis
+medcode	risk_PAD_med	5058091000006111	Ischemic leg
+medcode	risk_PAD_med	13919631000006118	Limb pain at rest due to atherosclerosis of artery of lower limb
+medcode	risk_PAD_med	3532661000006118	IC - Intermittent claudication
+medcode	risk_PAD_med	9478171000006111	Pain at rest of left lower limb co-occurrent and due to atherosclerosis
+medcode	risk_PAD_med	84781000006112	Type I diabetes mellitus with peripheral angiopathy
+medcode	risk_PAD_med	913941000006114	Peripheral angiopathy due to type 1 diabetes mellitus
+medcode	risk_PAD_med	6632231000006110	PAOD - Peripheral arterial occlusive disease
+medcode	risk_PAD_med	6632251000006115	Peripheral angiopathy
+medcode	risk_PAD_med	14180191000006115	Bilateral intermittent claudication of lower limbs due to atherosclerosis of nonbiological bypass graft
+medcode	risk_PAD_med	8032061000006113	Gangrene due to peripheral vascular disease
+medcode	risk_PAD_med	12122231000006112	Bilateral lower limb atherosclerosis pain at rest co-occurrent and due to atherosclerosis
+medcode	risk_PAD_med	4392201000006111	Diabetic peripheral vascular disease
+medcode	risk_PAD_med	12125761000006117	Bilateral atherosclerosis of lower limbs with gangrene
+medcode	risk_PAD_med	5057981000006111	Peripheral ischemic vascular disease
+medcode	risk_PAD_med	5058001000006116	Peripheral ischemia
+medcode	risk_PAD_med	8015271000006112	Peripheral vascular disease associated with another disorder

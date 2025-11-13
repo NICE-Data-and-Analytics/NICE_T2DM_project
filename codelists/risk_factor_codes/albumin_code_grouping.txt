@@ -1,0 +1,59 @@
+MedCodeId	Term	Category
+494597013	Urine microalbumin level	albumin
+74951000006111	Urine albumin level	albumin
+2474458019	Urine microalbumin profile	albumin
+373788012	Microalbumin excretion rate	albumin
+457420019	24 hour urine albumin output	albumin
+451417018	Albumin excretion rate	albumin
+1484877019	Overnight albumin excretion rate	albumin
+5518901000006111	Urine albumin level	albumin
+3254671000006113	Urine microalbumin	albumin
+3254681000006111	Urine microalbumin level	albumin
+5518891000006112	Urine albumin measurement	albumin
+456795013	Microalbuminuria	categorical
+260307015	Urine microalbumin positive	categorical
+928561000006118	Persistent microalbuminuria associated with type 2 diabetes mellitus	categorical
+317686015	Albuminuria	categorical
+1940661000006117	CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2	categorical
+1940631000006114	CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2	categorical
+14083811000006118	Persistent microalbuminuria due to type 2 diabetes mellitus	categorical
+1940601000006118	CKD G2A2 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2	categorical
+1940671000006112	CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3	categorical
+1940511000006116	CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2	categorical
+1940521000006112	CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3	categorical
+1940641000006116	CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3	categorical
+411750015	Albumin in sample	categorical
+1940571000006113	CKD G1A2 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2	categorical
+8027521000006110	Microalbuminuria due to type 2 diabetes mellitus	categorical
+928571000006113	Type II diabetes mellitus with persistent microalbuminuria	categorical
+1940611000006115	CKD G2A3 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3	categorical
+1940551000006115	CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3	categorical
+1940581000006111	CKD G1A3 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3	categorical
+5095031000006114	Microalbuminuric diabetic nephropathy	categorical
+1940541000006117	CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2	categorical
+933211000006112	DM + persist microalbuminuria	categorical
+3636267017	Persistent albuminuria	categorical
+3515025016	Grade A3 albuminuria	categorical
+5576791000006113	Albumin in sample	categorical
+3665021000006112	Abnormal presence of albumin	categorical
+3515023011	Albuminuria grade A2	categorical
+8345931000006110	Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3	categorical
+8346021000006117	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2	categorical
+8346041000006112	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3	categorical
+457416018	Urine protein/creatinine ratio	protein
+129931000000118	24 hour urine protein output	protein
+2397861000000112	Random urine protein:creatinine ratio	protein
+187311000000113	24 hour urine protein excretion test	protein
+12622571000006112	Protein mass concentration in urine	protein
+14357931000006118	ACR (albumin to creatinine ratio) in urine by test strip semi-quantitative result	semi_quant
+4111481000006118	"Microalbumin measurement, urine, semi-quantitative"	semi_quant
+74961000006113	Urine albumin:creatinine ratio	uACR_value
+68971000006117	Urine microalbumin/creatinine ratio	uACR_value
+476291000006112	Albumin/creatinine ratio	uACR_value
+5289601000006117	Albumin/creatinine ratio	uACR_value
+5520191000006113	Urine microalbumin/creatinine ratio measurement	uACR_value
+5520181000006110	Urine albumin/creatinine ratio	uACR_value
+5520171000006112	Urine albumin/creatinine ratio measurement	uACR_value
+5289591000006113	Albumin/creatinine ratio measurement	uACR_value
+8409231000006115	Albumin / creatinine ratio	uACR_value
+12681291000006112	Albumin/creatinine ratio in urine	uACR_value

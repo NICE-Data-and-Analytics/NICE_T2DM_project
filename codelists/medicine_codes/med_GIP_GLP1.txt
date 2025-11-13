@@ -1,0 +1,2 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_GIP_GLP1	14116341000033114	Tirzepatide 2.5mg/0.5ml solution for injection pre-filled disposable devices	Tirzepatide

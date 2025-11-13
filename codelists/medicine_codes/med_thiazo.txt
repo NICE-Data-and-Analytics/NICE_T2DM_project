@@ -1,0 +1,12 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_thiazo	2190741000033115	Pioglitazone 15mg tablets	Pioglitazone hydrochloride
+prodcode	med_thiazo	2190841000033113	Pioglitazone 30mg tablets	Pioglitazone hydrochloride
+prodcode	med_thiazo	2995941000033112	Pioglitazone 45mg tablets	Pioglitazone hydrochloride
+prodcode	med_thiazo	2190941000033117	Actos 15mg tablets (Neon Healthcare Ltd)	Pioglitazone hydrochloride
+prodcode	med_thiazo	2191041000033110	Actos 30mg tablets (Neon Healthcare Ltd)	Pioglitazone hydrochloride
+prodcode	med_thiazo	2996041000033119	Actos 45mg tablets (Neon Healthcare Ltd)	Pioglitazone hydrochloride
+prodcode	med_thiazo	10336941000033112	Diabiom 15mg tablets (Tillomed Laboratories Ltd)	Pioglitazone hydrochloride
+prodcode	med_thiazo	10251341000033112	Glidipion 15mg tablets (Actavis UK Ltd)	Pioglitazone hydrochloride
+prodcode	med_thiazo	10337041000033113	Diabiom 30mg tablets (Tillomed Laboratories Ltd)	Pioglitazone hydrochloride
+prodcode	med_thiazo	8839341000033116	Glidipion 30mg tablets (Actavis UK Ltd)	Pioglitazone hydrochloride
+prodcode	med_thiazo	6526041000033117	Glizofar 30mg tablets (Arrow Generics Ltd)	Pioglitazone hydrochloride

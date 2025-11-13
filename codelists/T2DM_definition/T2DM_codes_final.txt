@@ -1,0 +1,210 @@
+MedCodeId	Term	Observations
+197761014	Type 2 diabetes mellitus	30000000
+1658901000000118	Type II diabetic dietary review	2000000
+280571000006116	Non-insulin dependent diabetes mellitus	800000
+493774016	Type II diabetes mellitus	700000
+914391000006116	Insulin treated Type 2 diabetes mellitus	600000
+84471000006119	Type 2 diabetes mellitus	300000
+479571000000110	Diabetes type 2 review	200000
+73466011	Non-insulin dependent diabetes mellitus	100000
+616511000006110	"Diabetes mellitus, adult onset, no mention of complication"	80000
+928561000006118	Persistent microalbuminuria associated with type 2 diabetes mellitus	70000
+840951000006119	Insulin treated Type 2 diabetes mellitus	70000
+84841000006113	Type II diabetes mellitus	60000
+493773010	NIDDM - Non-insulin dependent diabetes mellitus	40000
+2288061000000111	Type II diabetes mellitus in remission	30000
+928541000006117	Persistent proteinuria associated with type 2 diabetes mellitus	30000
+223291000000111	Maturity onset diabetes	20000
+292590011	Type II diabetes mellitus poorly controlled	20000
+281171000006119	Type II diabetes mellitus uncontrolled	20000
+2288071000000116	Type 2 diabetes mellitus in remission	10000
+457329019	Type 2 diabetes mellitus without complication	10000
+1665721000000112	Type 2 diabetic dietary review	10000
+14083811000006118	Persistent microalbuminuria due to type 2 diabetes mellitus	7000
+914261000006119	Diabetes type 2 with nephropathy	7000
+914151000006112	Retinopathy with type 2 diabetes mellitus	6000
+457328010	Non-insulin-dependent diabetes mellitus without complication	5000
+299621000000117	Gastroparesis with type 2 diabetes mellitus	4000
+7480661000006114	H/O diabetes mellitus type 2	4000
+292577016	Type 2 diabetes mellitus with multiple complications	3000
+914031000006118	Renal disorder associated with type II diabetes mellitus	3000
+928581000006111	Ketoacidosis in type 2 diabetes mellitus	3000
+928571000006113	Type II diabetes mellitus with persistent microalbuminuria	2000
+1223147012	Insulin treated Type II diabetes mellitus	2000
+841351000006110	Insulin treated Type II diabetes mellitus	2000
+616481000006119	"Diabetes mellitus, adult onset, + neurological manifestation"	2000
+14084041000006114	Persistent proteinuria due to type 2 diabetes mellitus	2000
+8027521000006110	Microalbuminuria due to type 2 diabetes mellitus	2000
+1488898011	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	1000
+938321000006116	Exudative maculopathy associated with type 2 diabetes mellitus	1000
+914241000006118	Polyneuropathy due to type 2 diabetes mellitus	1000
+292579018	Type 2 diabetes mellitus with ulcer	1000
+1223148019	Insulin treated non-insulin dependent diabetes mellitus	1000
+457330012	Type II diabetes mellitus without complication	1000
+616551000006111	"Diabetes mellitus, adult onset, with renal manifestation"	1000
+914071000006115	Neurologic disorder associated with type 2 diabetes mellitus	1000
+616491000006116	"Diabetes mellitus, adult onset, + ophthalmic manifestation"	1000
+914051000006113	Disorder of eye with type 2 diabetes mellitus	1000
+84481000006116	Type 2 diabetes mellitus - poor control	1000
+459313016	Type 2 diabetes mellitus with neuropathic arthropathy	900
+84921000006110	Renal disorder due to type 2 diabetes mellitus	800
+587521000006111	Non-insulin-dependent diabetes mellitus with renal comps	800
+616531000006116	"Diabetes mellitus, adult onset, with ketoacidosis"	800
+84851000006110	Type II diabetes mellitus - poor control	800
+84551000006113	Type 2 diabetes mellitus with nephropathy	700
+616501000006112	Disorder due to type 2 diabetes mellitus	700
+641581000006115	Non-insulin-dependent diabetes mellitus with retinopathy	700
+616581000006115	"Diabetes mellitus, adult, + peripheral circulatory disorder"	600
+280591000006115	Non-insulin-dependent diabetes mellitus with neuro comps	600
+928551000006115	Type II diabetes mellitus with persistent proteinuria	600
+587111000006111	Non-insulin-dependent diabetes mellitus with ophthalm comps	600
+850691000006118	Hyperosmolar non-ketotic state in type 2 diabetes mellitus	500
+914301000006111	Type 2 diabetes mellitus with diabetic cataract	500
+8012091000006113	Type II diabetes on diet only	500
+674961000006118	Peripheral circulatory disorder associated with type 2 diabetes mellitus	400
+1667921000000117	Type II diabetes mellitus with gastroparesis	400
+3209441000006114	Diabetes mellitus type 2	400
+8043301000006116	Hyperlipidaemia due to type 2 diabetes mellitus	300
+914221000006113	Type 2 diabetes mellitus with mononeuropathy	300
+292583018	Type 2 diabetes mellitus with gangrene	300
+616561000006113	"Diabetes mellitus, adult with gangrene"	300
+280581000006118	Non-insulin-dependent diabetes mellitus with multiple complications	300
+280551000006114	Non-insulin-dependent diabetes mellitus with ulcer	300
+459308015	Type 2 diabetes mellitus with peripheral angiopathy	300
+292589019	Type II diabetes mellitus - poor control	300
+306113018	"Pre-existing diabetes mellitus, non-insulin-dependent"	200
+459310018	Type 2 diabetes mellitus with arthropathy	200
+938331000006118	Exudative maculopathy with type 2 diabetes mellitus	200
+8048421000006113	Proteinuria due to type 2 diabetes mellitus	200
+84541000006111	Type 2 diabetes mellitus with multiple complications	200
+1988741000006117	Pregnancy and non-insulin-dependent diabetes mellitus	200
+8012061000006117	Type 2 diabetic on insulin	200
+8012081000006110	Type 2 diabetic on diet only	200
+84611000006113	Type 2 diabetes mellitus with renal complications	200
+280531000006119	Non-insulin dependent diabetes mellitus with nephropathy	200
+84991000006112	Type II diabetes mellitus with retinopathy	200
+84581000006117	Type 2 diabetes mellitus with ophthalmic complications	200
+459167016	Type 2 diabetes mellitus with hypoglycaemic coma	200
+84501000006114	Type 2 diabetes mellitus with diabetic cataract	100
+84871000006117	Cataract due to diabetes mellitus type 2	100
+281161000006114	Non-insulin depend diabetes mellitus with diabetic cataract	100
+914311000006114	Type II diabetes mellitus with diabetic cataract	100
+281211000006117	Gangrene associated with type 2 diabetes mellitus	100
+84561000006110	Type 2 diabetes mellitus with neurological complications	100
+84621000006117	Type 2 diabetes mellitus with retinopathy	100
+914161000006114	Type II diabetes mellitus with retinopathy	100
+4796321000006113	Pre-existing type 2 diabetes mellitus	90
+1667891000000113	Hyperosmolar non-ketotic state in type II diabetes mellitus	90
+84631000006119	Type 2 diabetes mellitus with ulcer	90
+84641000006112	Type 2 diabetes mellitus without complication	90
+914271000006114	Type II diabetes mellitus with nephropathy	90
+292483016	"Diabetes mellitus, adult onset, with hyperosmolar coma"	80
+85011000006119	Type II diabetes mellitus without complication	80
+280561000006111	Non-insulin-dependent diabetes mellitus with peripheral angiopathy	80
+928591000006114	Type II diabetes mellitus with ketoacidosis	80
+5110001000006118	Pregnancy and type 2 diabetes mellitus	70
+84981000006114	Type II diabetes mellitus with renal complications	70
+459169018	Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II	70
+85001000006117	Type II diabetes mellitus with ulcer	60
+459306016	Type II diabetes mellitus with peripheral angiopathy	60
+280511000006113	Non-insulin dependent diabetes mellitus with hypoglyca coma	60
+459311019	Type II diabetes mellitus with arthropathy	50
+280541000006112	Non-insulin dependent diabetes mellitus with polyneuropathy	50
+6982521000006119	Diabetes type 2 with retinopathy	50
+84951000006118	Disorder of eye with type 2 diabetes mellitus	50
+7966561000006111	Mixed hyperlipidaemia due to type 2 diabetes mellitus	50
+459312014	Type II diabetes mellitus with neuropathic arthropathy	40
+914231000006111	Type II diabetes mellitus with mononeuropathy	40
+914251000006116	Type II diabetes mellitus with polyneuropathy	40
+12704971000006113	Neurologic disorder associated with type 2 diabetes mellitus	40
+14083911000006113	Disorder of nervous system due to type 2 diabetes mellitus	40
+928601000006118	Ketoacidotic coma in type 2 diabetes mellitus	40
+14084061000006113	Retinopathy due to type 2 diabetes mellitus	40
+84901000006117	Mononeuropathy with type 2 diabetes mellitus	30
+280521000006117	Non-insulin dependent diabetes mellitus with mononeuropathy	30
+292576013	Type II diabetes mellitus with multiple complications	30
+292581016	Type II diabetes mellitus with ulcer	30
+84931000006113	Neurological disorder with diabetes type 2	30
+84521000006116	Type 2 diabetes mellitus with hypoglycaemic coma	30
+7966691000006116	Chronic kidney disease stage 3 due to type 2 diabetes mellitus	30
+7968751000006116	Diabetes mellitus type 2 without retinopathy	20
+84571000006115	Type 2 diabetes mellitus with neuropathic arthropathy	20
+281181000006116	Non-insulin dependent diabetes mellitus with neuropathic arthropathy	20
+84531000006118	Type 2 diabetes mellitus with mononeuropathy	20
+84511000006112	Type 2 diabetes mellitus with gangrene	20
+14083961000006111	Gangrene due to type 2 diabetes mellitus	20
+84971000006111	Type II diabetes mellitus with polyneuropathy	20
+7966641000006113	Chronic kidney disease stage 4 due to type 2 diabetes mellitus	20
+14071211000006113	Multiple complications due to type 2 diabetes mellitus	20
+84961000006116	Type II diabetes mellitus with peripheral angiopathy	20
+914041000006111	Type II diabetes mellitus with renal complications	20
+616541000006114	"Diabetes mellitus, adult onset, with ketoacidotic coma"	20
+7281511000006118	Type 2 diabetes mellitus uncontrolled	20
+84491000006118	Type 2 diabetes mellitus with arthropathy	10
+84941000006115	Type II diabetes mellitus with neuropathic arthropathy	10
+14079871000006119	Hyperosmolar non-ketotic state due to type 2 diabetes mellitus	10
+7966611000006114	Chronic kidney disease stage 5 due to type 2 diabetes mellitus	10
+84601000006110	Type 2 diabetes mellitus with polyneuropathy	10
+7966761000006115	Chronic kidney disease stage 2 due to type 2 diabetes mellitus	10
+914081000006117	Type II diabetes mellitus with neurological complications	10
+6977421000006110	Ketoacidosis in type II diabetes mellitus	10
+14083991000006115	Ketoacidosis due to type 2 diabetes mellitus	10
+914061000006110	Type II diabetes mellitus with ophthalmic complications	10
+3209431000006116	Diabetes mellitus type II	10
+7966791000006111	Chronic kidney disease stage 1 due to type 2 diabetes mellitus	9
+459309011	Non-insulin dependent diabetes mellitus with arthropathy	8
+292582011	Type II diabetes mellitus with gangrene	8
+84881000006119	Type II diabetes mellitus with gangrene	8
+7966931000006114	Angina associated with type 2 diabetes mellitus	8
+84591000006119	Type 2 diabetes mellitus with peripheral angiopathy	8
+7969001000006112	Foot ulcer due to type 2 diabetes mellitus	7
+84911000006119	Type II diabetes mellitus with multiple complications	7
+14095251000006116	Neuropathic ulcer of toe due to type 2 diabetes mellitus	6
+6969931000006116	Diabetes type 2 with neurological disorder	6
+7306751000006110	Brittle type 2 diabetes mellitus	5
+12705081000006111	Gastroparesis due to type 2 diabetes mellitus	5
+13917091000006117	Neuropathic ulcer of heel due to type 2 diabetes mellitus	5
+928611000006115	Ketoacidotic coma in type II diabetes mellitus	5
+14084101000006111	Disorder of eye due to type 2 diabetes mellitus	5
+84891000006116	Type II diabetes mellitus with hypoglycaemic coma	5
+14084001000006112	Exudative maculopathy due to type 2 diabetes mellitus	4
+14095271000006114	Neuropathic ulcer of foot due to type 2 diabetes mellitus	4
+4758011000006112	Type 2 diabetes mellitus with hyperosmolar coma	4
+5109461000006115	Diabetes type 2 on insulin	4
+14078401000006119	Arthropathy due to type 2 diabetes mellitus	3
+6959811000006110	Diabetes type 2 with cataract	3
+8044221000006116	Ischaemic foot ulcer due to type 2 diabetes mellitus	3
+14090011000006118	Hypoglycaemic coma due to type 2 diabetes mellitus	3
+8034861000006113	Leg ulcer due to type 2 diabetes mellitus	2
+8043621000006117	Mild nonproliferative retinopathy due to type 2 diabetes mellitus	2
+7968821000006118	Diabetic vitreous haemorrhage associated with type II diabetes mellitus	2
+7968881000006119	Proliferative diabetic retinopathy due to type 2 diabetes mellitus	2
+14181911000006117	Bilateral nonproliferative retinopathy due to diabetes mellitus type 2	2
+84861000006112	Type II diabetes mellitus with arthropathy	2
+8120381000006111	Neuropathy due to type 2 diabetes mellitus	2
+14084111000006114	Peripheral circulatory disorder due to type 2 diabetes mellitus	2
+8026041000006113	Forefoot ulcer due to type 2 diabetes mellitus	2
+8037841000006115	Hypoglycaemia due to type 2 diabetes mellitus	2
+8044171000006110	Neuropathic toe ulcer due to type 2 diabetes mellitus	2
+8044181000006113	Ulcer of toe due to type 2 diabetes mellitus	2
+14015311000006110	Coronary artery disease due to type 2 diabetes mellitus	2
+8035211000006110	Dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus	1
+8044061000006119	Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus	1
+8084961000006111	Diabetes type II review	1
+7069481000006115	Small vessel disease due to type 2 diabetes mellitus	1
+7288191000006110	Type 2 diabetes mellitus well controlled	1
+7306781000006119	Unstable type II diabetes mellitus	1
+14094571000006111	Neuropathic arthropathy due to type 2 diabetes mellitus	1
+9313421000006110	Diabetic ulcer of left foot due to diabetes mellitus type 2	1
+9313441000006115	Diabetes type 2 with diabetic ulcer of left foot	1
+14728721000006117	Neovascular glaucoma due to diabetes mellitus type 2	1
+8044011000006117	Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus	1
+7968951000006118	Diabetic peripheral neuropathy associated with type II diabetes mellitus	1
+12370381000006111	Peripheral neuropathy with type 2 diabetes	1
+7969151000006110	Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus	1
+8012071000006112	Type II diabetes on insulin	1
+8119451000006114	Hyperglycaemia due to type 2 diabetes mellitus	1
+6977431000006113	Diabetes type 2 with ketoacidosis	1
+12704991000006114	Ketoacidotic coma in type 2 diabetes mellitus	1
+8026031000006115	Heel AND/OR midfoot ulcer due to type 2 diabetes mellitus	1
+8030601000006119	Macular oedema and retinopathy due to type 2 diabetes mellitus	1

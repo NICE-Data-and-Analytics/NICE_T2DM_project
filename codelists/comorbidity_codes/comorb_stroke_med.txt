@@ -1,0 +1,319 @@
+code_type	code_group	code	term
+medcode	comorb_stroke_med	405339016	Cerebrovascular accident
+medcode	comorb_stroke_med	605501000006117	CVA unspecified
+medcode	comorb_stroke_med	395780010	Cerebral infarction
+medcode	comorb_stroke_med	605491000006113	CVA - Cerebrovascular accident
+medcode	comorb_stroke_med	1222398015	Cerebral arterial occlusion
+medcode	comorb_stroke_med	605461000006117	CVA - cerebrovascular accident due to cerebral artery occlusion
+medcode	comorb_stroke_med	122401000006115	Stroke unspecified
+medcode	comorb_stroke_med	744901000006114	Intracerebral haemorrhage (ICH)
+medcode	comorb_stroke_med	300370010	Left sided CVA
+medcode	comorb_stroke_med	5010981000006119	Stroke
+medcode	comorb_stroke_med	300371014	Right sided CVA
+medcode	comorb_stroke_med	497559016	Arteriosclerotic dementia
+medcode	comorb_stroke_med	605471000006112	Cerebral hemorrhage
+medcode	comorb_stroke_med	158118014	Cerebellar infarction
+medcode	comorb_stroke_med	451133011	Left sided cerebral infarction
+medcode	comorb_stroke_med	696161000006115	Multi-infarct dementia
+medcode	comorb_stroke_med	122371000006118	Cerebral haemorrhage
+medcode	comorb_stroke_med	118689010	Cerebral thrombosis
+medcode	comorb_stroke_med	451134017	Right sided cerebral infarction
+medcode	comorb_stroke_med	122361000006113	Stroke due to cerebral arterial occlusion
+medcode	comorb_stroke_med	908801000006114	[RFC] Stroke
+medcode	comorb_stroke_med	218511000000117	Infarction - cerebral
+medcode	comorb_stroke_med	299342019	Lacunar infarction
+medcode	comorb_stroke_med	399031000006111	[X]Multi-infarct dementia
+medcode	comorb_stroke_med	502878012	Cerebellar haemorrhage
+medcode	comorb_stroke_med	2474651019	Infarction of basal ganglia
+medcode	comorb_stroke_med	884531000006117	Stroke
+medcode	comorb_stroke_med	524511000006116	Brainstem stroke syndrome
+medcode	comorb_stroke_med	300366019	Cerebellar stroke syndrome
+medcode	comorb_stroke_med	3414251000006112	VAD - Vascular dementia
+medcode	comorb_stroke_med	363791000006112	[X]Arteriosclerotic dementia
+medcode	comorb_stroke_med	125470015	Cerebral embolism
+medcode	comorb_stroke_med	4778181000006119	Left sided cerebral hemisphere cerebrovascular accident
+medcode	comorb_stroke_med	300362017	Middle cerebral artery syndrome
+medcode	comorb_stroke_med	4778201000006118	Right sided cerebral hemisphere cerebrovascular accident
+medcode	comorb_stroke_med	543141000006110	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+medcode	comorb_stroke_med	524541000006117	Brain stem infarction
+medcode	comorb_stroke_med	300321011	Cerebral infarction due to thrombosis of cerebral arteries
+medcode	comorb_stroke_med	300287010	Intracerebral haemorrhage NOS
+medcode	comorb_stroke_med	300277011	"Intracerebral haemorrhage, intraventricular"
+medcode	comorb_stroke_med	300941014	[X]Other cerebral infarction
+medcode	comorb_stroke_med	503791000006114	Basal ganglia haemorrhage
+medcode	comorb_stroke_med	300312010	Cerebral infarct due to thrombosis of precerebral arteries
+medcode	comorb_stroke_med	6990981000006114	Ischaemic stroke
+medcode	comorb_stroke_med	5011091000006110	Partial anterior cerebral circulation infarction
+medcode	comorb_stroke_med	503469016	Pontine haemorrhage
+medcode	comorb_stroke_med	300364016	Posterior cerebral artery syndrome
+medcode	comorb_stroke_med	300363010	Anterior cerebral artery syndrome
+medcode	comorb_stroke_med	294656010	Arteriosclerotic dementia NOS
+medcode	comorb_stroke_med	300943012	Cerebral artery occlusion
+medcode	comorb_stroke_med	300322016	Cerebral infarction due to embolism of cerebral arteries
+medcode	comorb_stroke_med	8453031000006117	Haemorrhagic stroke
+medcode	comorb_stroke_med	8044481000006118	Ischaemic stroke without coma
+medcode	comorb_stroke_med	5582311000006110	Occipital cerebral infarction
+medcode	comorb_stroke_med	5011131000006112	Posterior cerebral circulation infarction
+medcode	comorb_stroke_med	345655015	Pure motor lacunar syndrome
+medcode	comorb_stroke_med	907591000006116	[RFC] Stroke
+medcode	comorb_stroke_med	907581000006119	[RFC] Stroke/CVA
+medcode	comorb_stroke_med	123511000006114	Subarachnoid haemorrhage from middle cerebral artery
+medcode	comorb_stroke_med	9912271000006112	Cerebellar stroke
+medcode	comorb_stroke_med	300939013	Cerebral haemorrhage
+medcode	comorb_stroke_med	884421000006119	Cerebral haemorrhage
+medcode	comorb_stroke_med	300313017	Cerebral infarction due to embolism of precerebral arteries
+medcode	comorb_stroke_med	542261000006114	Cerebral infarction due to occlusion of precerebral artery
+medcode	comorb_stroke_med	496232015	Internal capsule haemorrhage
+medcode	comorb_stroke_med	130375018	Lateral medullary syndrome
+medcode	comorb_stroke_med	748941000006115	"Left sided intracerebral haemorrhage, unspecified"
+medcode	comorb_stroke_med	345675012	Lobar cerebral haemorrhage
+medcode	comorb_stroke_med	163261000006119	"Right sided intracerebral haemorrhage, unspecified"
+medcode	comorb_stroke_med	5011051000006116	Total anterior cerebral circulation infarction
+medcode	comorb_stroke_med	413750011	Central post-stroke pain
+medcode	comorb_stroke_med	345650013	Brainstem infarction NOS
+medcode	comorb_stroke_med	542251000006112	"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic"
+medcode	comorb_stroke_med	495394013	Cortical haemorrhage
+medcode	comorb_stroke_med	345658018	Pure sensory lacunar syndrome
+medcode	comorb_stroke_med	505324014	Traumatic cerebral haemorrhage
+medcode	comorb_stroke_med	7054171000006115	Acute lacunar infarction
+medcode	comorb_stroke_med	12223101000006118	Intracerebral haemorrhage
+medcode	comorb_stroke_med	744921000006116	"Intracerebral haemorrhage in hemisphere, unspecified"
+medcode	comorb_stroke_med	5011471000006116	Posterior circulation stroke of uncertain pathology
+medcode	comorb_stroke_med	1573101000006112	Cerebral infarction with haemorrhagic transformation
+medcode	comorb_stroke_med	5011041000006118	Anterior cerebral circulation infarction
+medcode	comorb_stroke_med	6348301000006119	Embolic stroke
+medcode	comorb_stroke_med	1212072018	Occlusive stroke
+medcode	comorb_stroke_med	5011411000006113	Thalamic haemorrhage
+medcode	comorb_stroke_med	370701000006118	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+medcode	comorb_stroke_med	300956017	"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+medcode	comorb_stroke_med	423221000006117	[X]Predominantly cortical dementia
+medcode	comorb_stroke_med	542831000006116	Cerebral embolus
+medcode	comorb_stroke_med	5967391000006111	Multiple lacunar infarcts
+medcode	comorb_stroke_med	3515794015	Acute cerebral ischaemia
+medcode	comorb_stroke_med	5011461000006111	Anterior circulation stroke of uncertain pathology
+medcode	comorb_stroke_med	5011291000006119	Haemorrhagic cerebral infarction
+medcode	comorb_stroke_med	57341000006119	Wallenberg's syndrome
+medcode	comorb_stroke_med	370661000006114	[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+medcode	comorb_stroke_med	6846141000006118	Cardioembolic stroke
+medcode	comorb_stroke_med	3508964014	Cerebrovascular accident due to thrombus of left middle cerebral artery
+medcode	comorb_stroke_med	605481000006110	CVA - cerebrovascular accident in the puerperium
+medcode	comorb_stroke_med	746571000006116	"Intracerebral haemorrhage, multiple localized"
+medcode	comorb_stroke_med	5011161000006115	Lacunar stroke
+medcode	comorb_stroke_med	5011191000006111	Pure motor lacunar infarction
+medcode	comorb_stroke_med	884451000006111	Cerebral haemorrhage NOS
+medcode	comorb_stroke_med	5583021000006113	Subarachnoid haemorrhage from middle cerebral artery aneurysm
+medcode	comorb_stroke_med	13909901000006119	Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage
+medcode	comorb_stroke_med	7855631000006111	Cerebral ischaemic stroke due to small artery occlusion
+medcode	comorb_stroke_med	3508961018	Cerebrovascular accident due to thrombus of right middle cerebral artery
+medcode	comorb_stroke_med	300276019	External capsule haemorrhage
+medcode	comorb_stroke_med	345639010	Infarction - precerebral
+medcode	comorb_stroke_med	4777881000006112	"Intracerebral haemorrhage, multiple localised"
+medcode	comorb_stroke_med	3505637014	Occlusion of left middle cerebral artery
+medcode	comorb_stroke_med	5011451000006114	Stroke of uncertain pathology
+medcode	comorb_stroke_med	14194801000006111	Acute cerebrovascular accident due to ischaemia
+medcode	comorb_stroke_med	6990991000006112	Ischemic stroke
+medcode	comorb_stroke_med	5011141000006119	Posterior cerebral circulation stroke
+medcode	comorb_stroke_med	426321000006116	"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+medcode	comorb_stroke_med	14014251000006116	Cerebrovascular accident due to occlusion of bilateral pontine arteries
+medcode	comorb_stroke_med	3509794017	Cerebrovascular accident due to occlusion of left middle cerebral artery
+medcode	comorb_stroke_med	5011111000006118	Partial anterior cerebral circulation stroke
+medcode	comorb_stroke_med	5011211000006112	Pure sensory lacunar infarction
+medcode	comorb_stroke_med	7839991000006115	Silent cerebral infarct
+medcode	comorb_stroke_med	3511959014	Thrombosis of left middle cerebral artery
+medcode	comorb_stroke_med	6348291000006115	Thrombotic stroke
+medcode	comorb_stroke_med	4056931000006116	Brain stem haemorrhage
+medcode	comorb_stroke_med	13909881000006116	Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct
+medcode	comorb_stroke_med	3509810017	Cerebrovascular accident due to occlusion of right middle cerebral artery
+medcode	comorb_stroke_med	3508955016	Cerebrovascular accident due to thrombus of basilar artery
+medcode	comorb_stroke_med	14492731000006117	Cerebrovascular accident of thalamus
+medcode	comorb_stroke_med	2901571000006113	Completed stroke
+medcode	comorb_stroke_med	12223121000006111	ICH - intracerebral haemorrhage
+medcode	comorb_stroke_med	5011121000006114	PACS - Partial anterior cerebral circulation stroke
+medcode	comorb_stroke_med	3511955015	Thrombosis of right middle cerebral artery
+medcode	comorb_stroke_med	2729571000000119	Cerebral infarction due to stenosis of cerebral artery
+medcode	comorb_stroke_med	7067291000006113	Infarction of medulla oblongata
+medcode	comorb_stroke_med	3505639012	Occlusion of right middle cerebral artery
+medcode	comorb_stroke_med	8221321000006118	Stroke and TIA
+medcode	comorb_stroke_med	483988011	Bulbar haemorrhage
+medcode	comorb_stroke_med	2729551000000111	Cerebral infarction due to occlusion of cerebral artery
+medcode	comorb_stroke_med	14182621000006113	Cryptogenic stroke
+medcode	comorb_stroke_med	5589641000006112	Intracerebellar and posterior fossa haemorrhage
+medcode	comorb_stroke_med	3507383012	Spontaneous haemorrhage of cortical intracerebral hemisphere
+medcode	comorb_stroke_med	7598981000006119	Cerebral infarction due to embolism of middle cerebral artery
+medcode	comorb_stroke_med	14194811000006114	Acute ischaemic stroke
+medcode	comorb_stroke_med	13718621000006117	History of cerebrovascular accident due to ischaemia
+medcode	comorb_stroke_med	5011241000006111	Lacunar ataxic hemiparesis
+medcode	comorb_stroke_med	5011071000006114	Total anterior cerebral circulation stroke
+medcode	comorb_stroke_med	7378421000006118	Traumatic intracerebral haemorrhage
+medcode	comorb_stroke_med	7071911000006114	Thalamic stroke
+medcode	comorb_stroke_med	14194611000006113	Acute cerebrovascular accident of basal ganglia
+medcode	comorb_stroke_med	13909861000006114	Cerebral ischaemic stroke due to dissection of artery
+medcode	comorb_stroke_med	14518481000006115	Cerebrovascular accident of basal ganglia
+medcode	comorb_stroke_med	14518501000006113	Cerebrovascular accident of brainstem
+medcode	comorb_stroke_med	3512176011	Embolus of left middle cerebral artery
+medcode	comorb_stroke_med	12223111000006115	Intracerebral hemorrhage
+medcode	comorb_stroke_med	2622631000006114	Intrapontine haemorrhage
+medcode	comorb_stroke_med	3778021000006116	LMS - Lateral medullary syndrome
+medcode	comorb_stroke_med	5011351000006119	Posterior cerebral circulation haemorrhagic infarction
+medcode	comorb_stroke_med	3508962013	Stroke due to thrombus of right middle cerebral artery
+medcode	comorb_stroke_med	2832651000006111	Subcortical haemorrhage
+medcode	comorb_stroke_med	5011081000006112	TACS - Total anterior cerebral circulation stroke
+medcode	comorb_stroke_med	14194211000006110	Acute cerebrovascular accident due to occlusion of left middle cerebral artery
+medcode	comorb_stroke_med	14194191000006114	Acute cerebrovascular accident due to stenosis of left carotid artery
+medcode	comorb_stroke_med	14194641000006112	Acute cerebrovascular accident of brainstem
+medcode	comorb_stroke_med	3509799010	Cerebrovascular accident due to occlusion of left posterior cerebral artery
+medcode	comorb_stroke_med	3509790014	Cerebrovascular accident due to occlusion of right posterior cerebral artery
+medcode	comorb_stroke_med	3512178012	Embolus of right middle cerebral artery
+medcode	comorb_stroke_med	5011171000006110	LACI - Lacunar infarction
+medcode	comorb_stroke_med	3510963013	Lacunar ataxic hemiparesis of left dominant side
+medcode	comorb_stroke_med	5011431000006119	Lacunar haemorrhage
+medcode	comorb_stroke_med	4193641000006111	Nonparalytic stroke
+medcode	comorb_stroke_med	3505651014	Occlusion of left posterior cerebral artery
+medcode	comorb_stroke_med	5011101000006116	PACI - Partial anterior cerebral circulation infarction
+medcode	comorb_stroke_med	3777981000006119	Posterior inferior cerebellar artery syndrome
+medcode	comorb_stroke_med	3507370011	Spontaneous haemorrhage of cerebral hemisphere
+medcode	comorb_stroke_med	3508965010	Stroke due to thrombus of left middle cerebral artery
+medcode	comorb_stroke_med	3511086012	Thrombosis of right vertebral artery
+medcode	comorb_stroke_med	14194491000006118	Acute cerebrovascular accident due to occlusion of right carotid artery
+medcode	comorb_stroke_med	14194741000006118	Acute cerebrovascular accident due to occlusion of right cerebellar artery
+medcode	comorb_stroke_med	14493231000006118	Cerebrovascular accident due to embolism of bilateral middle cerebral arteries
+medcode	comorb_stroke_med	14492571000006113	Cerebrovascular accident due to occlusion of right anterior cerebral artery
+medcode	comorb_stroke_med	9875951000006117	Cerebrovascular accident due to right carotid artery stenosis
+medcode	comorb_stroke_med	13717171000006112	Cerebrovascular accident due to stenosis of bilateral carotid arteries
+medcode	comorb_stroke_med	3508952018	Cerebrovascular accident due to thrombus of left carotid artery
+medcode	comorb_stroke_med	3510961010	Lacunar ataxic hemiparesis of right dominant side
+medcode	comorb_stroke_med	13967201000006117	Occlusion of branch of basilar artery
+medcode	comorb_stroke_med	5011061000006119	TACI - Total anterior cerebral circulation infarction
+medcode	comorb_stroke_med	14492751000006112	Thalamic stroke
+medcode	comorb_stroke_med	7599001000006116	Cerebral infarction due to thrombosis of middle cerebral artery
+medcode	comorb_stroke_med	6837051000006119	Basal ganglion stroke
+medcode	comorb_stroke_med	5011261000006110	Multi-infarct state
+medcode	comorb_stroke_med	7855711000006113	Stroke co-occurrent with migraine
+medcode	comorb_stroke_med	14194971000006111	Acute cerebrovascular accident due to embolism of left middle cerebral artery
+medcode	comorb_stroke_med	14194941000006115	Acute cerebrovascular accident due to embolism of right middle cerebral artery
+medcode	comorb_stroke_med	4777811000006117	Basal ganglia hemorrhage
+medcode	comorb_stroke_med	3508958019	Cerebrovascular accident due to thrombus of right carotid artery
+medcode	comorb_stroke_med	14457701000006115	Left posterior cerebral artery thrombosis
+medcode	comorb_stroke_med	3505653012	Occlusion of right posterior cerebral artery
+medcode	comorb_stroke_med	2726591000006119	Anterior choroidal artery syndrome
+medcode	comorb_stroke_med	3512174014	Embolus of right posterior cerebral artery
+medcode	comorb_stroke_med	14492741000006110	Stroke of thalamus
+medcode	comorb_stroke_med	14194661000006111	Acute cerebrovascular accident due to stenosis of right carotid artery
+medcode	comorb_stroke_med	5011331000006114	Anterior cerebral circulation haemorrhagic infarction
+medcode	comorb_stroke_med	14452831000006118	Bilateral embolism of middle cerebral arteries
+medcode	comorb_stroke_med	12223131000006114	ICH - intracerebral hemorrhage
+medcode	comorb_stroke_med	4777861000006119	Intracerebral haemorrhage with intraventricular haemorrhage
+medcode	comorb_stroke_med	5011231000006118	Pure sensorimotor lacunar infarction
+medcode	comorb_stroke_med	14457721000006113	Right posterior cerebral artery thrombosis
+medcode	comorb_stroke_med	411416011	Stroke in the puerperium
+medcode	comorb_stroke_med	14194571000006115	Acute cerebrovascular accident due to occlusion of left carotid artery
+medcode	comorb_stroke_med	14492321000006119	Cerebrovascular accident due to embolism of left anterior cerebral artery
+medcode	comorb_stroke_med	9875961000006115	Cerebrovascular accident due to left carotid artery stenosis
+medcode	comorb_stroke_med	3509792018	Cerebrovascular accident due to occlusion of left carotid artery
+medcode	comorb_stroke_med	14489491000006119	Cerebrovascular accident due to thrombosis of right posterior cerebral artery
+medcode	comorb_stroke_med	5649201000006113	Extension of cerebrovascular accident
+medcode	comorb_stroke_med	13718601000006110	History of embolic cerebrovascular accident
+medcode	comorb_stroke_med	3509817019	Left hemispheric cerebellar artery embolism with stroke
+medcode	comorb_stroke_med	13966821000006114	Occlusion of distal basilar artery
+medcode	comorb_stroke_med	3636969013	Occlusion of right middle cerebral artery by embolus
+medcode	comorb_stroke_med	3508956015	Stroke due to basilar artery thrombus
+medcode	comorb_stroke_med	14194721000006113	Acute cerebrovascular accident due to thrombosis of right middle cerebral artery
+medcode	comorb_stroke_med	6837061000006117	Basal ganglion infarct
+medcode	comorb_stroke_med	14492191000006119	Cerebrovascular accident due to occlusion of left anterior cerebral artery
+medcode	comorb_stroke_med	5011251000006113	Dysarthria-clumsy hand syndrome
+medcode	comorb_stroke_med	14457741000006118	Left cerebellar artery thrombosis
+medcode	comorb_stroke_med	4270361000006116	Paralytic stroke
+medcode	comorb_stroke_med	3441831000006111	Progressing stroke
+medcode	comorb_stroke_med	14492871000006111	Stroke due to thrombosis of left posterior cerebral artery
+medcode	comorb_stroke_med	7295961000006113	Superior cerebellar artery syndrome
+medcode	comorb_stroke_med	5011421000006117	Thalamic hemorrhage
+medcode	comorb_stroke_med	5582351000006111	Top of basilar syndrome
+medcode	comorb_stroke_med	7378401000006111	Traumatic intracerebral hemorrhage
+medcode	comorb_stroke_med	14194841000006113	Acute cerebrovascular accident due to occlusion of left cerebellar artery
+medcode	comorb_stroke_med	14194331000006112	Acute cerebrovascular accident due to occlusion of right middle cerebral artery
+medcode	comorb_stroke_med	14194281000006115	Acute cerebrovascular accident due to occlusion of right posterior cerebral artery
+medcode	comorb_stroke_med	14194621000006117	Acute stroke of basal ganglia
+medcode	comorb_stroke_med	13905301000006116	Bilateral occlusion of pontine arteries
+medcode	comorb_stroke_med	4057031000006117	Brain stem infarct
+medcode	comorb_stroke_med	4056951000006111	Brainstem haemorrhage
+medcode	comorb_stroke_med	3636143018	Cerebrovascular accident due to occlusion of left cerebellar artery by embolus
+medcode	comorb_stroke_med	3636141016	Cerebrovascular accident due to occlusion of right cerebellar artery by embolus
+medcode	comorb_stroke_med	3636133016	Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus
+medcode	comorb_stroke_med	14492841000006115	Cerebrovascular accident due to occlusion of right posterior communicating artery
+medcode	comorb_stroke_med	14014281000006112	Cerebrovascular accident due to stenosis of bilateral vertebral arteries
+medcode	comorb_stroke_med	14493261000006110	Cerebrovascular accident due to thrombosis of left cerebellar artery
+medcode	comorb_stroke_med	14492861000006116	Cerebrovascular accident due to thrombosis of left posterior cerebral artery
+medcode	comorb_stroke_med	14492471000006114	Cerebrovascular accident due to thrombosis of right cerebellar artery
+medcode	comorb_stroke_med	3505881015	Right middle cerebral artery thrombosis
+medcode	comorb_stroke_med	3507359016	Spontaneous haemorrhage of brain stem
+medcode	comorb_stroke_med	14194151000006115	Acute cerebrovascular accident due to occlusion of left posterior cerebral artery
+medcode	comorb_stroke_med	14194161000006118	Acute stroke due to occlusion of left posterior cerebral artery
+medcode	comorb_stroke_med	14194651000006114	Acute stroke of brainstem
+medcode	comorb_stroke_med	14172931000006114	Bilateral occlusion of anterior cerebral arteries
+medcode	comorb_stroke_med	14172901000006118	Bilateral occlusion of middle cerebral arteries
+medcode	comorb_stroke_med	4057041000006110	Brain stem stroke
+medcode	comorb_stroke_med	3719851000006116	Cerebellar hemorrhage
+medcode	comorb_stroke_med	13909891000006118	Cerebral ischaemic stroke due to hypercoagulable state
+medcode	comorb_stroke_med	14457901000006117	Cerebral venous sinus thrombosis in puerperium
+medcode	comorb_stroke_med	14518541000006110	Cerebrovascular accident due to embolism of basilar artery
+medcode	comorb_stroke_med	14492231000006112	Cerebrovascular accident due to occlusion of basilar artery
+medcode	comorb_stroke_med	3509769018	Cerebrovascular accident due to occlusion of left cerebellar artery
+medcode	comorb_stroke_med	3636136012	Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus
+medcode	comorb_stroke_med	9875641000006111	Cerebrovascular accident due to right carotid artery occlusion
+medcode	comorb_stroke_med	14492701000006113	Cerebrovascular accident due to thrombosis of left vertebral artery
+medcode	comorb_stroke_med	3512170017	Embolus of left posterior cerebral artery
+medcode	comorb_stroke_med	5582321000006119	Foville syndrome
+medcode	comorb_stroke_med	7951271000006116	Haemorrhage of medulla oblongata
+medcode	comorb_stroke_med	4057051000006112	Infarction of brain stem
+medcode	comorb_stroke_med	3414261000006114	Multi infarct dementia
+medcode	comorb_stroke_med	3507363011	Spontaneous haemorrhage of deep cerebral hemisphere
+medcode	comorb_stroke_med	2832661000006113	Subcortical hemorrhage
+medcode	comorb_stroke_med	2893541000006113	Weber-Gubler syndrome
+medcode	comorb_stroke_med	3509777019	Cerebrovascular accident due to occlusion of left pontine artery
+medcode	comorb_stroke_med	5583041000006118	Subarachnoid haemorrhage from posterior cerebral artery aneurysm
+medcode	comorb_stroke_med	5583121000006114	Subarachnoid haemorrhage from posterior inferior cerebellar artery aneurysm
+medcode	comorb_stroke_med	3510818013	Acute cerebral ischemia
+medcode	comorb_stroke_med	14742481000006110	Asymptomatic occlusion of intracranial vertebral artery
+medcode	comorb_stroke_med	4056941000006114	Brain stem hemorrhage
+medcode	comorb_stroke_med	3728451000006116	Cerebral arterial embolism
+medcode	comorb_stroke_med	989201000006117	Cerebral haemorrhage
+medcode	comorb_stroke_med	989211000006119	Cerebral haemorrhage NOS
+medcode	comorb_stroke_med	8031281000006118	Cerebral infarction due to stenosis of carotid artery
+medcode	comorb_stroke_med	13909871000006119	Cerebral ischaemic stroke due to aortic arch embolism
+medcode	comorb_stroke_med	7855641000006118	Cerebral ischemic stroke due to small artery occlusion
+medcode	comorb_stroke_med	14457851000006110	Cerebral venous sinus thrombosis in pregnancy
+medcode	comorb_stroke_med	14492821000006110	Cerebrovascular accident due to embolism of right anterior cerebral artery
+medcode	comorb_stroke_med	14492421000006113	Cerebrovascular accident due to embolism of right carotid artery
+medcode	comorb_stroke_med	14492941000006113	Cerebrovascular accident due to occlusion of bilateral vertebral arteries
+medcode	comorb_stroke_med	3636139017	Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus
+medcode	comorb_stroke_med	14492111000006112	Cerebrovascular accident due to occlusion of left posterior communicating artery
+medcode	comorb_stroke_med	3509781019	Cerebrovascular accident due to occlusion of right cerebellar artery
+medcode	comorb_stroke_med	14802151000006119	Cerebrovascular accident with intracranial haemorrhage
+medcode	comorb_stroke_med	3506623013	Dysphagia due to and following non-traumatic intracerebral haemorrhage
+medcode	comorb_stroke_med	14452791000006113	Embolism of left carotid artery
+medcode	comorb_stroke_med	3719861000006119	Haemorrhagic cerebellum
+medcode	comorb_stroke_med	5011301000006118	Hemorrhagic cerebral infarction
+medcode	comorb_stroke_med	13718611000006113	History of embolic stroke
+medcode	comorb_stroke_med	13718641000006112	History of ischaemic stroke
+medcode	comorb_stroke_med	5009091000006112	Infarction of optic radiation
+medcode	comorb_stroke_med	5912811000006111	Infarction of visual cortex
+medcode	comorb_stroke_med	3346051000006110	Internal capsule hemorrhage
+medcode	comorb_stroke_med	5589651000006114	Intracerebellar and posterior fossa hemorrhage
+medcode	comorb_stroke_med	4777871000006114	Intracerebral hemorrhage with intraventricular hemorrhage
+medcode	comorb_stroke_med	3510959018	Lacunar ataxic hemiparesis of left nondominant side
+medcode	comorb_stroke_med	14790901000006117	Malignant middle cerebral artery syndrome
+medcode	comorb_stroke_med	5011371000006112	Massive supratentorial cerebral haemorrhage
+medcode	comorb_stroke_med	3414231000006117	MID - Multi-infarct dementia
+medcode	comorb_stroke_med	14451981000006116	Occlusion of right anterior cerebral artery
+medcode	comorb_stroke_med	2622651000006119	Pontine hemorrhage
+medcode	comorb_stroke_med	14457761000006119	Right cerebellar artery thrombosis
+medcode	comorb_stroke_med	7855721000006117	Stroke and migraine
+medcode	comorb_stroke_med	14492331000006116	Stroke due to embolism of left anterior cerebral artery
+medcode	comorb_stroke_med	14492921000006118	Stroke due to embolism of left carotid artery
+medcode	comorb_stroke_med	14493271000006115	Stroke due to thrombosis of left cerebellar artery
+medcode	comorb_stroke_med	2893551000006110	Weber syndrome
+medcode	comorb_stroke_med	3687811000006118	Cerebral hemisphere haemorrhage
+medcode	comorb_stroke_med	8046951000006114	Cerebral infarction due to carotid artery occlusion
+medcode	comorb_stroke_med	7863741000006115	Cerebral ischemic stroke due to stenosis of extracranial large artery
+medcode	comorb_stroke_med	8089851000006116	Nontraumatic intracerebral haemorrhage
+medcode	comorb_stroke_med	7991141000006110	Occlusion of cerebral artery with stroke

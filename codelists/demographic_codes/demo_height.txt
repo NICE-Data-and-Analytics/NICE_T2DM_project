@@ -1,0 +1,14 @@
+code_type	code_group	code	term	
+medcode	demo_height	253669010	Standing height	
+medcode	demo_height	253676017	O/E - height NOS	
+medcode	demo_height	11905141000006112	O/E - height	
+medcode	demo_height	1910921000006114	Estimated height	
+medcode	demo_height	3315721000006119	Body height	
+medcode	demo_height	14452941000006118	Body height	
+medcode	demo_height	1910931000006112	Reported height	
+medcode	demo_height	3315711000006110	Body height measure	
+medcode	demo_height	5526601000006112	Height / growth measure	
+medcode	demo_height	923831000006115	O/E - height	
+medcode	demo_height	5256071000006119	General finding of height	
+medcode	demo_height	4551671000006115	On examination - height	
+medcode	demo_height	14413201000006113	Self reported body height	

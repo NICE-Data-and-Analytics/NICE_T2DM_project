@@ -1,0 +1,216 @@
+code_type	code_group	code	term
+medcode	comorb_amp_med	1209883019	Amputation of toe
+medcode	comorb_amp_med	480201000006112	Amputation below-knee
+medcode	comorb_amp_med	480191000006114	Above knee amputation
+medcode	comorb_amp_med	1785726017	Amputation of leg
+medcode	comorb_amp_med	480221000006119	Amputation of hallux
+medcode	comorb_amp_med	451402017	O/E - Amputated right below knee
+medcode	comorb_amp_med	480301000006116	Amputation of the foot
+medcode	comorb_amp_med	451403010	O/E - Amputated left below knee
+medcode	comorb_amp_med	3796541000006112	Amputation above-knee
+medcode	comorb_amp_med	2534174016	Amputation of toe NOS
+medcode	comorb_amp_med	451401012	O/E - Amputated left above knee
+medcode	comorb_amp_med	451400013	O/E - Amputated right above knee
+medcode	comorb_amp_med	451398014	O/E - Amputated right leg
+medcode	comorb_amp_med	1229546017	Amputation great toe
+medcode	comorb_amp_med	278492016	Amputation lesser toe
+medcode	comorb_amp_med	278490012	Amputation of phalanx of toe
+medcode	comorb_amp_med	877201000006113	Amputation of toes
+medcode	comorb_amp_med	394609011	Amputation through metatarsal bones
+medcode	comorb_amp_med	877141000006118	Below knee amputation
+medcode	comorb_amp_med	251861017	H/O: lower limb amputation
+medcode	comorb_amp_med	451399018	O/E - Amputated left leg
+medcode	comorb_amp_med	451414013	O/E - Amputated left toe
+medcode	comorb_amp_med	451413019	O/E - Amputated right toe
+medcode	comorb_amp_med	278497010	Other specified amputation of toe
+medcode	comorb_amp_med	480501000006114	Through knee amputation
+medcode	comorb_amp_med	504195017	Above knee amputation
+medcode	comorb_amp_med	278464014	Amputation of leg NOS
+medcode	comorb_amp_med	394601014	Hindquarter amputation
+medcode	comorb_amp_med	192101000006118	Ray transmetatarsal amputation
+medcode	comorb_amp_med	92081000006118	Traumatic amputation of leg(s)
+medcode	comorb_amp_med	92161000006110	Traumatic amputation of toe(s)
+medcode	comorb_amp_med	278695013	Amputation of supernumerary toe
+medcode	comorb_amp_med	527701000006116	Burgess amputation of leg below knee
+medcode	comorb_amp_med	278483019	Other specified amputation of foot
+medcode	comorb_amp_med	394610018	Amputation of foot NOS
+medcode	comorb_amp_med	451407011	O/E - Amputated left forefoot
+medcode	comorb_amp_med	359023016	Terminalisation of lesser toe
+medcode	comorb_amp_med	6582081000006116	Amputation of lower limb
+medcode	comorb_amp_med	451406019	O/E - Amputated right forefoot
+medcode	comorb_amp_med	220751000000118	Syme through ankle amputation
+medcode	comorb_amp_med	877091000006114	Amputation - lower limb
+medcode	comorb_amp_med	158784014	Traumatic amputation of foot
+medcode	comorb_amp_med	13922871000006116	Amputated left lower limb below knee
+medcode	comorb_amp_med	3935051000006114	Amputation of leg through tibia and fibula
+medcode	comorb_amp_med	278463015	Other specified amputation of leg
+medcode	comorb_amp_med	359020018	Terminalisation of hallux
+medcode	comorb_amp_med	325478013	[X]Traumatic amputation of two or more toes
+medcode	comorb_amp_med	13922831000006119	Amputated left lower limb
+medcode	comorb_amp_med	13922851000006114	Amputated left lower limb above knee
+medcode	comorb_amp_med	13924491000006110	Amputated right lower limb
+medcode	comorb_amp_med	13924531000006110	Amputated right lower limb above knee
+medcode	comorb_amp_med	13924511000006116	Amputated right lower limb below knee
+medcode	comorb_amp_med	13527471000006110	Amputation of left forefoot
+medcode	comorb_amp_med	480361000006115	Amputation of leg through thigh
+medcode	comorb_amp_med	7842501000006112	Amputation of right foot
+medcode	comorb_amp_med	224191000000115	Amputation through ankle
+medcode	comorb_amp_med	107381000006112	Tarsometatarsal amputation
+medcode	comorb_amp_med	325462011	Traumatic amputation of lower extremity
+medcode	comorb_amp_med	321779012	"Traumatic amputation, greater toe"
+medcode	comorb_amp_med	92411000006117	"Traumatic amputation, leg"
+medcode	comorb_amp_med	321781014	"Traumatic amputation, multiple toes"
+medcode	comorb_amp_med	321797016	"Traumatic amputation, through knee"
+medcode	comorb_amp_med	325479017	[X]Traumatic amputation of other parts of foot
+medcode	comorb_amp_med	5869491000006119	Amputated toe
+medcode	comorb_amp_med	7842491000006116	Amputation of left foot
+medcode	comorb_amp_med	897291000006113	Traumatic amputation - toe
+medcode	comorb_amp_med	4063391000006115	Traumatic amputation of toe
+medcode	comorb_amp_med	321783012	Traumatic amputation of toe(s) NOS
+medcode	comorb_amp_med	92971000006117	Bilateral traumatic amputation of legs at any level without complication
+medcode	comorb_amp_med	897311000006112	Traumatic amputation - leg
+medcode	comorb_amp_med	321778016	"Traumatic amputation, lesser toe"
+medcode	comorb_amp_med	86411000006119	"Traumatic unilat amputation, above knee without complication"
+medcode	comorb_amp_med	877181000006112	Amputation foot: mid-tarsal
+medcode	comorb_amp_med	7847231000006116	Amputation of right hallux
+medcode	comorb_amp_med	552571000006118	Chopart midtarsal amputation
+medcode	comorb_amp_med	5136971000006119	Partial amputation of lesser toe
+medcode	comorb_amp_med	321807016	Traumatic amputation of leg NOS
+medcode	comorb_amp_med	13527451000006117	Amputation of right forefoot
+medcode	comorb_amp_med	805681000006117	Gordon - Taylor hindquarter amputation
+medcode	comorb_amp_med	742141000006119	Lisfranc tarsometatarsal amputation
+medcode	comorb_amp_med	7682501000006114	Phantom pain following amputation of lower limb
+medcode	comorb_amp_med	5454721000006113	Traumatic amputation
+medcode	comorb_amp_med	92101000006114	"Traumatic amputation of lower leg, level unspecified"
+medcode	comorb_amp_med	92371000006118	"Traumatic amputation, foot"
+medcode	comorb_amp_med	321804011	Traumatic bilateral amputation of leg with complication
+medcode	comorb_amp_med	13925231000006113	Amputated left forefoot
+medcode	comorb_amp_med	7847221000006119	Amputation of right great toe
+medcode	comorb_amp_med	1734891000000116	O/E - amputated left midfoot
+medcode	comorb_amp_med	1732661000000119	O/E - amputated right midfoot
+medcode	comorb_amp_med	325275014	Traumatic amputation of both feet
+medcode	comorb_amp_med	13925241000006115	Amputated right forefoot
+medcode	comorb_amp_med	877191000006110	Amputation foot:tarsal-metatar
+medcode	comorb_amp_med	877161000006119	Amputation lower limb NOS
+medcode	comorb_amp_med	7847171000006113	Amputation of left hallux
+medcode	comorb_amp_med	7811371000006112	Amputation of left lower limb above knee
+medcode	comorb_amp_med	3935061000006111	Amputation of leg below knee
+medcode	comorb_amp_med	7937701000006114	Bilateral lower limb amputation
+medcode	comorb_amp_med	523751000006114	Boyd amputation of leg below knee
+medcode	comorb_amp_med	877101000006115	Hind quarter amputation
+medcode	comorb_amp_med	86441000006115	"Traumatic unilat amputation, below knee without complication"
+medcode	comorb_amp_med	5980861000006113	Amputated little toe
+medcode	comorb_amp_med	6582121000006119	Amputation of the lower limb
+medcode	comorb_amp_med	3083661000006119	Bilateral traumatic amputation of feet without complication
+medcode	comorb_amp_med	3935101000006114	BKA - Below knee amputation
+medcode	comorb_amp_med	3796631000006115	Transfemoral amputation
+medcode	comorb_amp_med	2144691000000113	Traumatic amputation above knee
+medcode	comorb_amp_med	8261521000006116	Traumatic amputation below knee
+medcode	comorb_amp_med	5869441000006111	Amputated below knee
+medcode	comorb_amp_med	13509701000006113	Amputation of entire lower limb and ipsilateral hemipelvis
+medcode	comorb_amp_med	7847161000006118	Amputation of left great toe
+medcode	comorb_amp_med	13662951000006112	Amputation of left midfoot
+medcode	comorb_amp_med	13662971000006119	Amputation of right midfoot
+medcode	comorb_amp_med	321788015	Bilateral traumatic amputation of feet with complication
+medcode	comorb_amp_med	668831000006118	Ferre hindquarter amputation
+medcode	comorb_amp_med	5136931000006117	Forefoot amputation
+medcode	comorb_amp_med	807811000006118	Guyon amputation of leg below knee
+medcode	comorb_amp_med	822651000006112	Hey amputation of foot
+medcode	comorb_amp_med	321789011	Traumatic amputation of foot NOS
+medcode	comorb_amp_med	92191000006119	Traumatic amputation of toe(s) without complication
+medcode	comorb_amp_med	321798014	"Traumatic amputation, through thigh"
+medcode	comorb_amp_med	86471000006111	Traumatic unilateral amputation of foot without complication
+medcode	comorb_amp_med	3796601000006111	AKA - Above knee amputation
+medcode	comorb_amp_med	5869381000006114	Amputated above knee
+medcode	comorb_amp_med	5980841000006114	Amputated big toe
+medcode	comorb_amp_med	7848281000006116	Amputation of bilateral lower limbs above knee
+medcode	comorb_amp_med	7309051000006116	Bilateral traumatic amputation of lower limbs
+medcode	comorb_amp_med	6714051000006115	Ray amputation of foot
+medcode	comorb_amp_med	897321000006116	Trauma - amputation-lower limb
+medcode	comorb_amp_med	897301000006114	Traumatic amputation - foot
+medcode	comorb_amp_med	321805012	Traumatic amputation at level between hip and knee
+medcode	comorb_amp_med	321799018	"Traumatic amputation, through hip"
+medcode	comorb_amp_med	86421000006110	"Traumatic unilateral amputation, above knee, with complication"
+medcode	comorb_amp_med	5869451000006113	Amputated foot
+medcode	comorb_amp_med	3796561000006111	Amputation of leg above knee
+medcode	comorb_amp_med	7846791000006112	Bilateral below knee amputation
+medcode	comorb_amp_med	9350771000006118	History of amputation of left foot
+medcode	comorb_amp_med	8088241000006110	History of bilateral above knee amputation of lower limbs
+medcode	comorb_amp_med	754281000006113	King hindquarter amputation
+medcode	comorb_amp_med	5136941000006110	Partial amputation of hallux
+medcode	comorb_amp_med	4063421000006111	Traumatic amputation of leg
+medcode	comorb_amp_med	92951000006110	Traumatic bilateral amputation of foot without complication
+medcode	comorb_amp_med	6714061000006118	Amputation of toe and metatarsal
+medcode	comorb_amp_med	523741000006112	Boyd amputation of hindfoot
+medcode	comorb_amp_med	5488441000006111	Hemipelvectomy
+medcode	comorb_amp_med	13663481000006115	Partial amputation of toe of left foot
+medcode	comorb_amp_med	897331000006118	Traumatic amputation - leg NOS
+medcode	comorb_amp_med	7846761000006116	Amputation of left and right leg through tibia and fibula
+medcode	comorb_amp_med	13509711000006111	Hemipelvectomy
+medcode	comorb_amp_med	13509721000006115	Hindquarter amputation
+medcode	comorb_amp_med	9352381000006115	History of amputation of right foot
+medcode	comorb_amp_med	8037501000006119	History of bilateral lower limb amputation
+medcode	comorb_amp_med	321782019	Traumatic amputation of toe(s) with complication
+medcode	comorb_amp_med	321794011	"Traumatic amputation, through ankle"
+medcode	comorb_amp_med	7811391000006113	Amputation of right lower limb above knee
+medcode	comorb_amp_med	877151000006116	Supramalleolar ankle amputat.
+medcode	comorb_amp_med	5980851000006111	Amputated leg
+medcode	comorb_amp_med	12014431000006118	Amputation of bilateral lesser toes
+medcode	comorb_amp_med	13715831000006112	History of amputation of left forefoot
+medcode	comorb_amp_med	7494871000006110	Revision of below knee amputation stump
+medcode	comorb_amp_med	86451000006118	"Traumatic unilateral amputation, below knee, with complication"
+medcode	comorb_amp_med	7811411000006113	Amputation of right leg through tibia and fibula
+medcode	comorb_amp_med	754301000006112	Kirk amputation of leg through thigh
+medcode	comorb_amp_med	7951451000006110	Partial amputation of right toe
+medcode	comorb_amp_med	3515585012	Traumatic amputation of lower leg
+medcode	comorb_amp_med	321472019	"Traumatic amputation of trunk, level unspecified"
+medcode	comorb_amp_med	86391000006119	"Traumatic unilat amputation leg unspec, without complication"
+medcode	comorb_amp_med	321786016	Traumatic unilateral amputation of foot with complication
+medcode	comorb_amp_med	5869481000006117	Amputated forefoot
+medcode	comorb_amp_med	4180151000006110	"Amputation above-knee, mid-thigh"
+medcode	comorb_amp_med	7937721000006116	Amputation of right lower limb
+medcode	comorb_amp_med	6020481000006116	Debridement of above knee amputation stump
+medcode	comorb_amp_med	6020471000006119	Debridement of below knee amputation stump
+medcode	comorb_amp_med	8046001000006114	History of amputation of left leg below the knee
+medcode	comorb_amp_med	13707491000006119	History of bilateral foot amputation
+medcode	comorb_amp_med	5136921000006115	Midfoot amputation
+medcode	comorb_amp_med	226241000006117	Pirogoff amputation of foot through ankle
+medcode	comorb_amp_med	132291000006113	Sorrondo hindquarter amputation
+medcode	comorb_amp_med	107671000006115	Taylor hindquarter amputation
+medcode	comorb_amp_med	5488551000006114	Transmetatarsal amputation
+medcode	comorb_amp_med	14160301000006110	Traumatic amputation of left foot
+medcode	comorb_amp_med	14160291000006114	Traumatic amputation of right foot
+medcode	comorb_amp_med	2701401000006113	Amputation below-knee conversion into above-knee amputation
+medcode	comorb_amp_med	13509841000006115	Amputation of entire right lower limb and ipsilateral hemipelvis
+medcode	comorb_amp_med	7937731000006118	Amputation of left lower limb
+medcode	comorb_amp_med	3781471000006114	Amputation of toe at interphalangeal joint
+medcode	comorb_amp_med	3091751000006111	Amputation of toe at metatarsophalangeal joint
+medcode	comorb_amp_med	2707681000006112	Bilateral traumatic amputation of legs at any level with complication
+medcode	comorb_amp_med	3517140017	Bilateral traumatic amputation of legs through hip joints
+medcode	comorb_amp_med	4857811000006116	Chopart type procedure
+medcode	comorb_amp_med	3830011000006114	"Class in walking training, amputee"
+medcode	comorb_amp_med	3524670018	Closure of amputation stump of left below knee amputation
+medcode	comorb_amp_med	6582801000006115	Gritti-Stokes amputation
+medcode	comorb_amp_med	9893591000006113	History of amputation of part of toe of right foot
+medcode	comorb_amp_med	13715821000006114	History of amputation of right forefoot
+medcode	comorb_amp_med	4541931000006114	History of lower limb amputation
+medcode	comorb_amp_med	9893581000006110	History of partial amputation of right toe
+medcode	comorb_amp_med	14485961000006115	Infection of amputation stump of left leg
+medcode	comorb_amp_med	758211000006112	Jaboulay hindquarter amputation
+medcode	comorb_amp_med	4868151000006117	Lisfranc foot amputation
+medcode	comorb_amp_med	14486151000006110	Pain of amputation stump of right lower limb
+medcode	comorb_amp_med	7951461000006112	Partial amputation of toe of right foot
+medcode	comorb_amp_med	6714001000006119	Revision of amputation of hallux
+medcode	comorb_amp_med	6714011000006116	Revision of amputation of toe
+medcode	comorb_amp_med	6714101000006115	Revision of transtibial amputation
+medcode	comorb_amp_med	14485721000006112	Right lower limb amputation stump wound dehiscence
+medcode	comorb_amp_med	14160141000006114	Traumatic amputation of left lower limb
+medcode	comorb_amp_med	14164031000006112	Traumatic amputation of left lower limb through thigh
+medcode	comorb_amp_med	14160171000006118	Traumatic amputation of right lower limb
+medcode	comorb_amp_med	14161081000006110	Traumatic amputation of right lower limb at level between knee and ankle
+medcode	comorb_amp_med	14167291000006113	Traumatic amputation of right lower limb through knee
+medcode	comorb_amp_med	86381000006117	"Traumatic unilat amputation leg unspec, with complication"
+medcode	comorb_amp_med	5847951000006119	Upper thigh amputation
+medcode	comorb_amp_med	6618971000006110	Transmetatarsal amputation
+medcode	comorb_amp_med	92561000006118	"Traumatic amputation/1 foot and other leg [any lev,exc foot]"
+medcode	comorb_amp_med	4504411000006117	"Hindquarter amputation, left"

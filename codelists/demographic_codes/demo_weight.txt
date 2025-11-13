@@ -1,0 +1,16 @@
+code_type	code_group	code	term	
+medcode	demo_weight	253677014	Body weight	
+medcode	demo_weight	253688015	O/E - weight NOS	
+medcode	demo_weight	11905011000006114	O/E - weight	
+medcode	demo_weight	7879461000006116	Weight	
+medcode	demo_weight	1910901000006116	Estimated weight	
+medcode	demo_weight	1910911000006118	Reported weight	
+medcode	demo_weight	4150511000006113	Weight finding	
+medcode	demo_weight	13638231000006115	Self reported body weight	
+medcode	demo_weight	4551811000006113	On examination - weight	
+medcode	demo_weight	923851000006110	O/E - weight	
+medcode	demo_weight	3514400010	Current body weight	
+medcode	demo_weight	2934311000006118	Weight	
+medcode	demo_weight	6251151000006116	Body weight measure	
+medcode	demo_weight	7037161000006118	Body weight without shoes	
+medcode	demo_weight	3484791000006113	Weight: body mass	

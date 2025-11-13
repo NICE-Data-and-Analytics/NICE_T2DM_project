@@ -1,0 +1,10 @@
+code_type	code_group	code	term
+medcode	risk_creatine_med	380389013	Serum creatinine level
+medcode	risk_creatine_med	259054018	Serum creatinine NOS
+medcode	risk_creatine_med	977071000006116	Creatinine level
+medcode	risk_creatine_med	457927010	Corrected serum creatinine level
+medcode	risk_creatine_med	4217571000006110	Serum creatinine
+medcode	risk_creatine_med	6277981000006115	Serum creatinine level
+medcode	risk_creatine_med	4217561000006115	"Creatinine measurement, serum"
+medcode	risk_creatine_med	458156012	Plasma creatinine level
+medcode	risk_creatine_med	457919018	Corrected plasma creatinine level

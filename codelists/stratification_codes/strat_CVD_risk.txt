@@ -1,0 +1,43 @@
+code_type	code_group	code	term
+medcode	strat_CVD_risk	1126121000000112	QRISK2 cardiovascular disease 10 year risk score
+medcode	strat_CVD_risk	664421000000119	QRISK cardiovascular disease 10 year risk calculator score
+medcode	strat_CVD_risk	459504017	Framingham coronary heart disease 10 year risk score
+medcode	strat_CVD_risk	459796013	Coronary heart disease risk
+medcode	strat_CVD_risk	1488811018	Cardiovascular event risk
+medcode	strat_CVD_risk	164111000006114	Risk factors present at heart disease screening
+medcode	strat_CVD_risk	8463841000006110	QRISK3 cardiovascular disease 10 year risk calculator score
+medcode	strat_CVD_risk	251882011	At risk of heart disease
+medcode	strat_CVD_risk	251883018	High risk of heart disease
+medcode	strat_CVD_risk	495371000000110	Review of patient at risk from coronary heart disease
+medcode	strat_CVD_risk	929481000006119	Framingham coronary heart disease 10 year adjusted risk score
+medcode	strat_CVD_risk	1488412018	High risk of primary heart disease
+medcode	strat_CVD_risk	1661461000000113	CVD (cardiovascular disease) risk assessment by third party
+medcode	strat_CVD_risk	459503011	Framingham Coronary Heart Disease 5 year risk score
+medcode	strat_CVD_risk	1488411013	Moderate risk of primary heart disease
+medcode	strat_CVD_risk	1002141000006111	On CVD risk register
+medcode	strat_CVD_risk	1656461000006115	QRISK cardiovascular disease (CVD) estimated 10 year risk score
+medcode	strat_CVD_risk	14014011000006112	At risk of cardiovascular disease
+medcode	strat_CVD_risk	1656451000006117	QRISK cardiovascular disease (CVD) 10 year risk score
+medcode	strat_CVD_risk	1678531000006110	ASSIGN (Assessing cardiovascular risk using Scottish Intercollegiate Guidelines Network) score
+medcode	strat_CVD_risk	1843221000006112	Framingham Coronary Heart Disease or Cardiovascular Disease 10 year risk adjusted to JBS2 (Joint British Societies 2) guidelines score
+medcode	strat_CVD_risk	1141351000000111	High probability of deep vein thrombosis
+medcode	strat_CVD_risk	638701000000116	ASSIGN score
+medcode	strat_CVD_risk	1141311000000112	Moderate probability of deep vein thrombosis
+medcode	strat_CVD_risk	6052911000006117	At risk of coronary heart disease
+medcode	strat_CVD_risk	8050831000006113	Joint British Societies cardiovascular disease risk
+medcode	strat_CVD_risk	7228321000006116	QRISK cardiovascular disease risk score
+medcode	strat_CVD_risk	8463651000006111	QRISK3 cardiovascular disease 10 year risk calculator
+medcode	strat_CVD_risk	11928841000006119	QRISK cardiovascular disease 10 year risk score
+medcode	strat_CVD_risk	5550051000006117	Dundee cardiovascular risk score
+medcode	strat_CVD_risk	11930511000006119	Framingham coronary heart disease 10 year risk score adjusted to Joint British Societies 2 guidelines
+medcode	strat_CVD_risk	8464061000006116	Assessment using QRISK cardiovascular disease 10 year risk calculator
+medcode	strat_CVD_risk	8294621000006117	High risk of transient ischaemic attack
+medcode	strat_CVD_risk	5898541000006117	Risk of subacute bacterial endocarditis
+medcode	strat_CVD_risk	12490801000006112	QRISK cardiovascular disease 10 year risk calculator score
+medcode	strat_CVD_risk	8463671000006118	Assessment using QRISK3 cardiovascular disease 10 year risk calculator
+medcode	strat_CVD_risk	7497251000006111	At high risk for heart failure
+medcode	strat_CVD_risk	6768181000006115	Potential for acute ischemic cardiac event
+medcode	strat_CVD_risk	7730391000006113	Assessment using QRISK2 cardiovascular disease 10 year risk scale
+medcode	strat_CVD_risk	12001531000006119	QRISK2 cardiovascular disease 10 year risk calculator
+medcode	strat_CVD_risk	13960481000006114	At risk of stroke
+medcode	strat_CVD_risk	7208001000006118	"Congestive heart failure, hypertension, age 75 years or older, diabetes, and previous stroke or transient ischaemic attack risk score"

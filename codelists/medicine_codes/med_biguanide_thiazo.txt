@@ -1,0 +1,3 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_biguanide_thiazo	3983941000033115	Pioglitazone 15mg / Metformin 850mg tablets	Metformin hydrochloride/ Pioglitazone hydrochloride
+prodcode	med_biguanide_thiazo	3984241000033114	Competact 15mg/850mg tablets (Neon Healthcare Ltd)	Metformin hydrochloride/ Pioglitazone hydrochloride

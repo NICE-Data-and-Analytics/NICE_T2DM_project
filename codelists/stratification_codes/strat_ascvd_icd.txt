@@ -1,0 +1,106 @@
+code_type	code_group	code	term
+ICD	strat_ASCVD_ICD	I20	Angina pectoris
+ICD	strat_ASCVD_ICD	I20.0	Unstable angina
+ICD	strat_ASCVD_ICD	I20.1	Angina pectoris with documented spasm
+ICD	strat_ASCVD_ICD	I20.8	Other forms of angina pectoris
+ICD	strat_ASCVD_ICD	I20.9	"Angina pectoris, unspecified"
+ICD	strat_ASCVD_ICD	I21	Acute myocardial infarction
+ICD	strat_ASCVD_ICD	I21.0	Acute transmural myocardial infarction of anterior wall
+ICD	strat_ASCVD_ICD	I21.1	Acute transmural myocardial infarction of inferior wall
+ICD	strat_ASCVD_ICD	I21.2	Acute transmural myocardial infarction of other sites
+ICD	strat_ASCVD_ICD	I21.3	Acute transmural myocardial infarction of unspecified site
+ICD	strat_ASCVD_ICD	I21.4	Acute subendocardial myocardial infarction
+ICD	strat_ASCVD_ICD	I21.9	"Acute myocardial infarction, unspecified"
+ICD	strat_ASCVD_ICD	I22	Subsequent myocardial infarction
+ICD	strat_ASCVD_ICD	I22.0	Subsequent myocardial infarction of anterior wall
+ICD	strat_ASCVD_ICD	I22.1	Subsequent myocardial infarction of inferior wall
+ICD	strat_ASCVD_ICD	I22.8	Subsequent myocardial infarction of other sites
+ICD	strat_ASCVD_ICD	I22.9	Subsequent myocardial infarction of unspecified site
+ICD	strat_ASCVD_ICD	I23	Certain current complications following acute myocardial infarction
+ICD	strat_ASCVD_ICD	I23.0	Haemopericardium as current complication following acute myocardial infarction
+ICD	strat_ASCVD_ICD	I23.1	Atrial septal defect as current complication following acute myocardial infarction
+ICD	strat_ASCVD_ICD	I23.2	Ventricular septal defect as current complication following acute myocardial infarction
+ICD	strat_ASCVD_ICD	I23.3	Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+ICD	strat_ASCVD_ICD	I23.4	Rupture of chordae tendineae as current complication following acute myocardial infarction
+ICD	strat_ASCVD_ICD	I23.5	Rupture of papillary muscle as current complication following acute myocardial infarction
+ICD	strat_ASCVD_ICD	I23.6	"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+ICD	strat_ASCVD_ICD	I23.8	Other current complications following acute myocardial infarction
+ICD	strat_ASCVD_ICD	I24	Other acute ischaemic heart diseases
+ICD	strat_ASCVD_ICD	I24.0	Coronary thrombosis not resulting in myocardial infarction
+ICD	strat_ASCVD_ICD	I24.1	Dressler syndrome
+ICD	strat_ASCVD_ICD	I24.8	Other forms of acute ischaemic heart disease
+ICD	strat_ASCVD_ICD	I24.9	"Acute ischaemic heart disease, unspecified"
+ICD	strat_ASCVD_ICD	I25	Chronic ischaemic heart disease
+ICD	strat_ASCVD_ICD	I25.0	"Atherosclerotic cardiovascular disease, so describe"
+ICD	strat_ASCVD_ICD	I25.1	Atherosclerotic heart disease
+ICD	strat_ASCVD_ICD	I25.2	Old myocardial infarction
+ICD	strat_ASCVD_ICD	I25.3	Aneurysm of heart
+ICD	strat_ASCVD_ICD	I25.4	Coronary artery aneurysm and dissection
+ICD	strat_ASCVD_ICD	I25.5	Ischaemic cardiomyopathy
+ICD	strat_ASCVD_ICD	I25.6	Silent myocardial ischaemia
+ICD	strat_ASCVD_ICD	I25.8	Other forms of chronic ischaemic heart disease
+ICD	strat_ASCVD_ICD	I25.9	"Chronic ischaemic heart disease, unspecified"
+ICD	strat_ASCVD_ICD	I60	Subarachnoid haemorrhage
+ICD	strat_ASCVD_ICD	I60.0	Subarachnoid haemorrhage from carotid siphon and bifurcation
+ICD	strat_ASCVD_ICD	I60.1	Subarachnoid haemorrhage from middle cerebral artery
+ICD	strat_ASCVD_ICD	I60.2	Subarachnoid haemorrhage from anterior communicating artery
+ICD	strat_ASCVD_ICD	I60.3	Subarachnoid haemorrhage from posterior communicating artery
+ICD	strat_ASCVD_ICD	I60.4	Subarachnoid haemorrhage from basilar artery
+ICD	strat_ASCVD_ICD	I60.5	Subarachnoid haemorrhage from vertebral artery
+ICD	strat_ASCVD_ICD	I60.6	Subarachnoid haemorrhage from other intracranial arteries
+ICD	strat_ASCVD_ICD	I60.7	"Subarachnoid haemorrhage from intracranial artery, unspecified"
+ICD	strat_ASCVD_ICD	I60.8	Other subarachnoid haemorrhage
+ICD	strat_ASCVD_ICD	I60.9	"Subarachnoid haemorrhage, unspecified"
+ICD	strat_ASCVD_ICD	I61	Intracerebral haemorrhage
+ICD	strat_ASCVD_ICD	I61.0	"Intracerebral haemorrhage in hemisphere, subcortical"
+ICD	strat_ASCVD_ICD	I61.1	"Intracerebral haemorrhage in hemisphere, cortical"
+ICD	strat_ASCVD_ICD	I61.2	"Intracerebral haemorrhage in hemisphere, unspecified"
+ICD	strat_ASCVD_ICD	I61.3	Intracerebral haemorrhage in brain stem
+ICD	strat_ASCVD_ICD	I61.4	Intracerebral haemorrhage in cerebellum
+ICD	strat_ASCVD_ICD	I61.5	"Intracerebral haemorrhage, intraventricular"
+ICD	strat_ASCVD_ICD	I61.6	"Intracerebral haemorrhage, multiple localized"
+ICD	strat_ASCVD_ICD	I61.8	Other intracerebral haemorrhage
+ICD	strat_ASCVD_ICD	I61.9	"Intracerebral haemorrhage, unspecified"
+ICD	strat_ASCVD_ICD	I62	Other nontraumatic intracranial haemorrhage
+ICD	strat_ASCVD_ICD	I62.0	Nontraumatic subdural haemorrhage
+ICD	strat_ASCVD_ICD	I62.1	Nontraumatic extradural haemorrhage
+ICD	strat_ASCVD_ICD	I62.9	"Intracranial haemorrhage (nontraumatic), unspecified"
+ICD	strat_ASCVD_ICD	I63	Cerebral infarction
+ICD	strat_ASCVD_ICD	I63.0	Cerebral infarction due to thrombosis of precerebral arteries
+ICD	strat_ASCVD_ICD	I63.1	Cerebral infarction due to embolism of precerebral arteries
+ICD	strat_ASCVD_ICD	I63.2	Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+ICD	strat_ASCVD_ICD	I63.3	Cerebral infarction due to thrombosis of cerebral arteries
+ICD	strat_ASCVD_ICD	I63.4	Cerebral infarction due to embolism of cerebral arteries
+ICD	strat_ASCVD_ICD	I63.5	Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+ICD	strat_ASCVD_ICD	I63.6	"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+ICD	strat_ASCVD_ICD	I63.8	Other cerebral infarction
+ICD	strat_ASCVD_ICD	I63.9	"Cerebral infarction, unspecified"
+ICD	strat_ASCVD_ICD	I64	"Stroke, not specified as haemorrhage or infarction"
+ICD	strat_ASCVD_ICD	I65	"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction"
+ICD	strat_ASCVD_ICD	I65.0	Occlusion and stenosis of vertebral artery
+ICD	strat_ASCVD_ICD	I65.1	Occlusion and stenosis of basilar artery
+ICD	strat_ASCVD_ICD	I65.2	Occlusion and stenosis of carotid artery
+ICD	strat_ASCVD_ICD	I65.3	Occlusion and stenosis of multiple and bilateral precerebral arteries
+ICD	strat_ASCVD_ICD	I65.8	Occlusion and stenosis of other precerebral artery
+ICD	strat_ASCVD_ICD	I65.9	Occlusion and stenosis of unspecified precerebral artery
+ICD	strat_ASCVD_ICD	I66	"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction"
+ICD	strat_ASCVD_ICD	I66.0	Occlusion and stenosis of middle cerebral artery
+ICD	strat_ASCVD_ICD	I66.1	Occlusion and stenosis of anterior cerebral artery
+ICD	strat_ASCVD_ICD	I66.2	Occlusion and stenosis of posterior cerebral artery
+ICD	strat_ASCVD_ICD	I66.3	Occlusion and stenosis of cerebellar arteries
+ICD	strat_ASCVD_ICD	I66.4	Occlusion and stenosis of multiple and bilateral cerebral arteries
+ICD	strat_ASCVD_ICD	I66.8	Occlusion and stenosis of other cerebral artery
+ICD	strat_ASCVD_ICD	I66.9	Occlusion and stenosis of unspecified cerebral artery
+ICD	strat_ASCVD_ICD	I73.9	"Peripheral vascular disease, unspecified"
+ICD	strat_ASCVD_ICD	I74.3	Embolism and thrombosis of arteries of lower extremities
+ICD	strat_ASCVD_ICD	I74.5	Embolism and thrombosis of iliac artery
+ICD	strat_ASCVD_ICD	E11.5 	Type 2 diabetes mellitus with peripheral circulatory complications
+ICD	strat_ASCVD_ICD	E14.5	Unspecified diabetes mellitus with peripheral circulatory complications
+ICD	strat_ASCVD_ICD	I69.3	Sequelae of cerebral infarction
+ICD	strat_ASCVD_ICD	I69.4	"Sequelae of stroke, not specified as haemorrhage or infarction"
+ICD	strat_ASCVD_ICD	I70	Atherosclerosis
+ICD	strat_ASCVD_ICD	I70.0	Atherosclerosis of aorta
+ICD	strat_ASCVD_ICD	I70.1	Atherosclerosis of renal artery
+ICD	strat_ASCVD_ICD	I70.2	Atherosclerosis of arteries of extremities
+ICD	strat_ASCVD_ICD	I70.8	Atherosclerosis of other arteries
+ICD	strat_ASCVD_ICD	I70.9	Generalized and unspecified atherosclerosis

@@ -1,0 +1,7 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_SGLT2_DPP4	11898041000033111	Saxagliptin 5mg / Dapagliflozin 10mg tablets	Dapagliflozin propanediol monohydrate/ Saxagliptin hydrochloride
+prodcode	med_SGLT2_DPP4	11898141000033110	Qtern 5mg/10mg tablets (AstraZeneca UK Ltd)	Dapagliflozin propanediol monohydrate/ Saxagliptin hydrochloride
+prodcode	med_SGLT2_DPP4	13116741000033112	Empagliflozin 10mg / Linagliptin 5mg tablets	Empagliflozin/ Linagliptin
+prodcode	med_SGLT2_DPP4	13116841000033119	Empagliflozin 25mg / Linagliptin 5mg tablets	Empagliflozin/ Linagliptin
+prodcode	med_SGLT2_DPP4	13116941000033110	Glyxambi 10mg/5mg tablets (Boehringer Ingelheim Ltd)	Empagliflozin/ Linagliptin
+prodcode	med_SGLT2_DPP4	13117041000033111	Glyxambi 25mg/5mg tablets (Boehringer Ingelheim Ltd)	Empagliflozin/ Linagliptin

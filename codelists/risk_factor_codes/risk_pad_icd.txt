@@ -1,0 +1,7 @@
+code_type	code_group	code	term
+ICD	risk_PAD_ICD	I73.9	"Peripheral vascular disease, unspecified"
+ICD	risk_PAD_ICD	I70.2	Atherosclerosis of arteries of extremities
+ICD	risk_PAD_ICD	I74.3	Embolism and thrombosis of arteries of lower extremities
+ICD	risk_PAD_ICD	I74.5	Embolism and thrombosis of iliac artery
+ICD	risk_PAD_ICD	E11.5 	Type 2 diabetes mellitus with peripheral circulatory complications
+ICD	risk_PAD_ICD	E14.5	Unspecified diabetes mellitus with peripheral circulatory complications

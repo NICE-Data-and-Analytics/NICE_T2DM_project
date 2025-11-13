@@ -1,0 +1,138 @@
+code_type	code_group	code	term
+medcode	comorb_RF_med	304111000000114	Chronic kidney disease stage 5
+medcode	comorb_RF_med	501594013	Transplantation of kidney
+medcode	comorb_RF_med	215521000000116	End stage renal disease
+medcode	comorb_RF_med	460644012	History of renal transplant
+medcode	comorb_RF_med	90471000006113	Live donor renal transplant
+medcode	comorb_RF_med	641471000006117	End stage renal failure
+medcode	comorb_RF_med	3245871000006111	ESRD - End stage renal disease
+medcode	comorb_RF_med	596321000000110	Chronic kidney disease stage 5 with proteinuria
+medcode	comorb_RF_med	117168016	Renal transplant
+medcode	comorb_RF_med	272327014	Transplantation of kidney NOS
+medcode	comorb_RF_med	641491000006116	End-stage renal disease
+medcode	comorb_RF_med	596401000000111	Chronic kidney disease stage 5 without proteinuria
+medcode	comorb_RF_med	618511000000119	CKD stage 5 with proteinuria
+medcode	comorb_RF_med	2767154014	Chronic kidney disease stage 5
+medcode	comorb_RF_med	1940551000006115	CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+medcode	comorb_RF_med	3245851000006118	ESRF - End stage renal failure
+medcode	comorb_RF_med	324973015	Kidney transplant failure and rejection
+medcode	comorb_RF_med	618521000000113	CKD stage 5 without proteinuria
+medcode	comorb_RF_med	1940541000006117	CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+medcode	comorb_RF_med	3647021000006114	Transplant of kidney
+medcode	comorb_RF_med	1940531000006110	CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+medcode	comorb_RF_med	354610013	Renal transplant rejection
+medcode	comorb_RF_med	354615015	Acute rejection of renal transplant
+medcode	comorb_RF_med	372621000000114	Allotransplantation of kidney from beating heart cadaver
+medcode	comorb_RF_med	7714891000006118	Chronic kidney disease stage 5 on dialysis
+medcode	comorb_RF_med	12704471000006116	End-stage renal disease
+medcode	comorb_RF_med	353974015	Xenograft renal transplant
+medcode	comorb_RF_med	399381000000115	Allotransplantation of kidney from cadaver NEC
+medcode	comorb_RF_med	1549841000006116	Allotransplantation of kidney from non-beating heart cadaver
+medcode	comorb_RF_med	354619014	Chronic rejection of renal transplant
+medcode	comorb_RF_med	7174851000006111	CKD stage 5
+medcode	comorb_RF_med	272326017	Other specified transplantation of kidney
+medcode	comorb_RF_med	413415016	Unexplained episode of renal transplant dysfunction
+medcode	comorb_RF_med	3647061000006115	Kidney transplant
+medcode	comorb_RF_med	3245841000006115	End stage kidney disease
+medcode	comorb_RF_med	900121000006113	Renal transplant rejected
+medcode	comorb_RF_med	478131000006115	Allotransplantation of kidney from cadaver
+medcode	comorb_RF_med	272320011	Allotransplantation of kidney from live donor
+medcode	comorb_RF_med	354616019	Acute rejection of renal transplant - grade I
+medcode	comorb_RF_med	5094161000006119	End stage renal failure on dialysis
+medcode	comorb_RF_med	3245861000006116	ESCRF - End stage chronic renal failure
+medcode	comorb_RF_med	380101000000116	Examination of recipient after kidney transplant
+medcode	comorb_RF_med	177341000006111	Renal tubulo-interstitial disorders in transplant rejection
+medcode	comorb_RF_med	615611000006116	Det.ren.func.after ren.transpl
+medcode	comorb_RF_med	366671000000118	Interventions associated with transplantation of kidney
+medcode	comorb_RF_med	866731000006115	Kidney replacement NOS
+medcode	comorb_RF_med	354628010	Acute-on-chronic rejection of renal transplant
+medcode	comorb_RF_med	354621016	Chronic transplant nephropathy
+medcode	comorb_RF_med	6024541000006117	Donor renal transplantation
+medcode	comorb_RF_med	3245881000006114	End stage chronic renal failure
+medcode	comorb_RF_med	380061000000118	Interventions associated with transplantation of kidney NOS
+medcode	comorb_RF_med	866751000006110	Kidney replacement
+medcode	comorb_RF_med	354612017	Accelerated rejection of renal transplant
+medcode	comorb_RF_med	354614016	Borderline changes of acute rejection
+medcode	comorb_RF_med	7966611000006114	Chronic kidney disease stage 5 due to type 2 diabetes mellitus
+medcode	comorb_RF_med	5094171000006114	End stage renal failure with renal transplant
+medcode	comorb_RF_med	3647091000006111	Renal graft
+medcode	comorb_RF_med	2198141000000110	Stenosis of vein of transplanted kidney
+medcode	comorb_RF_med	3647051000006117	Tx - Renal transplantation
+medcode	comorb_RF_med	2189151000000117	Urological complication of renal transplant
+medcode	comorb_RF_med	354613010	Very mild acute rejection of renal transplant
+medcode	comorb_RF_med	354623018	Chronic rejection of renal transplant - grade 1
+medcode	comorb_RF_med	8104511000006111	CKD (chronic kidney disease) stage 5 with proteinuria
+medcode	comorb_RF_med	5096231000006110	Failed renal transplant
+medcode	comorb_RF_med	106291000006118	Thomas intravascular shunt for dialysis
+medcode	comorb_RF_med	354617011	Acute rejection of renal transplant - grade II
+medcode	comorb_RF_med	7714921000006112	Chronic kidney disease stage 5 with transplant
+medcode	comorb_RF_med	5053041000006110	Continuous venovenous haemofiltration
+medcode	comorb_RF_med	7985891000006113	Transplantation of kidney and pancreas
+medcode	comorb_RF_med	2191221000000118	Vascular complication of renal transplant
+medcode	comorb_RF_med	354618018	Acute rejection of renal transplant - grade III
+medcode	comorb_RF_med	2209101000000119	Aneurysm of artery of transplanted kidney
+medcode	comorb_RF_med	5096141000006114	Chronic allograft nephropathy
+medcode	comorb_RF_med	8040671000006114	Chronic kidney disease stage 5 due to hypertension
+medcode	comorb_RF_med	354624012	Chronic rejection of renal transplant - grade II
+medcode	comorb_RF_med	354627017	Chronic rejection of renal transplant - grade III
+medcode	comorb_RF_med	5120121000006119	Adjustment of chronic ambulatory peritoneal dialysis catheter
+medcode	comorb_RF_med	2209021000000112	Aneurysm of vein of transplanted kidney
+medcode	comorb_RF_med	7970091000006119	Awaiting renal transplant
+medcode	comorb_RF_med	7507461000006117	Awaiting transplantation of kidney
+medcode	comorb_RF_med	3455181000006115	Complication of transplanted kidney
+medcode	comorb_RF_med	354632016	De novo glomerulonephritis
+medcode	comorb_RF_med	7054551000006115	Delayed kidney graft function
+medcode	comorb_RF_med	7096521000006114	Dependence on haemodialysis due to end stage renal disease
+medcode	comorb_RF_med	7103511000006119	Disorder related to renal transplantation
+medcode	comorb_RF_med	877641000006113	Extracorporeal kidney
+medcode	comorb_RF_med	5096031000006117	Primary non-function of renal transplant
+medcode	comorb_RF_med	6613531000006114	Renal replacement
+medcode	comorb_RF_med	5120111000006110	Renewal of chronic ambulatory peritoneal dialysis catheter
+medcode	comorb_RF_med	2234621000000111	Thrombosis of vein of transplanted kidney
+medcode	comorb_RF_med	5096271000006113	Transplant glomerulopathy
+medcode	comorb_RF_med	7710041000006114	Transplant renal artery stenosis
+medcode	comorb_RF_med	7507471000006112	Awaiting renal transplant
+medcode	comorb_RF_med	14174321000006116	Chronic kidney disease stage 5 due to drug induced diabetes mellitus
+medcode	comorb_RF_med	8027491000006113	Chronic kidney disease stage 5 due to type 1 diabetes mellitus
+medcode	comorb_RF_med	8104551000006112	CKD (chronic kidney disease) stage 5 without proteinuria
+medcode	comorb_RF_med	7714911000006116	CKD (chronic kidney disease) stage 5d
+medcode	comorb_RF_med	7714941000006117	CKD (chronic kidney disease) stage 5t
+medcode	comorb_RF_med	7723851000006119	Continuous renal replacement therapy
+medcode	comorb_RF_med	5053081000006116	CVVHF - Continuous venovenous hemofiltration
+medcode	comorb_RF_med	7097941000006112	Dependence on dialysis due to end stage renal disease
+medcode	comorb_RF_med	7096531000006112	Dependence on hemodialysis due to end stage renal disease
+medcode	comorb_RF_med	5730251000006114	Extracorporeal kidney
+medcode	comorb_RF_med	5095591000006119	First use syndrome of dialysis
+medcode	comorb_RF_med	5053101000006112	Haemodiafiltration
+medcode	comorb_RF_med	7593681000006118	Hypertension concurrent and due to end stage renal disease on dialysis
+medcode	comorb_RF_med	8044011000006117	Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus
+medcode	comorb_RF_med	3647031000006112	Kidney transplantation
+medcode	comorb_RF_med	1550021000006110	OS interventions associated with transplantation of kidney
+medcode	comorb_RF_med	988961000006115	Renal transplant rejected
+medcode	comorb_RF_med	2197961000000113	Rupture of artery of transplanted kidney
+medcode	comorb_RF_med	2198001000000111	Rupture of vein of transplanted kidney
+medcode	comorb_RF_med	5096211000006116	Severe chronic transplant nephropathy
+medcode	comorb_RF_med	2234541000000115	Thrombosis of artery of transplanted kidney
+medcode	comorb_RF_med	3527360016	Transplanted kidney present
+medcode	comorb_RF_med	906351000006116	[RFC] Renal transplant
+medcode	comorb_RF_med	177251000006119	"Renal transplant with complication, without blame"
+medcode	comorb_RF_med	754061000006111	"Kidney transplant with complication, without blame"
+medcode	comorb_RF_med	4694051000006116	Removal of chronic ambulatory peritoneal dialysis catheter
+medcode	comorb_RF_med	386181000000111	"Pre-transplantation of kidney work-up, recipient"
+medcode	comorb_RF_med	422992018	Excision of rejected transplanted kidney
+medcode	comorb_RF_med	8117051000006114	Active on kidney transplant waiting list
+medcode	comorb_RF_med	1905531000006112	Excision of rejected transplanted kidney
+medcode	comorb_RF_med	5161281000006112	US scan of transplant kidney
+medcode	comorb_RF_med	3653841000006116	Transplanted kidney
+medcode	comorb_RF_med	7212381000006113	Renal transplant biopsy sample
+medcode	comorb_RF_med	5161291000006110	Ultrasound scan of transplant kidney
+medcode	comorb_RF_med	7238471000006113	Biopsy of transplanted kidney using ultrasound guidance
+medcode	comorb_RF_med	7985971000006118	Laparoscopic biopsy of transplanted kidney
+medcode	comorb_RF_med	7150641000006119	Doppler ultrasound of transplanted kidney
+medcode	comorb_RF_med	7150631000006112	Doppler ultrasound scan of transplanted kidney
+medcode	comorb_RF_med	8117071000006116	Active on kidney and pancreas transplant waiting list
+medcode	comorb_RF_med	7615371000006117	Anaemia in end stage renal disease
+medcode	comorb_RF_med	5191471000006111	Arterial port blood sampling during haemodialysis
+medcode	comorb_RF_med	7043231000006112	Chronic progressive renal failure
+medcode	comorb_RF_med	8117041000006112	Kidney transplant waiting list patient status
+medcode	comorb_RF_med	2195121000000113	Ruptured aneurysm of dialysis vascular access

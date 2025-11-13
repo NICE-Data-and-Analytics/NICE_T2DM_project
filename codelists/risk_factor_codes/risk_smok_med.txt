@@ -1,0 +1,157 @@
+code_type	code_group	code	term
+medcode	risk_smok_med	108938018	Cigarette smoker
+medcode	risk_smok_med	503483019	Current smoker
+medcode	risk_smok_med	700121000006118	Moderate cigarette smoker (10-19 cigs/day)
+medcode	risk_smok_med	743331000006116	Light cigarette smoker (1-9 cigs/day)
+medcode	risk_smok_med	250372012	Trying to give up smoking
+medcode	risk_smok_med	128130017	Smoker
+medcode	risk_smok_med	250375014	Rolls own cigarettes
+medcode	risk_smok_med	1488578010	Not interested in stopping smoking
+medcode	risk_smok_med	819331000006110	Heavy cigarette smoker (20-39 cigs/day)
+medcode	risk_smok_med	1488576014	Thinking about stopping smoking
+medcode	risk_smok_med	88471000006112	Trivial cigarette smoker (less than one cigarette/day)
+medcode	risk_smok_med	342574011	Total time smoked
+medcode	risk_smok_med	1488577017	Ready to stop smoking
+medcode	risk_smok_med	99639019	Cigar smoker
+medcode	risk_smok_med	6282331000006114	Tobacco smoking behaviour - finding
+medcode	risk_smok_med	136515019	Pipe smoker
+medcode	risk_smok_med	137771000006119	Smoking Age Started
+medcode	risk_smok_med	397733018	Occasional smoker
+medcode	risk_smok_med	2474719011	Minutes from waking to first tobacco consumption
+medcode	risk_smok_med	2669652019	Smoking started
+medcode	risk_smok_med	250368013	Keeps trying to stop smoking
+medcode	risk_smok_med	137721000006115	Smoker - amount smoked
+medcode	risk_smok_med	102951000006115	Tobacco dependence
+medcode	risk_smok_med	1592611000000110	Failed attempt to stop smoking
+medcode	risk_smok_med	250387019	Tobacco consumption NOS
+medcode	risk_smok_med	216212011	Smoking reduced
+medcode	risk_smok_med	344794017	Cigar consumption
+medcode	risk_smok_med	2670126018	Smoking restarted
+medcode	risk_smok_med	904121000006117	Carbon monoxide validation confirms smoker
+medcode	risk_smok_med	1780360012	Reason for restarting smoking
+medcode	risk_smok_med	604961000006114	Current Smoker NOS
+medcode	risk_smok_med	854021000006115	Cigarette smoker
+medcode	risk_smok_med	8063181000006116	Wants to stop smoking
+medcode	risk_smok_med	137791000006118	Smoking restarted
+medcode	risk_smok_med	137711000006111	Smoker (Read codes)
+medcode	risk_smok_med	2170961000000116	Waterpipe tobacco consumption
+medcode	risk_smok_med	344795016	Pipe tobacco consumption
+medcode	risk_smok_med	7375991000006118	Smokes tobacco daily
+medcode	risk_smok_med	5003151000006116	Light cigarette smoker
+medcode	risk_smok_med	11904991000006116	Occasional cigarette smoker
+medcode	risk_smok_med	854981000006117	Grade C moderate smoker (11-20/day)
+medcode	risk_smok_med	5003171000006114	Heavy cigarette smoker
+medcode	risk_smok_med	961581000006114	Smokes/uses tobacco products
+medcode	risk_smok_med	5003161000006119	Moderate cigarette smoker
+medcode	risk_smok_med	854071000006119	Current smoker
+medcode	risk_smok_med	1817431000006112	Tobacco use and exposure
+medcode	risk_smok_med	250369017	Admitted tobacco consumption possibly untrue
+medcode	risk_smok_med	854961000006110	Grade B light smoker (1-10/day)
+medcode	risk_smok_med	460828018	Tobacco user
+medcode	risk_smok_med	852111000006118	Gradual smoking reduction
+medcode	risk_smok_med	855001000006114	Grade D heavy smoker (>20 Day)
+medcode	risk_smok_med	295256013	"Tobacco dependence, unspecified"
+medcode	risk_smok_med	3419101000006116	Moderate smoker (20 or less per day)
+medcode	risk_smok_med	3959111000006111	Tobacco dependence syndrome
+medcode	risk_smok_med	8153371000006117	Occasional tobacco smoker
+medcode	risk_smok_med	295260011	Tobacco dependence NOS
+medcode	risk_smok_med	5003191000006110	Chain smoker
+medcode	risk_smok_med	3422221000006116	Heavy smoker (over 20 per day)
+medcode	risk_smok_med	5003181000006112	Very heavy cigarette smoker
+medcode	risk_smok_med	1899551000006112	Mother's smoking status at time of baby's birth - smoker
+medcode	risk_smok_med	1819411000006114	Smoking increased
+medcode	risk_smok_med	8299271000006119	Number of previous attempts to stop smoking
+medcode	risk_smok_med	295257016	"Tobacco dependence, continuous"
+medcode	risk_smok_med	5495941000006114	Occasional smoker
+medcode	risk_smok_med	852981000006111	Rolls own cigarettes
+medcode	risk_smok_med	903981000006117	Not interested in stopping smoking
+medcode	risk_smok_med	5495951000006111	Occasional cigarette smoker (less than one cigarette/day)
+medcode	risk_smok_med	4948531000006116	Smokes in bed
+medcode	risk_smok_med	295258014	"Tobacco dependence, episodic"
+medcode	risk_smok_med	5495901000006112	Amount and type of tobacco smoked
+medcode	risk_smok_med	904001000006111	Ready to stop smoking
+medcode	risk_smok_med	1809131000006111	Total time smoked
+medcode	risk_smok_med	1809121000006113	Waterpipe tobacco consumption
+medcode	risk_smok_med	4180331000006118	Tobacco use
+medcode	risk_smok_med	3582451000006114	Cigarette smoking tobacco
+medcode	risk_smok_med	904031000006115	Thinking about stopping smoking
+medcode	risk_smok_med	4980741000006114	Moist tobacco consumption
+medcode	risk_smok_med	5003141000006118	Trivial cigarette smoker
+medcode	risk_smok_med	7507181000006115	Hookah pipe smoker
+medcode	risk_smok_med	3874641000006110	Pipe smoking tobacco
+medcode	risk_smok_med	904041000006113	Waking time to first cigarette
+medcode	risk_smok_med	6282311000006115	Tobacco use and exposure - finding
+medcode	risk_smok_med	6282371000006112	Tobacco smoking consumption - finding
+medcode	risk_smok_med	7507191000006117	Water pipe smoker
+medcode	risk_smok_med	7681981000006118	Assessment of tobacco use
+medcode	risk_smok_med	649841000006110	Ex-smoker
+medcode	risk_smok_med	250373019	Stopped smoking
+medcode	risk_smok_med	418914010	Ex-cigarette smoker
+medcode	risk_smok_med	250365011	Ex-moderate cigarette smoker (10-19/day)
+medcode	risk_smok_med	250364010	Ex-light cigarette smoker (1-9/day)
+medcode	risk_smok_med	250385010	Date ceased smoking
+medcode	risk_smok_med	250366012	Ex-heavy cigarette smoker (20-39/day)
+medcode	risk_smok_med	250371017	Ex-smoker - amount unknown
+medcode	risk_smok_med	250363016	Ex-trivial cigarette smoker (<1/day)
+medcode	risk_smok_med	250367015	Ex-very heavy cigarette smoker (40+/day)
+medcode	risk_smok_med	1488873010	Smoking free weeks
+medcode	risk_smok_med	1154471000000114	Ex-smoker annual review
+medcode	risk_smok_med	67621000006112	Very heavy cigarette smoker (40+ cigs/day)
+medcode	risk_smok_med	137761000006114	Smoking Age Ceased
+medcode	risk_smok_med	649821000006115	Ex-cigar smoker
+medcode	risk_smok_med	649831000006117	Ex-pipe smoker
+medcode	risk_smok_med	649861000006114	Ex-Cigarette Smoker
+medcode	risk_smok_med	1151791000000117	Recently stopped smoking
+medcode	risk_smok_med	1059701000000119	Ex roll-up cigarette smoker
+medcode	risk_smok_med	649851000006112	Ex- Rolled Tobacco Smoker
+medcode	risk_smok_med	903041000006110	EX-Smoker NOS
+medcode	risk_smok_med	5496031000006112	Ex-cigarette smoker amount unknown
+medcode	risk_smok_med	854151000006111	Date stopped smoking
+medcode	risk_smok_med	8017571000006117	Ex-smoker for more than 1 year
+medcode	risk_smok_med	2735181000000113	Ex-smoker amount unknown
+medcode	risk_smok_med	4980561000006117	Time since stopped smoking
+medcode	risk_smok_med	2735381000000111	Ex-light smoker (1-9/day)
+medcode	risk_smok_med	7368651000006119	Smoked before confirmation of pregnancy
+medcode	risk_smok_med	854111000006110	Past smoker
+medcode	risk_smok_med	2735331000000112	Ex-moderate smoker (10-19/day)
+medcode	risk_smok_med	2735281000000119	Ex-heavy smoker (20-39/day)
+medcode	risk_smok_med	2735421000000119	Ex-trivial smoker (<1/day)
+medcode	risk_smok_med	3513199018	Ex-smoker for less than 1 year
+medcode	risk_smok_med	853001000006110	Ex-smoker NOS
+medcode	risk_smok_med	7368961000006112	Stopped smoking during pregnancy
+medcode	risk_smok_med	2735201000000112	Ex-very heavy smoker (40+/day)
+medcode	risk_smok_med	295259018	Tobacco dependence in remission
+medcode	risk_smok_med	7368971000006117	Stopped smoking before pregnancy
+medcode	risk_smok_med	1899561000006114	Mother's smoking status at time of baby's birth - ex-smoker
+medcode	risk_smok_med	2636041000006110	Cessation of smoking
+medcode	risk_smok_med	3374141000006117	Tolerant ex-smoker
+medcode	risk_smok_med	854051000006112	Ex-pipe smoker
+medcode	risk_smok_med	298701000000114	History of tobacco use
+medcode	risk_smok_med	14494021000006110	Former smoker
+medcode	risk_smok_med	6217281000006116	Aggressive ex-smoker
+medcode	risk_smok_med	3513101011	Date ceased using moist tobacco
+medcode	risk_smok_med	6217151000006116	Intolerant ex-smoker
+medcode	risk_smok_med	397732011	Never smoked tobacco
+medcode	risk_smok_med	250374013	Current non-smoker
+medcode	risk_smok_med	14866014	Non-smoker
+medcode	risk_smok_med	904111000006113	Carbon monoxide validation confirms non-smoker
+medcode	risk_smok_med	1009271000006118	Non Smoker - Nos
+medcode	risk_smok_med	5495921000006119	Never smoked
+medcode	risk_smok_med	854951000006113	Grade A non-smoker
+medcode	risk_smok_med	7965041000006111	Never smoked any substance
+medcode	risk_smok_med	1899581000006116	Mother's smoking status at time of baby's birth - never smoked
+medcode	risk_smok_med	6718071000006115	Current non smoker but past smoking history unknown
+medcode	risk_smok_med	7569061000006118	Never used tobacco
+medcode	risk_smok_med	903051000006112	Tobacco Consumption Nil
+medcode	risk_smok_med	250370016	Tobacco consumption unknown
+medcode	risk_smok_med	11928911000006113	Refusal to give smoking status
+medcode	risk_smok_med	12490821000006119	Refusal to give smoking status
+medcode	risk_smok_med	102921000006112	Tobacco smoking consumption
+medcode	risk_smok_med	344793011	Cigarette consumption
+medcode	risk_smok_med	137811000006119	Smoking Status
+medcode	risk_smok_med	1780396011	Cigarette pack-years
+medcode	risk_smok_med	13619901000006115	Number of calculated smoking pack years
+medcode	risk_smok_med	5496021000006114	Tobacco smoking consumption unknown
+medcode	risk_smok_med	14616531000006112	Smoking
+medcode	risk_smok_med	4153241000006117	Smoking AND/OR drinking habits
+medcode	risk_smok_med	2737011000000111	Number of calculated smoking pack years

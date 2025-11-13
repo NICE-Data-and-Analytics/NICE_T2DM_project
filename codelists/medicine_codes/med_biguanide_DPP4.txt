@@ -1,0 +1,17 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_biguanide_DPP4	5576041000033115	Metformin 1g / Sitagliptin 50mg tablets	Metformin hydrochloride/ Sitagliptin
+prodcode	med_biguanide_DPP4	4452441000033113	Vildagliptin 50mg / Metformin 1g tablets	Metformin hydrochloride/ Vildagliptin
+prodcode	med_biguanide_DPP4	8959841000033119	Alogliptin 12.5mg / Metformin 1g tablets	Alogliptin benzoate/ Metformin hydrochloride
+prodcode	med_biguanide_DPP4	8115741000033119	Linagliptin 2.5mg / Metformin 1g tablets	Linagliptin/ Metformin hydrochloride
+prodcode	med_biguanide_DPP4	5132241000033116	Janumet 50mg/1000mg tablets (Merck Sharp & Dohme (UK) Ltd)	Metformin hydrochloride/ Sitagliptin
+prodcode	med_biguanide_DPP4	4452341000033119	Vildagliptin 50mg / Metformin 850mg tablets	Metformin hydrochloride/ Vildagliptin
+prodcode	med_biguanide_DPP4	8115841000033112	Linagliptin 2.5mg / Metformin 850mg tablets	Linagliptin/ Metformin hydrochloride
+prodcode	med_biguanide_DPP4	8242641000033113	Saxagliptin 2.5mg / Metformin 1g tablets	Metformin hydrochloride/ Saxagliptin hydrochloride
+prodcode	med_biguanide_DPP4	4452541000033114	Eucreas 50mg/1000mg tablets (Novartis Pharmaceuticals UK Ltd)	Metformin hydrochloride/ Vildagliptin
+prodcode	med_biguanide_DPP4	8959941000033110	Vipdomet 12.5mg/1000mg tablets (Takeda UK Ltd)	Alogliptin benzoate/ Metformin hydrochloride
+prodcode	med_biguanide_DPP4	8115941000033116	Jentadueto 2.5mg/1000mg tablets (Boehringer Ingelheim Ltd)	Linagliptin/ Metformin hydrochloride
+prodcode	med_biguanide_DPP4	4452641000033110	Eucreas 50mg/850mg tablets (Novartis Pharmaceuticals UK Ltd)	Metformin hydrochloride/ Vildagliptin
+prodcode	med_biguanide_DPP4	8242541000033112	Saxagliptin 2.5mg / Metformin 850mg tablets	Metformin hydrochloride/ Saxagliptin hydrochloride
+prodcode	med_biguanide_DPP4	8116041000033114	Jentadueto 2.5mg/850mg tablets (Boehringer Ingelheim Ltd)	Linagliptin/ Metformin hydrochloride
+prodcode	med_biguanide_DPP4	8242841000033114	Komboglyze 2.5mg/1000mg tablets (AstraZeneca UK Ltd)	Metformin hydrochloride/ Saxagliptin hydrochloride
+prodcode	med_biguanide_DPP4	8242741000033116	Komboglyze 2.5mg/850mg tablets (AstraZeneca UK Ltd)	Metformin hydrochloride/ Saxagliptin hydrochloride

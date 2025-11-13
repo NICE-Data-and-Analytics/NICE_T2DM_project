@@ -1,0 +1,4 @@
+code_type	code_group	code	term
+medcode	risk_haem_med	813551000006113	Haemoglobin estimation
+medcode	risk_haem_med	411758010	Hb estimation
+medcode	risk_haem_med	257200015	Haemoglobin estimation NOS

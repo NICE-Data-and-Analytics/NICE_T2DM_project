@@ -1,0 +1,2 @@
+code_type	code_group	code	term
+ICD	comorb_blind_ICD	H36.0	Diabetic retinopathy

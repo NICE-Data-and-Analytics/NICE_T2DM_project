@@ -1,0 +1,286 @@
+code_type	code_group	code	term	census_16_group_2001	census_6_group_2001
+medcode	demo_ethnicity	158341000000117	British or mixed British - ethnic category 2001 census	1	1
+medcode	demo_ethnicity	1063981000000117	White British - ethnic category 2001 census	1	1
+medcode	demo_ethnicity	459726019	White British	1	1
+medcode	demo_ethnicity	141311000000112	Other White background - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	1968051000006116	White: English or Welsh or Scottish or Northern Irish or British - England and Wales ethnic category 2011 census	1	1
+medcode	demo_ethnicity	157271000000119	Indian or British Indian - ethnic category 2001 census	8	3
+medcode	demo_ethnicity	285925010	White	3	1
+medcode	demo_ethnicity	141391000000115	African - ethnic category 2001 census	13	4
+medcode	demo_ethnicity	141361000000114	Pakistani or British Pakistani - ethnic category 2001 census	9	3
+medcode	demo_ethnicity	141381000000117	Other Asian background - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	157281000000117	English - ethnic category 2001 census	1	1
+medcode	demo_ethnicity	141401000000117	Chinese - ethnic category 2001 census	15	5
+medcode	demo_ethnicity	141411000000115	Other - ethnic category 2001 census	16	5
+medcode	demo_ethnicity	459728018	White - ethnic group	3	1
+medcode	demo_ethnicity	154401000000118	Caribbean - ethnic category 2001 census	12	4
+medcode	demo_ethnicity	937541000006115	Bangladeshi or British Bangladeshi - ethnic category 2001 census	10	3
+medcode	demo_ethnicity	30683015	Black African	13	4
+medcode	demo_ethnicity	285954016	Indian	8	3
+medcode	demo_ethnicity	937391000006115	Other White European or European unspecified or Mixed European - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	141351000000111	Other Mixed background - ethnic category 2001 census	7	2
+medcode	demo_ethnicity	141301000000110	Irish - ethnic category 2001 census	2	1
+medcode	demo_ethnicity	1968081000006112	White: any other White background - England and Wales ethnic category 2011 census	3	1
+medcode	demo_ethnicity	937411000006115	Other White or White unspecified - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	141341000000113	White and Asian - ethnic category 2001 census	6	2
+medcode	demo_ethnicity	141331000000116	White and Black African - ethnic category 2001 census	5	2
+medcode	demo_ethnicity	141321000000118	White and Black Caribbean - ethnic category 2001 census	4	2
+medcode	demo_ethnicity	138201000000110	Polish - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	285955015	Pakistani	9	3
+medcode	demo_ethnicity	514611000006111	Black Caribbean	12	4
+medcode	demo_ethnicity	1968131000006112	Asian or Asian British: Indian - England and Wales ethnic category 2011 census	8	3
+medcode	demo_ethnicity	157311000000119	Black British - ethnic category 2001 census	14	4
+medcode	demo_ethnicity	156921000000110	Turkish - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	142901000000119	Any other group - ethnic category 2001 census	16	5
+medcode	demo_ethnicity	158351000000119	Other Black background - ethnic category 2001 census	14	4
+medcode	demo_ethnicity	138251000000111	Arab - ethnic category 2001 census	16	5
+medcode	demo_ethnicity	459784018	Other Asian ethnic group	11	3
+medcode	demo_ethnicity	459727011	White Irish	2	1
+medcode	demo_ethnicity	56590016	Chinese	15	5
+medcode	demo_ethnicity	1064041000000111	White Irish - ethnic category 2001 census	2	1
+medcode	demo_ethnicity	141591000000113	Somali - ethnic category 2001 census	13	4
+medcode	demo_ethnicity	136081000000111	Sri Lankan - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	1968181000006113	Black or African or Caribbean or Black British: African - England and Wales ethnic category 2011 census	13	4
+medcode	demo_ethnicity	1968141000006119	Asian or Asian British: Pakistani - England and Wales ethnic category 2011 census	9	3
+medcode	demo_ethnicity	937651000006117	Other Asian or Asian unspecified - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	196641000006110	Caucasian race	3	1
+medcode	demo_ethnicity	1968171000006110	Asian or Asian British: any other Asian background - England and Wales ethnic category 2011 census	11	3
+medcode	demo_ethnicity	158481000000115	Italian - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	141561000000119	British Asian - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	285956019	Bangladeshi	10	3
+medcode	demo_ethnicity	1968221000006116	Other ethnic group: any other ethnic group - England and Wales ethnic category 2011 census	16	5
+medcode	demo_ethnicity	937301000006110	Baltic States (Estonian or Latvian or Lithuanian) - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	141601000000119	Nigerian - ethnic category 2001 census	13	4
+medcode	demo_ethnicity	285932018	Black British	14	4
+medcode	demo_ethnicity	937871000006114	"Middle Eastern (excluding Israeli, Iranian and Arab) - ethnic category 2001 census"	16	5
+medcode	demo_ethnicity	142791000000111	Other mixed White - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	141641000000116	Filipino - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	138271000000119	South and Central American - ethnic category 2001 census	16	5
+medcode	demo_ethnicity	138261000000114	Iranian - ethnic category 2001 census	16	5
+medcode	demo_ethnicity	285989019	"Other ethnic, mixed origin"	7	2
+medcode	demo_ethnicity	285987017	Other European (NMO)	3	1
+medcode	demo_ethnicity	285977016	Other Asian (NMO)	11	3
+medcode	demo_ethnicity	285958018	Other ethnic non-mixed (NMO)	16	5
+medcode	demo_ethnicity	1968161000006115	Asian or Asian British: Chinese - England and Wales ethnic category 2011 census	15	5
+medcode	demo_ethnicity	1968121000006114	Mixed multiple ethnic groups: any other Mixed or multiple ethnic background - England and Wales ethnic category 2011 census	7	2
+medcode	demo_ethnicity	142861000000114	Latin American - ethnic category 2001 census	16	5
+medcode	demo_ethnicity	142841000000113	Kurdish - ethnic category 2001 census	16	5
+medcode	demo_ethnicity	142701000000116	Greek - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	937731000006115	Other Black or Black unspecified - ethnic category 2001 census	14	4
+medcode	demo_ethnicity	937511000006119	Other Mixed or Mixed unspecified - ethnic category 2001 census	7	2
+medcode	demo_ethnicity	158361000000116	Asian and Chinese - ethnic category 2001 census	7	2
+medcode	demo_ethnicity	141431000000111	Scottish - ethnic category 2001 census	1	1
+medcode	demo_ethnicity	138231000000116	Albanian - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	138191000000113	Gypsy/Romany - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	1158211000000111	Romanian	3	1
+medcode	demo_ethnicity	2537217015	Race: White	3	1
+medcode	demo_ethnicity	1780408016	Other white British ethnic group	1	1
+medcode	demo_ethnicity	460153018	Black Caribbean and White	4	2
+medcode	demo_ethnicity	459782019	Other black ethnic group	14	4
+medcode	demo_ethnicity	285991010	"Other ethnic, Asian/White orig"	6	2
+medcode	demo_ethnicity	1968211000006112	Other ethnic group: Arab - England and Wales ethnic category 2011 census	16	5
+medcode	demo_ethnicity	1968191000006111	Black or African or Caribbean or Black British: Caribbean - England and Wales ethnic category 2011 census	12	4
+medcode	demo_ethnicity	1968151000006117	Asian or Asian British: Bangladeshi - England and Wales ethnic category 2011 census	10	3
+medcode	demo_ethnicity	1968111000006118	Mixed multiple ethnic groups: White and Asian - England and Wales ethnic category 2011 census	6	2
+medcode	demo_ethnicity	1968101000006116	Mixed multiple ethnic groups: White and Black African - England and Wales ethnic category 2011 census	5	2
+medcode	demo_ethnicity	1968091000006110	Mixed multiple ethnic groups: White and Black Caribbean - England and Wales ethnic category 2011 census	4	2
+medcode	demo_ethnicity	2484671000000118	White: Irish - England and Wales ethnic category 2011 census	2	1
+medcode	demo_ethnicity	157291000000115	Black and White - ethnic category 2001 census	7	2
+medcode	demo_ethnicity	141621000000111	Vietnamese - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	141451000000116	Northern Irish - ethnic category 2001 census	1	1
+medcode	demo_ethnicity	460154012	Black African and White	5	2
+medcode	demo_ethnicity	285993013	"Other ethnic, other mixed orig"	7	2
+medcode	demo_ethnicity	285951012	"Black - other, mixed"	7	2
+medcode	demo_ethnicity	285931013	"Black, other, non-mixed origin"	14	4
+medcode	demo_ethnicity	1968201000006114	Black or African or Caribbean or Black British: other Black or African or Caribbean background - England and Wales ethnic category 2011 census	14	4
+medcode	demo_ethnicity	1572831000000110	Nepali	11	3
+medcode	demo_ethnicity	142811000000112	North African - ethnic category 2001 census	13	4
+medcode	demo_ethnicity	142721000000113	Turkish Cypriot - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	142711000000119	Greek Cypriot - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	141631000000113	Japanese - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	158371000000111	Mixed Black - ethnic category 2001 census	7	2
+medcode	demo_ethnicity	141551000000117	Tamil - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	141511000000116	Mixed Asian - ethnic category 2001 census	7	2
+medcode	demo_ethnicity	141491000000112	Chinese and White - ethnic category 2001 census	7	2
+medcode	demo_ethnicity	141441000000119	Welsh - ethnic category 2001 census	1	1
+medcode	demo_ethnicity	937311000006113	Commonwealth of (Russian) Independent States - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	1780407014	White Scottish	1	1
+medcode	demo_ethnicity	286020010	Asian - ethnic group	11	3
+medcode	demo_ethnicity	405071018	Turkish/Turkish Cypriot (NMO)	3	1
+medcode	demo_ethnicity	405068014	N African Arab/Iranian (NMO)	16	5
+medcode	demo_ethnicity	285988010	Other ethnic NEC (NMO)	16	5
+medcode	demo_ethnicity	142741000000118	Kosovan - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	141541000000115	East African Asian - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	141521000000110	Punjabi - ethnic category 2001 census	8	3
+medcode	demo_ethnicity	138181000000111	Traveller - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	196601000006113	Afro-Caribbean	12	4
+medcode	demo_ethnicity	285976013	Indian sub-continent (NMO)	8	3
+medcode	demo_ethnicity	285952017	Other Black - Black/White orig	7	2
+medcode	demo_ethnicity	937941000006111	Multi-ethnic islands: Mauritian or Seychellois or Maldivian or St Helena - ethnic category 2001 census	16	5
+medcode	demo_ethnicity	142851000000111	Moroccan - ethnic category 2001 census	16	5
+medcode	demo_ethnicity	141651000000118	Malaysian - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	141471000000113	Black and Asian - ethnic category 2001 census	7	2
+medcode	demo_ethnicity	141461000000118	Cornish - ethnic category 2001 census	1	1
+medcode	demo_ethnicity	550541000006110	Chinese	15	5
+medcode	demo_ethnicity	2487321000000116	White: other British - Scotland ethnic category 2011 census	1	1
+medcode	demo_ethnicity	456650013	Vietnamese	16	5
+medcode	demo_ethnicity	405070017	Greek/Greek Cypriot (NMO)	3	1
+medcode	demo_ethnicity	133078012	Portuguese	3	1
+medcode	demo_ethnicity	196651000006112	RACE: Chinese	15	5
+medcode	demo_ethnicity	1158301000000115	Bulgarian	3	1
+medcode	demo_ethnicity	142781000000114	Mixed Irish and other White - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	141661000000115	Cypriot (part not stated) - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	196681000006116	Mixed racial group	7	2
+medcode	demo_ethnicity	411596013	Turkish (NMO)	3	1
+medcode	demo_ethnicity	285992015	"Other ethnic, mixed white orig"	7	2
+medcode	demo_ethnicity	285978014	Irish (NMO)	2	1
+medcode	demo_ethnicity	1551471000000116	Slovak	3	1
+medcode	demo_ethnicity	937371000006116	Other republics which made up the former Yugoslavia - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	141571000000114	Caribbean Asian - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	781081000006113	Indian	8	3
+medcode	demo_ethnicity	285990011	"Other ethnic, Black/White orig"	4	2
+medcode	demo_ethnicity	196721000006111	RACE: Pakistani	9	3
+medcode	demo_ethnicity	285943014	Black - other African country	13	4
+medcode	demo_ethnicity	1968301000006118	Asian or Asian British: Indian - Northern Ireland ethnic category 2011 census	8	3
+medcode	demo_ethnicity	1968071000006114	White: Gypsy or Irish Traveller - England and Wales ethnic category 2011 census	3	1
+medcode	demo_ethnicity	138171000000114	Irish Traveller - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	405069018	E Afric Asian/Indo-Carib (NMO)	11	3
+medcode	demo_ethnicity	405065012	Black N African/Arab/Iranian	14	4
+medcode	demo_ethnicity	405064011	Black Caribbean/W.I./Guyana	12	4
+medcode	demo_ethnicity	286018012	South East Asian	11	3
+medcode	demo_ethnicity	285971015	Other African countries (NMO)	13	4
+medcode	demo_ethnicity	285959014	Brit. ethnic minor. spec.(NMO)	16	5
+medcode	demo_ethnicity	285953010	Other Black - Black/Asian orig	7	2
+medcode	demo_ethnicity	285949013	Black - other Asian	14	4
+medcode	demo_ethnicity	285930014	Black Caribbean	12	4
+medcode	demo_ethnicity	142831000000116	Israeli - ethnic category 2001 census	16	5
+medcode	demo_ethnicity	142761000000117	Croatian - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	157991000000110	Serbian - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	2615361000000115	Slovak Roma	3	1
+medcode	demo_ethnicity	459786016	Irish traveller	3	1
+medcode	demo_ethnicity	459730016	Black - ethnic group	14	4
+medcode	demo_ethnicity	411582019	Iranian (NMO)	16	5
+medcode	demo_ethnicity	196631000006117	RACE: Bangladeshi	10	3
+medcode	demo_ethnicity	285950013	Black Black - other	14	4
+medcode	demo_ethnicity	196621000006115	Arabs	16	5
+medcode	demo_ethnicity	196671000006119	Koreans	16	5
+medcode	demo_ethnicity	1160331000000119	Czech	3	1
+medcode	demo_ethnicity	1968461000006111	White: any other White ethnic group - Scotland ethnic category 2011 census	3	1
+medcode	demo_ethnicity	2487481000000113	White: Polish - Scotland ethnic category 2011 census	3	1
+medcode	demo_ethnicity	1968351000006119	Black or African or Caribbean or Black British: African - Northern Ireland ethnic category 2011 census	13	4
+medcode	demo_ethnicity	2486161000000112	White - Northern Ireland ethnic category 2011 census	3	1
+medcode	demo_ethnicity	523591000000116	Yemeni	16	5
+medcode	demo_ethnicity	157301000000116	Sinhalese - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	142751000000115	Bosnian - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	141531000000112	Kashmiri - ethnic category 2001 census	11	3
+medcode	demo_ethnicity	196701000006118	Oriental	11	3
+medcode	demo_ethnicity	6846371000006111	Caucasian	3	1
+medcode	demo_ethnicity	459729014	Mixed ethnic census group	7	2
+medcode	demo_ethnicity	411597016	Turkish Cypriot (NMO)	3	1
+medcode	demo_ethnicity	411595012	Greek Cypriot (NMO)	3	1
+medcode	demo_ethnicity	411594011	Greek (NMO)	3	1
+medcode	demo_ethnicity	411581014	North African Arab (NMO)	16	5
+medcode	demo_ethnicity	3029381000006114	Bloods	16	5
+medcode	demo_ethnicity	1968341000006116	Asian or Asian British: any other Asian background - Northern Ireland ethnic category 2011 census	11	3
+medcode	demo_ethnicity	196661000006114	Japanese	11	3
+medcode	demo_ethnicity	405067016	Caribbean I./W.I./Guyana (NMO)	12	4
+medcode	demo_ethnicity	285960016	Brit. ethnic minor. unsp (NMO)	16	5
+medcode	demo_ethnicity	850671000006119	Gypsies	3	1
+medcode	demo_ethnicity	2971841000006112	Bulgarian	3	1
+medcode	demo_ethnicity	1968311000006115	Asian or Asian British: Pakistani - Northern Ireland ethnic category 2011 census	9	3
+medcode	demo_ethnicity	1968281000006117	Mixed multiple ethnic groups: White and Asian - Northern Ireland ethnic category 2011 census	6	2
+medcode	demo_ethnicity	141481000000110	Black and Chinese - ethnic category 2001 census	7	2
+medcode	demo_ethnicity	514651000006112	Black East African Asian/Indo-Caribbean	14	4
+medcode	demo_ethnicity	286007012	New Zealand European	3	1
+medcode	demo_ethnicity	286006015	New Zealand ethnic groups	16	5
+medcode	demo_ethnicity	4740361000006111	"Other ethnic, Asian/White origin"	6	2
+medcode	demo_ethnicity	1968491000006115	"Asian or Asian Scottish or Asian British: Indian, Indian Scottish or Indian British - Scotland ethnic category 2011 census"	8	3
+medcode	demo_ethnicity	1968261000006110	Mixed multiple ethnic groups: White and Black Caribbean - Northern Ireland ethnic category 2011 census	4	2
+medcode	demo_ethnicity	285948017	Black Indian sub-continent	14	4
+medcode	demo_ethnicity	1968531000006115	"African: African, African Scottish or African British - Scotland ethnic category 2011 census"	13	4
+medcode	demo_ethnicity	453109012	Black West Indian	12	4
+medcode	demo_ethnicity	411573013	Black North African	13	4
+medcode	demo_ethnicity	1968541000006113	African: any other African - Scotland ethnic category 2011 census	13	4
+medcode	demo_ethnicity	1968521000006118	Asian or Asian Scottish or Asian British: any other Asian group - Scotland ethnic category 2011 census	11	3
+medcode	demo_ethnicity	1968481000006118	"Asian or Asian Scottish or Asian British: Pakistani, Pakistani Scottish or Pakistani British - Scotland ethnic category 2011 census"	9	3
+medcode	demo_ethnicity	1968271000006115	Mixed multiple ethnic groups: White and Black African - Northern Ireland ethnic category 2011 census	5	2
+medcode	demo_ethnicity	2615531000000117	Hungarian Roma	3	1
+medcode	demo_ethnicity	4740401000006118	"Other ethnic, other mixed origin"	7	2
+medcode	demo_ethnicity	250243013	Race: West indian	12	4
+medcode	demo_ethnicity	1968591000006116	Other ethnic group: any other ethnic group - Scotland ethnic category 2011 census	16	5
+medcode	demo_ethnicity	1968391000006113	Other ethnic group: any other ethnic group - Northern Ireland ethnic category 2011 census	16	5
+medcode	demo_ethnicity	1968371000006112	Black or African or Caribbean or Black British: other Black or African or Caribbean background - Northern Ireland ethnic category 2011 census	14	4
+medcode	demo_ethnicity	1968321000006111	Asian or Asian British: Bangladeshi - Northern Ireland ethnic category 2011 census	10	3
+medcode	demo_ethnicity	411583012	East African Asian (NMO)	11	3
+medcode	demo_ethnicity	411574019	Black Arab	14	4
+medcode	demo_ethnicity	501416013	Fijian	16	5
+medcode	demo_ethnicity	1968571000006117	Caribbean or Black: any other Black or Caribbean group - Scotland ethnic category 2011 census	14	4
+medcode	demo_ethnicity	1968561000006112	"Caribbean or Black: Black, Black Scottish or Black British - Scotland ethnic category 2011 census"	14	4
+medcode	demo_ethnicity	1968501000006111	"Asian or Asian Scottish or Asian British: Bangladeshi, Bangladeshi Scottish or Bangladeshi British - Scotland ethnic category 2011 census"	10	3
+medcode	demo_ethnicity	2487281000000112	White: Scottish - Scotland ethnic category 2011 census	1	1
+medcode	demo_ethnicity	1968291000006119	Mixed multiple ethnic groups: any other Mixed or multiple ethnic background - Northern Ireland ethnic category 2011 census	7	2
+medcode	demo_ethnicity	411576017	Black East African Asian	14	4
+medcode	demo_ethnicity	4740381000006118	"Other ethnic, mixed white origin"	7	2
+medcode	demo_ethnicity	1968581000006119	"Other ethnic group: Arab, Arab Scottish or Arab British - Scotland ethnic category 2011 census"	16	5
+medcode	demo_ethnicity	1968551000006110	"Caribbean or Black: Caribbean, Caribbean Scottish or Caribbean British - Scotland ethnic category 2011 census"	14	4
+medcode	demo_ethnicity	1968381000006110	Other ethnic group: Arab - Northern Ireland ethnic category 2011 census	16	5
+medcode	demo_ethnicity	1968361000006117	Black or African or Caribbean or Black British: Caribbean - Northern Ireland ethnic category 2011 census	12	4
+medcode	demo_ethnicity	1968331000006114	Asian or Asian British: Chinese - Northern Ireland ethnic category 2011 census	15	5
+medcode	demo_ethnicity	2615611000000112	Romanian Roma	3	1
+medcode	demo_ethnicity	196611000006111	Afro-Caucasian	5	2
+medcode	demo_ethnicity	453110019	Black Guyana	12	4
+medcode	demo_ethnicity	411578016	Caribbean Island (NMO)	12	4
+medcode	demo_ethnicity	286022019	New Zealand ethnic group NOS	16	5
+medcode	demo_ethnicity	1968471000006116	Mixed or multiple ethnic groups: any Mixed or multiple ethnic group - Scotland ethnic category 2011 census	7	2
+medcode	demo_ethnicity	142691000000116	Ulster Scots - ethnic category 2001 census	3	1
+medcode	demo_ethnicity	2645811000000115	Roma ethnic group	3	1
+medcode	demo_ethnicity	459731017	Black	14	4
+medcode	demo_ethnicity	411579012	West Indian (NMO)	12	4
+medcode	demo_ethnicity	411575018	Black Iranian	14	4
+medcode	demo_ethnicity	4740341000006112	"Other ethnic, Black/White origin"	4	2
+medcode	demo_ethnicity	1968511000006114	Asian or Asian Scottish or Asian British: Chinese - Scotland ethnic category 2011 census	15	5
+medcode	demo_ethnicity	411580010	Guyana (NMO)	12	4
+medcode	demo_ethnicity	411577014	Black Indo-Caribbean	14	4
+medcode	demo_ethnicity	2487361000000112	White: Irish - Scotland ethnic category 2011 census	2	1
+medcode	demo_ethnicity	2615571000000115	Polish Roma	3	1
+medcode	demo_ethnicity	411584018	Indo-Caribbean (NMO)	11	3
+medcode	demo_ethnicity	286012013	New Zealand Maori	16	5
+medcode	demo_ethnicity	2912851000006114	English	1	1
+medcode	demo_ethnicity	4740241000006117	British ethnic minority specified (NMO)	16	5
+medcode	demo_ethnicity	2615691000000115	Bulgarian Roma	3	1
+medcode	demo_ethnicity	286021014	Other New Zealand ethnic group	16	5
+medcode	demo_ethnicity	4740261000006118	British ethnic minority unspecified (NMO)	16	5
+medcode	demo_ethnicity	6853091000006117	European	3	1
+medcode	demo_ethnicity	286009010	Other European in New Zealand	16	5
+medcode	demo_ethnicity	507015012	Samoan	16	5
+medcode	demo_ethnicity	1968441000006112	White: Gypsy or Irish Traveller - Scotland ethnic category 2011 census	3	1
+medcode	demo_ethnicity	1968251000006113	Irish Traveller - Northern Ireland ethnic category 2011 census	3	1
+medcode	demo_ethnicity	2615461000000111	Czech Roma	3	1
+medcode	demo_ethnicity	7779801000006116	Roma	3	1
+medcode	demo_ethnicity	286008019	Pakeha	3	1
+medcode	demo_ethnicity	504723011	Tongan	16	5
+medcode	demo_ethnicity	2958771000006116	Poles	3	1
+medcode	demo_ethnicity	3637821000006117	Irani	16	5
+medcode	demo_ethnicity	286013015	Cook Island Maori	16	5
+medcode	demo_ethnicity	2944331000006113	Iraqi	16	5
+medcode	demo_ethnicity	2737641000006113	Welsh	1	1
+medcode	demo_ethnicity	14500771000006113	New Zealand Maori	16	5
+medcode	demo_ethnicity	7953251000006110	Ukrainian	3	1
+medcode	demo_ethnicity	3009521000006110	Italians	3	1
+medcode	demo_ethnicity	2722611000006114	Caucasian	3	1
+medcode	demo_ethnicity	7590171000006117	Punjabi	11	3
+medcode	demo_ethnicity	286015010	Tokelauan	16	5
+medcode	demo_ethnicity	286014014	Niuean	16	5
+medcode	demo_ethnicity	3748491000006113	Filipinos	11	3
+medcode	demo_ethnicity	3244711000006110	Somalis	13	4
+medcode	demo_ethnicity	2849971000006118	Indonesians	11	3
+medcode	demo_ethnicity	2521561000006117	Greeks	3	1
+medcode	demo_ethnicity	3885061000006111	Russians	3	1
+medcode	demo_ethnicity	3761031000006117	Atacamenos	16	5
+medcode	demo_ethnicity	3676561000006114	Brazilian Indians	16	5
+medcode	demo_ethnicity	3614451000006110	Austrians	3	1
+medcode	demo_ethnicity	3552211000006118	Hungarian	3	1
+medcode	demo_ethnicity	3548651000006118	Indians (Hindi-speaking)	8	3
+medcode	demo_ethnicity	2956271000006111	Spaniards	3	1
+medcode	demo_ethnicity	2622351000006111	Germans	3	1
+medcode	demo_ethnicity	2559861000006115	Senegalese	13	4

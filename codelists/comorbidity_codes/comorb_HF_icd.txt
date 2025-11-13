@@ -1,0 +1,6 @@
+code_type	code_group	code	term
+ICD	comorb_HF_ICD	I50	Heart failure
+ICD	comorb_HF_ICD	I50.0	Congestive heart failure
+ICD	comorb_HF_ICD	I50.1	Left ventricular failure
+ICD	comorb_HF_ICD	I50.9	"Heart failure, unspecified"
+ICD	comorb_HF_ICD	I11.0	Hypertensive heart disease with (congestive) heart failure

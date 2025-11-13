@@ -1,0 +1,15 @@
+code_type	code_group	code	term
+medcode	risk_wbc_med	98461000006116	Total white cell count
+medcode	risk_wbc_med	1485559011	Total white blood count
+medcode	risk_wbc_med	60281000006110	White blood count
+medcode	risk_wbc_med	60301000006114	White cell count
+medcode	risk_wbc_med	257377016	Total white cell count NOS
+medcode	risk_wbc_med	2510531000006114	White blood cell count
+medcode	risk_wbc_med	1485560018	Total white blood count
+medcode	risk_wbc_med	11927091000006115	Total white blood count
+medcode	risk_wbc_med	2510561000006117	WBC - White blood cell count
+medcode	risk_wbc_med	2510551000006119	WCC - White blood cell count
+medcode	risk_wbc_med	12625771000006111	White blood cell count in blood
+medcode	risk_wbc_med	6274581000006119	White blood cell number - finding
+medcode	risk_wbc_med	6523851000006117	Total white blood cell count
+medcode	risk_wbc_med	2510571000006112	White blood cell count - observation

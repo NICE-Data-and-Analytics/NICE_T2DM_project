@@ -1,0 +1,22 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_DPP4	4133241000033117	Sitagliptin 100mg tablets	Sitagliptin
+prodcode	med_DPP4	6444041000033117	Linagliptin 5mg tablets	Linagliptin
+prodcode	med_DPP4	8959441000033117	Alogliptin 25mg tablets	Alogliptin benzoate
+prodcode	med_DPP4	7687241000033110	Sitagliptin 50mg tablets	Sitagliptin
+prodcode	med_DPP4	5316641000033118	Saxagliptin 5mg tablets	Saxagliptin hydrochloride
+prodcode	med_DPP4	8959341000033111	Alogliptin 12.5mg tablets	Alogliptin benzoate
+prodcode	med_DPP4	4269741000033117	Vildagliptin 50mg tablets	Vildagliptin
+prodcode	med_DPP4	7687441000033111	Sitagliptin 25mg tablets	Sitagliptin
+prodcode	med_DPP4	6123241000033112	Saxagliptin 2.5mg tablets	Saxagliptin hydrochloride
+prodcode	med_DPP4	8959241000033118	Alogliptin 6.25mg tablets	Alogliptin benzoate
+prodcode	med_DPP4	4133341000033110	Januvia 100mg tablets (Merck Sharp & Dohme (UK) Ltd)	Sitagliptin
+prodcode	med_DPP4	6444141000033118	Trajenta 5mg tablets (Boehringer Ingelheim Ltd)	Linagliptin
+prodcode	med_DPP4	8959741000033112	Vipidia 25mg tablets (Takeda UK Ltd)	Alogliptin benzoate
+prodcode	med_DPP4	8959641000033115	Vipidia 12.5mg tablets (Takeda UK Ltd)	Alogliptin benzoate
+prodcode	med_DPP4	7687341000033117	Januvia 50mg tablets (Merck Sharp & Dohme (UK) Ltd)	Sitagliptin
+prodcode	med_DPP4	5316741000033110	Onglyza 5mg tablets (AstraZeneca UK Ltd)	Saxagliptin hydrochloride
+prodcode	med_DPP4	4269941000033119	Galvus 50mg tablets (Novartis Pharmaceuticals UK Ltd)	Vildagliptin
+prodcode	med_DPP4	8959541000033116	Vipidia 6.25mg tablets (Takeda UK Ltd)	Alogliptin benzoate
+prodcode	med_DPP4	7687541000033112	Januvia 25mg tablets (Merck Sharp & Dohme (UK) Ltd)	Sitagliptin
+prodcode	med_DPP4	6123341000033119	Onglyza 2.5mg tablets (AstraZeneca UK Ltd)	Saxagliptin hydrochloride
+prodcode	med_DPP4	14121441000033118	Sitagliptin 100mg/5ml oral solution sugar free	Sitagliptin hydrochloride

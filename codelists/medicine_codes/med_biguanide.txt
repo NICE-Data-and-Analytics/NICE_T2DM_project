@@ -1,0 +1,18 @@
+code_type	code_group	code	term	drug_substance
+prodcode	med_biguanide	896941000033112	Metformin 500mg tablets	Metformin hydrochloride
+prodcode	med_biguanide	897041000033113	Metformin 850mg tablets	Metformin hydrochloride
+prodcode	med_biguanide	644941000033117	Glucophage 500mg tablets (Merck Serono Ltd)	Metformin hydrochloride
+prodcode	med_biguanide	3982341000033110	Metformin 500mg/5ml oral solution sugar free	Metformin hydrochloride
+prodcode	med_biguanide	645041000033117	Glucophage 850mg tablets (Merck Serono Ltd)	Metformin hydrochloride
+prodcode	med_biguanide	5007641000033119	Metformin 500mg oral powder sachets sugar free	Metformin hydrochloride
+prodcode	med_biguanide	5007741000033111	Metformin 1g oral powder sachets sugar free	Metformin hydrochloride
+prodcode	med_biguanide	13803041000033110	Metformin 1g tablets	Metformin hydrochloride
+prodcode	med_biguanide	2620241000033119	Metformin 500mg/5ml oral suspension	Metformin hydrochloride
+prodcode	med_biguanide	11781341000033117	Metformin 1g/5ml oral solution sugar free	Metformin hydrochloride
+prodcode	med_biguanide	5997041000033115	Metformin 500mg/5ml oral solution	Metformin hydrochloride
+prodcode	med_biguanide	3890941000033116	Metformin Hydrochloride  Sugar free suspension  500 mg/5 ml	Metformin hydrochloride
+prodcode	med_biguanide	5007841000033118	Glucophage 500mg oral powder sachets (Merck Serono Ltd)	Metformin hydrochloride
+prodcode	med_biguanide	5007941000033114	Glucophage 1000mg oral powder sachets (Merck Serono Ltd)	Metformin hydrochloride
+prodcode	med_biguanide	11781441000033111	Metformin 850mg/5ml oral solution sugar free	Metformin hydrochloride
+prodcode	med_biguanide	3982441000033116	Metsol 500mg/5ml oral solution (Kappin Ltd)	Metformin hydrochloride
+prodcode	med_biguanide	13828541000033119	Axpinet 500mg tablets (GlucoRx Ltd)	Metformin hydrochloride

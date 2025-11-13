@@ -1,0 +1,6 @@
+code_type	code_group	code	term
+ICD	comorb_angina_ICD	I20	Angina pectoris
+ICD	comorb_angina_ICD	I20.0	Unstable angina
+ICD	comorb_angina_ICD	I20.1	Angina pectoris with documented spasm
+ICD	comorb_angina_ICD	I20.8	Other forms of angina pectoris
+ICD	comorb_angina_ICD	I20.9	"Angina pectoris, unspecified"
